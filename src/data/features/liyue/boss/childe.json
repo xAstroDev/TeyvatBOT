@@ -1,0 +1,35 @@
+{
+  "format": 2,
+  "description": {
+    "en": "Tartaglia, the Eleventh of the Eleven Fatui Harbingers. Can be fought once a week for special rewards."
+  },
+  "enabled": true,
+  "cluster": "off",
+  "respawn": "boss",
+  "name": {
+    "en": "Childe",
+    "pt": "Childe"
+  },
+  "icons": {
+    "filter": "childe",
+    "base": {
+      "marker": true
+    },
+    "done": {
+      "marker": true
+    }
+  },
+  "data": [
+    {
+      "coordinates": [-52.25755, 29.5807],
+      "id": "703DB28EF588D2FD59E4672BAA5130B58E23AEF3",
+      "importIds": {
+        "gm_legacy": ["liyueChilde/1"]
+      },
+      "popupAttribution": "MasterEric",
+      "popupTitle": {
+        "en": "Childe"
+      }
+    }
+  ]
+}

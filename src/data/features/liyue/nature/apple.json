@@ -1,0 +1,95 @@
+{
+  "format": 2,
+  "name": {
+    "en": "Apple",
+    "pt": "Maçã",
+    "ru": "Яблоко"
+  },
+  "description": {
+    "en": "Crisp and fragrant. Restore 300 HP or use in Recipes."
+  },
+  "enabled": true,
+  "cluster": "on",
+  "respawn": "none",
+  "icons": {
+    "filter": "apple",
+    "base": {
+      "marker": true
+    },
+    "done": {
+      "marker": true
+    }
+  },
+  "data": [
+    {
+      "coordinates": [-24.41593, 23.97862],
+      "id": "FDD01E47A8399CC343F2A6DE343375AEB6944FE8",
+      "importIds": {
+        "yuanshen": ["110_1"]
+      },
+      "popupTitle": {
+        "zh": "苹果-璃月"
+      },
+      "popupContent": {
+        "zh": "这里有两个苹果"
+      },
+      "popupAttribution": "Yuanshen.site"
+    },
+    {
+      "coordinates": [-24.41593, 24.00206],
+      "id": "62A96A31B598EBCC82E16C41E8CBD1D31CF5DAF8",
+      "importIds": {
+        "yuanshen": ["110_2"]
+      },
+      "popupTitle": {
+        "zh": "苹果-璃月"
+      },
+      "popupContent": {
+        "zh": "这里有三个苹果"
+      },
+      "popupAttribution": "Yuanshen.site"
+    },
+    {
+      "coordinates": [-46.12212, 21.40001],
+      "id": "FB20453A0270BFB7D2DB251DC1BCF8C5921DDD55",
+      "importIds": {
+        "yuanshen": ["110_3"]
+      },
+      "popupTitle": {
+        "zh": "苹果-璃月"
+      },
+      "popupContent": {
+        "zh": "这里有三个苹果"
+      },
+      "popupAttribution": "Yuanshen.site"
+    },
+    {
+      "coordinates": [-36.14688, 28.97552],
+      "id": "43F5C6D6B16F6D14547C0AD814E6F811BE8897D0",
+      "importIds": {
+        "yuanshen": ["110_4"]
+      },
+      "popupTitle": {
+        "zh": "苹果-璃月"
+      },
+      "popupContent": {
+        "zh": "树上有三个苹果"
+      },
+      "popupAttribution": "Yuanshen.site"
+    },
+    {
+      "coordinates": [-36.13776, 28.94558],
+      "id": "BE8DF48BB356467EEDBD6F28102057EC9F16EB79",
+      "importIds": {
+        "yuanshen": ["110_5"]
+      },
+      "popupTitle": {
+        "zh": "苹果-璃月"
+      },
+      "popupContent": {
+        "zh": "树下有三个苹果"
+      },
+      "popupAttribution": "Yuanshen.site"
+    }
+  ]
+}

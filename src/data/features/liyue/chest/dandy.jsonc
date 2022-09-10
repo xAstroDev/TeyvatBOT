@@ -1,0 +1,72 @@
+{
+  "format": 2,
+  "name": {
+    "en": "Dandy",
+    "pt": "Dandy"
+  },
+  "description": {
+    "en": "An adventurer who challenges travellers to races for rewards."
+  },
+  "enabled": true,
+  "cluster": "off",
+  "respawn": "none",
+  "icons": {
+    "filter": "dandy",
+    "base": {
+      "marker": true
+    },
+    "done": {
+      "marker": true
+    }
+  },
+  "data": [
+    {
+      "coordinates": [-36.475, 34.5875],
+      "id": "004F393683BD3B038B1ED4ED2839D08A6F825A0A",
+      "importIds": {
+        "gm_legacy": ["liyueDandy/4"],
+        "yuanshen": ["27_135"]
+      },
+      "popupTitle": {
+        "zh": "璃月宝箱"
+      },
+      "popupContent": {
+        "zh": "这是一个璃月宝箱"
+      },
+      "popupMedia": "",
+      "popupAttribution": "Unknown"
+    },
+    {
+      "coordinates": [-22.52188, 25.76719],
+      "id": "1828F5406590A43989D39F0AC2BCCB0F2FAECFE4",
+      "importIds": {
+        "gm_legacy": ["liyueDandy/1"],
+        "yuanshen": ["27_26"]
+      },
+      "popupTitle": {
+        "zh": "璃月宝箱"
+      },
+      "popupContent": {
+        "zh": "这是一个璃月宝箱"
+      },
+      "popupMedia": "liyue/dandy/1",
+      "popupAttribution": "Unknown"
+    },
+    {
+      "coordinates": [-27.74062, 18.72031],
+      "id": "944BCDD82648D45B6E2C37C7561C10897E64A98E",
+      "importIds": {
+        "gm_legacy": ["liyueDandy/3"],
+        "yuanshen": ["27_461"]
+      },
+      "popupTitle": {
+        "zh": "璃月宝箱"
+      },
+      "popupContent": {
+        "zh": "这是一个璃月宝箱"
+      },
+      "popupMedia": "",
+      "popupAttribution": "Unknown"
+    }
+  ]
+}

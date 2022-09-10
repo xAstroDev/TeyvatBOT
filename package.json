@@ -1,0 +1,98 @@
+{
+  "name": "genshin-map",
+  "version": "0.10.8",
+  "license": "GPL-3.0",
+  "homepage": "https://genshinmap.github.io/",
+  "bugs": {
+    "url": "https://github.com/GenshinMap/genshinmap.github.io/issues"
+  },
+  "scripts": {
+    "preinstall": "yarn policies set-version 1.22.10",
+    "start:dev": "npx react-app-rewired start",
+    "start:prod": "npx serve -s build",
+    "build": "npx react-app-rewired build",
+    "predeploy": "npm run build",
+    "test": "echo \"This test is blank. Do not remove it, as it is required by TravisCI.\""
+  },
+  "eslintConfig": {
+    "extends": [
+      "react-app",
+      "react-app/jest"
+    ]
+  },
+  "browserslist": {
+    "production": [
+      ">0.2%",
+      "not dead",
+      "not op_mini all"
+    ],
+    "development": [
+      "last 1 chrome version",
+      "last 1 firefox version",
+      "last 1 safari version"
+    ]
+  },
+  "dependencies": {
+    "@material-ui/core": "^4.11.2",
+    "@material-ui/icons": "^4.11.2",
+    "@react-leaflet/core": "https://gitpkg.now.sh/MasterEric/react-leaflet/packages/core?dist",
+    "@reduxjs/toolkit": "^1.4.0",
+    "axios": "^0.21.0",
+    "clipboard-polyfill": "^3.0.1",
+    "clsx": "^1.1.1",
+    "googleapis": "^67.0.0",
+    "joi": "^17.3.0",
+    "leaflet": "github:MasterEric/Leaflet#dist",
+    "leaflet-draw": "^1.0.4",
+    "leaflet-editable": "^1.2.0",
+    "leaflet-textpath": "^1.2.3",
+    "leaflet.markercluster": "github:MasterEric/Leaflet.markercluster#dist",
+    "lodash": "^4.17.20",
+    "new-github-issue-url": "^0.2.1",
+    "object-hash": "^2.0.3",
+    "react": "^17.0.1",
+    "react-dom": "^17.0.1",
+    "react-dropzone": "^11.2.4",
+    "react-helmet-async": "^1.0.7",
+    "react-lazy-load-image-component": "^1.5.0",
+    "react-leaflet": "https://gitpkg.now.sh/MasterEric/react-leaflet/packages/react-leaflet?dist",
+    "react-leaflet-markercluster": "^3.0.0-rc1",
+    "react-leaflet-textpath": "^2.0.0",
+    "react-localization": "^1.0.15",
+    "react-redux": "^7.2.2",
+    "react-scripts": "4.0.0",
+    "react-swipeable-views": "^0.13.9",
+    "react-tooltip": "^4.2.10",
+    "react-world-flags": "^1.4.0",
+    "redux": "^4.0.5",
+    "sanitize-html": "^2.1.2",
+    "sourcemapped-stacktrace": "^1.1.11"
+  },
+  "devDependencies": {
+    "@babel/eslint-parser": "^7.12.1",
+    "@babel/eslint-plugin": "^7.12.1",
+    "@babel/plugin-proposal-optional-chaining": "^7.12.1",
+    "@babel/preset-react": "^7.12.1",
+    "babel-plugin-root-import": "^6.6.0",
+    "customize-cra": "^1.0.0",
+    "eslint": "^7.11.0",
+    "eslint-config-airbnb": "^18.2.0",
+    "eslint-config-prettier": "^6.14.0",
+    "eslint-import-resolver-babel-plugin-root-import": "^1.1.1",
+    "eslint-plugin-import": "^2.21.2",
+    "eslint-plugin-jsx-a11y": "^6.3.0",
+    "eslint-plugin-mui-unused-classes": "^1.0.3",
+    "eslint-plugin-prettier": "^3.1.4",
+    "eslint-plugin-react": "^7.20.0",
+    "eslint-plugin-react-hooks": "^4.0.0",
+    "jsonc-loader": "^0.1.1",
+    "prettier": "^2.1.2",
+    "react-app-rewired": "^2.1.8",
+    "react-dev-utils": "^11.0.1",
+    "serve": "^11.3.2"
+  },
+  "resolutions": {
+    "@react-leaflet/core": "https://gitpkg.now.sh/MasterEric/react-leaflet/packages/core?dist",
+    "react-leaflet": "https://gitpkg.now.sh/MasterEric/react-leaflet/packages/react-leaflet?dist"
+  }
+}

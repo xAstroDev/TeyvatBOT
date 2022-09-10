@@ -1,0 +1,25 @@
+{
+  "format": 2,
+  "description": {
+    "en": "A solid wooden chest framed with gold. Contains helpful rewards.",
+    "ru": "Прочный деревянный сундук обрамлённый золотом. Содержит полезные награды."
+  },
+  "name": {
+    "en": "Precious Chest",
+    "ru": "Драгоценный сундук",
+    "pt": "Baú Precioso"
+  },
+  "enabled": false,
+  "cluster": "variable",
+  "respawn": "none",
+  "icons": {
+    "filter": "precious-chest",
+    "base": {
+      "marker": true
+    },
+    "done": {
+      "marker": true
+    }
+  },
+  "data": []
+}

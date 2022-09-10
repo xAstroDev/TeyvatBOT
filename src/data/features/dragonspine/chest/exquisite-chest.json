@@ -1,0 +1,25 @@
+{
+  "format": 2,
+  "name": {
+    "en": "Exquisite Chest",
+    "ru": "Богатый сундук",
+    "pt": "Baú Sofisticado"
+  },
+  "description": {
+    "en": "A solid wooden chest held together with iron. Contains useful rewards.",
+    "ru": "Крепкий сундук из дерева скреплённый железом. Содержит полезные награды."
+  },
+  "enabled": false,
+  "cluster": "variable",
+  "respawn": "none",
+  "icons": {
+    "filter": "exquisite-chest",
+    "base": {
+      "marker": true
+    },
+    "done": {
+      "marker": true
+    }
+  },
+  "data": []
+}

@@ -1,0 +1,145 @@
+{
+  "format": 2,
+  "name": {
+    "en": "Challenge and Time Trial",
+    "ru": "Вызов и испытание на время",
+    "pt": "Desafios contra o Tempo"
+  },
+  "description": {
+    "en": "Complete a race or challenge, or defeat a group of enemies, to receive a reward.",
+    "ru": "Завершите соревнование или вызов, или справьтесь с группой врагов для получения награды."
+  },
+  "enabled": true,
+  "cluster": "on",
+  "respawn": "none",
+  "icons": {
+    "filter": "challenge",
+    "base": {
+      "marker": true
+    },
+    "done": {
+      "marker": true
+    }
+  },
+  "data": [
+    {
+      "coordinates": [-18.8662, 32.72752],
+      "id": "E1F8FAB9B06A1CDE700610E828A097D137D80F8C",
+      "importIds": {
+        "gm_legacy": ["mondstadtChallenge/107"],
+        "yuanshen": ["26_107"]
+      },
+      "popupTitle": {
+        "zh": "蒙德宝箱"
+      },
+      "popupContent": {
+        "zh": "这是一个蒙德宝箱"
+      },
+      "popupMedia": "mondstadt/challenge/26_107",
+      "popupAttribution": "Yuanshen.site"
+    },
+    {
+      "coordinates": [-17.2097, 35.64284],
+      "id": "1777131101A58504F40AB7006AAAFCF5C7CB1E97",
+      "importIds": {
+        "gm_legacy": ["mondstadtChallenge/155"],
+        "yuanshen": ["26_155"]
+      },
+      "popupTitle": {
+        "zh": "蒙德宝箱"
+      },
+      "popupContent": {
+        "zh": "挑战宝箱"
+      },
+      "popupMedia": "mondstadt/challenge/26_155",
+      "popupAttribution": "Yuanshen.site"
+    },
+    {
+      "coordinates": [-13.48671, 28.28672],
+      "id": "429C56794B3C26AFF44AA59AF3E53D283C1F574F",
+      "importIds": {
+        "gm_legacy": ["mondstadtChallenge/19"],
+        "yuanshen": ["26_19"]
+      },
+      "popupAttribution": "Yuanshen.site",
+      "popupMedia": "mondstadt/challenge/26_19",
+      "popupTitle": {
+        "zh": "蒙德宝箱"
+      },
+      "popupContent": {
+        "zh": "这是一个完成限时击杀挑战出现的【精致宝箱】"
+      }
+    },
+    {
+      "coordinates": [-16.35853, 33.18917],
+      "id": "FD2641629CAE7CE88920467699F852CAE9085433",
+      "importIds": {
+        "gm_legacy": ["mondstadtChallenge/96"],
+        "yuanshen": ["26_96"]
+      },
+      "popupTitle": {
+        "zh": "蒙德宝箱"
+      },
+      "popupContent": {
+        "zh": "这是一个蒙德宝箱"
+      },
+      "popupMedia": "mondstadt/challenge/26_96",
+      "popupAttribution": "Yuanshen.site"
+    },
+    {
+      "coordinates": [-14.03237, 47.90547],
+      "id": "EB7AD15054C46318EBB5BB0F179E6A3DA0165835",
+      "importIds": {
+        "gm_legacy": ["mondstadtCommonChest/341"],
+        "yuanshen": ["26_341"],
+        "gm_msfv2": ["35E3B3075840940DA9439340FB5D8D5B06209077"]
+      },
+      "popupAttribution": "specklet",
+      "popupTitle": {
+        "zh": "蒙德宝箱"
+      },
+      "popupContent": {
+        "en": "Previously a common chest in beta, this is now a Challenge pedestal",
+        "zh": "这是一个蒙德宝箱"
+      },
+      "popupMedia": "mondstadt/challenge/EB7AD15"
+    },
+    {
+      "coordinates": [-13.43854, 48.62305],
+      "id": "3DA69058F51F4C68A2D37D7EA952818DE0B62853",
+      "importIds": {
+        "gm_legacy": ["mondstadtCommonChest/339"],
+        "yuanshen": ["26_339"],
+        "gm_msfv2": ["2B798F23679F241D84210B120CCD41137D595017"]
+      },
+      "popupAttribution": "specklet",
+      "popupTitle": {
+        "en": "339",
+        "zh": "限时挑战"
+      },
+      "popupContent": {
+        "en": "Previously a common chest in beta, this is now a Challenge pedestal",
+        "zh": "这是一个完成限时挑战出现的【精致宝箱】"
+      },
+      "popupMedia": "mondstadt/challenge/3DA6905"
+    },
+    {
+      "coordinates": [-12.65032, 48.69716],
+      "id": "A0A12CE199DEA3B62E1F3CCCA5A67BE851C4ED1A",
+      "importIds": {
+        "gm_legacy": ["mondstadtCommonChest/330"],
+        "yuanshen": ["26_330"],
+        "gm_msfv2": ["725EABEB5BB61BF50319B68A9950CD474781FA9C"]
+      },
+      "popupAttribution": "specklet",
+      "popupTitle": {
+        "zh": "蒙德宝箱"
+      },
+      "popupContent": {
+        "en": "Previously a common chest in beta, this is now a Challenge pedestal",
+        "zh": "这是一个飞行挑战获得的【精致宝箱】"
+      },
+      "popupMedia": "mondstadt/challenge/A0A12CE"
+    }
+  ]
+}

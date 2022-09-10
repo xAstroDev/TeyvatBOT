@@ -1,0 +1,5237 @@
+{
+  "format": 2,
+  "name": {
+    "en": "Exquisite Chest",
+    "ru": "Богатый сундук",
+    "pt": "Baú Sofisticado"
+  },
+  "description": {
+    "en": "A solid wooden chest held together with iron. Contains useful rewards.",
+    "ru": "Крепкий сундук из дерева скреплённый железом. Содержит полезные награды."
+  },
+  "enabled": true,
+  "cluster": "variable",
+  "respawn": "none",
+  "icons": {
+    "filter": "exquisite-chest",
+    "base": {
+      "marker": true
+    },
+    "done": {
+      "marker": true
+    }
+  },
+  "data": [
+    {
+      "coordinates": [-32.65859, 20.26328],
+      "id": "34CC8D4813201CDB2DC04904E81E2985455F0F3B",
+      "importIds": {
+        "gm_legacy": ["liyueExquisiteChest/2001"],
+        "yuanshen": ["27_1157"]
+      },
+      "popupAttribution": "Unknown",
+      "popupMedia": "liyue/exquisite-chest/2001"
+    },
+    {
+      "coordinates": [-29.89687, 32.9],
+      "id": "C4BAD35C58762E40E6C12C1438940383F31D9682",
+      "importIds": {
+        "gm_legacy": ["liyueExquisiteChest/1"],
+        "yuanshen": ["27_1"]
+      },
+      "popupTitle": {
+        "zh": "璃月宝箱"
+      },
+      "popupContent": {
+        "zh": "这是一个璃月宝箱"
+      },
+      "popupMedia": "liyue/exquisite-chest/27_1",
+      "popupAttribution": "Unknown"
+    },
+    {
+      "coordinates": [-30.08896, 18.35405],
+      "id": "DF7AAC53F62114DFAAF5F1533B5F83ED4B613AD7",
+      "importIds": {
+        "gm_legacy": ["liyueExquisiteChest/1011"],
+        "yuanshen": ["27_1011"]
+      },
+      "popupTitle": {
+        "zh": "璃月宝箱"
+      },
+      "popupContent": {
+        "zh": "这是一个璃月宝箱"
+      },
+      "popupMedia": "liyue/exquisite-chest/27_1011",
+      "popupAttribution": "Unknown"
+    },
+    {
+      "coordinates": [-29.70635, 18.82657],
+      "id": "3601EC30BEE8B320496E00CDCB420F41C6FC1CF7",
+      "importIds": {
+        "gm_legacy": ["liyueExquisiteChest/1013"],
+        "yuanshen": ["27_1013"]
+      },
+      "popupTitle": {
+        "zh": "璃月宝箱"
+      },
+      "popupContent": {
+        "zh": "这是一个璃月宝箱"
+      },
+      "popupMedia": "liyue/exquisite-chest/27_1013",
+      "popupAttribution": "Unknown"
+    },
+    {
+      "coordinates": [-35.02778, 25.50445],
+      "id": "C60B77B405F094E55C36E5CE3C7C368E8D242097",
+      "importIds": {
+        "gm_legacy": ["liyueExquisiteChest/1021"],
+        "yuanshen": ["27_1021"]
+      },
+      "popupTitle": {
+        "zh": "璃月宝箱"
+      },
+      "popupContent": {
+        "zh": "这是一个璃月宝箱"
+      },
+      "popupMedia": "liyue/exquisite-chest/27_1021",
+      "popupAttribution": "Unknown"
+    },
+    {
+      "coordinates": [-28.67175, 22.74348],
+      "id": "B3DFF5132683AB8F19534F0951C3EDE5FE270EDC",
+      "importIds": {
+        "gm_legacy": ["liyueExquisiteChest/1025"],
+        "yuanshen": ["27_1025"]
+      },
+      "popupTitle": {
+        "zh": "璃月宝箱"
+      },
+      "popupContent": {
+        "zh": "这是一个璃月宝箱"
+      },
+      "popupMedia": "liyue/exquisite-chest/27_1025",
+      "popupAttribution": "Unknown"
+    },
+    {
+      "coordinates": [-48.39967, 27.77727],
+      "id": "030CDD0459C728E152FD4070A2607C34C0A5292B",
+      "importIds": {
+        "gm_legacy": ["liyueExquisiteChest/1030"],
+        "yuanshen": ["27_1030"]
+      },
+      "popupTitle": {
+        "zh": "璃月宝箱"
+      },
+      "popupContent": {
+        "zh": "这是一个璃月宝箱"
+      },
+      "popupMedia": "liyue/exquisite-chest/27_1030",
+      "popupAttribution": "Unknown"
+    },
+    {
+      "coordinates": [-33.97597, 25.16713],
+      "id": "9530292A9950BA88E5C955C5E4C2DA69D384E470",
+      "importIds": {
+        "gm_legacy": ["liyueExquisiteChest/1042"],
+        "yuanshen": ["27_1042"]
+      },
+      "popupTitle": {
+        "zh": "璃月宝箱"
+      },
+      "popupContent": {
+        "zh": "这是一个璃月宝箱"
+      },
+      "popupMedia": "liyue/exquisite-chest/27_1042",
+      "popupAttribution": "Unknown"
+    },
+    {
+      "coordinates": [-38.69615, 22.42568],
+      "id": "ED1189BB5AB4F80B05703EE5A44CF6D6449FD71F",
+      "importIds": {
+        "gm_legacy": ["liyueExquisiteChest/1047"],
+        "yuanshen": ["27_1047"]
+      },
+      "popupTitle": {
+        "zh": "璃月宝箱"
+      },
+      "popupContent": {
+        "zh": "这是一个璃月宝箱"
+      },
+      "popupMedia": "liyue/exquisite-chest/27_1047",
+      "popupAttribution": "Unknown"
+    },
+    {
+      "coordinates": [-39.06705, 23.39417],
+      "id": "B84AE6AE16A728C1DB99CDE4BA3F7AC92F9CE8D0",
+      "importIds": {
+        "gm_legacy": ["liyueExquisiteChest/1048"],
+        "yuanshen": ["27_1048"]
+      },
+      "popupTitle": {
+        "zh": "璃月宝箱"
+      },
+      "popupContent": {
+        "zh": "这是一个璃月宝箱"
+      },
+      "popupMedia": "liyue/exquisite-chest/27_1048",
+      "popupAttribution": "Unknown"
+    },
+    {
+      "coordinates": [-38.59074, 24.23769],
+      "id": "FAC0395ABE499D8824451C0678A5706F0A7544F3",
+      "importIds": {
+        "gm_legacy": ["liyueExquisiteChest/1051"],
+        "yuanshen": ["27_1051"]
+      },
+      "popupTitle": {
+        "zh": "璃月宝箱"
+      },
+      "popupContent": {
+        "zh": "这是一个璃月宝箱"
+      },
+      "popupMedia": "liyue/exquisite-chest/27_1051",
+      "popupAttribution": "Unknown"
+    },
+    {
+      "coordinates": [-39.4809, 23.76516],
+      "id": "E79EAD595B21414388D9768B7807E78995F3B50D",
+      "importIds": {
+        "gm_legacy": ["liyueExquisiteChest/1052"],
+        "yuanshen": ["27_1052"]
+      },
+      "popupTitle": {
+        "zh": "璃月宝箱"
+      },
+      "popupContent": {
+        "zh": "这是一个璃月宝箱"
+      },
+      "popupMedia": "liyue/exquisite-chest/27_1052",
+      "popupAttribution": "Unknown"
+    },
+    {
+      "coordinates": [-39.3911, 22.92164],
+      "id": "CE2E78F2201F07A7A57232C2657678E6EB737BAB",
+      "importIds": {
+        "gm_legacy": ["liyueExquisiteChest/1053"],
+        "yuanshen": ["27_1053"]
+      },
+      "popupTitle": {
+        "zh": "璃月宝箱"
+      },
+      "popupContent": {
+        "zh": "这是一个璃月宝箱"
+      },
+      "popupMedia": "liyue/exquisite-chest/27_1053",
+      "popupAttribution": "Unknown"
+    },
+    {
+      "coordinates": [-41.44861, 20.43404],
+      "id": "62B6CE766E908A549EF7717D9DD97D61F9E441EF",
+      "importIds": {
+        "gm_legacy": ["liyueExquisiteChest/1054"],
+        "yuanshen": ["27_1054"]
+      },
+      "popupTitle": {
+        "zh": "璃月宝箱"
+      },
+      "popupContent": {
+        "zh": "击败2只幼岩龙蜥解锁的【精致宝箱】"
+      },
+      "popupMedia": "liyue/exquisite-chest/27_1054",
+      "popupAttribution": "Unknown"
+    },
+    {
+      "coordinates": [-32.08667, 28.46974],
+      "id": "519677949D5766DB6898DA80916991D2E27C8E83",
+      "importIds": {
+        "gm_legacy": ["liyueExquisiteChest/1061"],
+        "yuanshen": ["27_1061"]
+      },
+      "popupTitle": {
+        "zh": "璃月宝箱"
+      },
+      "popupContent": {
+        "zh": "每个伞上踩一下，击败所有史莱姆"
+      },
+      "popupMedia": "liyue/exquisite-chest/27_1061",
+      "popupAttribution": "Unknown"
+    },
+    {
+      "coordinates": [-29.17812, 29.775],
+      "id": "C6E2333AD6C60904567BB66EF789E3F5F15CA7D9",
+      "importIds": {
+        "gm_legacy": ["liyueExquisiteChest/107"],
+        "yuanshen": ["27_107"]
+      },
+      "popupTitle": {
+        "zh": "璃月宝箱"
+      },
+      "popupContent": {
+        "zh": "这是一个璃月宝箱"
+      },
+      "popupMedia": "liyue/exquisite-chest/27_107",
+      "popupAttribution": "Unknown"
+    },
+    {
+      "coordinates": [-29.91984, 17.30871],
+      "id": "8E33C99EBE189376F20E841BF1305F3755DDE0EB",
+      "importIds": {
+        "gm_legacy": ["liyueExquisiteChest/1099"],
+        "yuanshen": ["27_1099"]
+      },
+      "popupTitle": {
+        "zh": "璃月宝箱"
+      },
+      "popupContent": {
+        "zh": "遗迹宝藏任务宝箱"
+      },
+      "popupMedia": "liyue/exquisite-chest/27_1099",
+      "popupAttribution": "Unknown"
+    },
+    {
+      "coordinates": [-27.52969, 25.775],
+      "id": "C7C20150FF0C4C2D68A78447B9CA1C90516FD05B",
+      "importIds": {
+        "gm_legacy": ["liyueExquisiteChest/11"],
+        "yuanshen": ["27_11"]
+      },
+      "popupTitle": {
+        "zh": "璃月宝箱"
+      },
+      "popupContent": {
+        "zh": "这是一个璃月宝箱"
+      },
+      "popupMedia": "liyue/exquisite-chest/27_11",
+      "popupAttribution": "Unknown"
+    },
+    {
+      "coordinates": [-30.74363, 16.29726],
+      "id": "47817F35B0A5BACDA5D3D8FA5464C20DEF7A4CA2",
+      "importIds": {
+        "gm_legacy": ["liyueExquisiteChest/1100"],
+        "yuanshen": ["27_1100"]
+      },
+      "popupTitle": {
+        "zh": "璃月宝箱"
+      },
+      "popupContent": {
+        "zh": "遗迹宝藏任务宝箱"
+      },
+      "popupMedia": "liyue/exquisite-chest/27_1100",
+      "popupAttribution": "Unknown"
+    },
+    {
+      "coordinates": [-30.7202, 16.19572],
+      "id": "7610C073E0579AA2073733246E8814F9BBF56984",
+      "importIds": {
+        "gm_legacy": ["liyueExquisiteChest/1101"],
+        "yuanshen": ["27_1101"]
+      },
+      "popupTitle": {
+        "zh": "璃月宝箱"
+      },
+      "popupContent": {
+        "zh": "遗迹宝藏挑战箱"
+      },
+      "popupMedia": "liyue/exquisite-chest/27_1101",
+      "popupAttribution": "Unknown"
+    },
+    {
+      "coordinates": [-48.10006, 28.79066],
+      "id": "D1C36E54D3B8393B980F11FDFD901D5A66077305",
+      "importIds": {
+        "gm_legacy": ["liyueExquisiteChest/111"],
+        "yuanshen": ["27_111"]
+      },
+      "popupTitle": {
+        "zh": "璃月宝箱"
+      },
+      "popupContent": {
+        "zh": "这是一个璃月宝箱"
+      },
+      "popupMedia": "liyue/exquisite-chest/27_111",
+      "popupAttribution": "Unknown"
+    },
+    {
+      "coordinates": [-23.79141, 23.86875],
+      "id": "3BEE7F981C31DABE2036B37AFDA3AD767567C0EE",
+      "importIds": {
+        "gm_legacy": ["liyueExquisiteChest/1115"],
+        "yuanshen": ["27_1115"]
+      },
+      "popupTitle": {
+        "zh": "璃月宝箱"
+      },
+      "popupContent": {
+        "zh": "这是一个需要挖掘的宝箱"
+      },
+      "popupMedia": "liyue/exquisite-chest/27_1115",
+      "popupAttribution": "Unknown"
+    },
+    {
+      "coordinates": [-48.31875, 19.76719],
+      "id": "E6291551B377FDDF2B05E888408B183A5F45BBE0",
+      "importIds": {
+        "gm_legacy": ["liyueExquisiteChest/112"],
+        "yuanshen": ["27_112"]
+      },
+      "popupTitle": {
+        "zh": "璃月宝箱"
+      },
+      "popupContent": {
+        "zh": "这是一个璃月宝箱"
+      },
+      "popupMedia": "liyue/exquisite-chest/27_112",
+      "popupAttribution": "Unknown"
+    },
+    {
+      "coordinates": [-38.11172, 22.88437],
+      "id": "DE7BB5F51F34A362010F7BDEDBEC7FEA8B8A0596",
+      "importIds": {
+        "gm_legacy": ["liyueExquisiteChest/1122"],
+        "yuanshen": ["27_1122"]
+      },
+      "popupAttribution": "Unknown",
+      "popupMedia": "liyue/exquisite-chest/27_1122"
+    },
+    {
+      "coordinates": [-38.69766, 22.13305],
+      "id": "54078FA3C17B9EB406CEC97E07F858FC844C5134",
+      "importIds": {
+        "gm_legacy": ["liyueExquisiteChest/1123"],
+        "yuanshen": ["27_1123"]
+      },
+      "popupTitle": {
+        "en": "#1123",
+        "zh": "璃月宝箱"
+      },
+      "popupContent": {
+        "zh": "激活九柱出现的【精致宝箱】"
+      },
+      "popupMedia": "liyue/exquisite-chest/27_1123",
+      "popupAttribution": "Yuanshen.site"
+    },
+    {
+      "coordinates": [-39.76016, 22.60963],
+      "id": "C2265A09AEFB534C048FA8F7ED448E69FE66F80B",
+      "importIds": {
+        "yuanshen": ["27_1124"],
+        "gm_legacy": ["liyueExquisiteChest/1124"]
+      },
+      "popupTitle": {
+        "en": "#1124",
+        "zh": "璃月宝箱"
+      },
+      "popupContent": {
+        "zh": "激活九柱出现的【精致宝箱】"
+      },
+      "popupMedia": "liyue/exquisite-chest/27_1124",
+      "popupAttribution": "Yuanshen.site"
+    },
+    {
+      "coordinates": [-39.22109, 22.13177],
+      "id": "64FA173D4FAB58769C84336E431C1397A4CAFE34",
+      "importIds": {
+        "yuanshen": ["27_1125"],
+        "gm_legacy": ["liyueExquisiteChest/1125"]
+      },
+      "popupTitle": {
+        "en": "#1125",
+        "zh": "璃月宝箱"
+      },
+      "popupContent": {
+        "zh": "激活九柱出现的【精致宝箱】"
+      },
+      "popupMedia": "liyue/exquisite-chest/64FA173",
+      "popupAttribution": "Yuanshen.site"
+    },
+    {
+      "coordinates": [-38.05312, 23.62265],
+      "id": "F1CB91BF705BC9DA774CF91EECC7C0E24B59BF1B",
+      "importIds": {
+        "gm_legacy": ["liyueExquisiteChest/1126"],
+        "yuanshen": ["27_1126"]
+      },
+      "popupTitle": {
+        "zh": "璃月宝箱"
+      },
+      "popupContent": {
+        "zh": "九柱任务宝箱"
+      },
+      "popupMedia": "liyue/exquisite-chest/27_1126",
+      "popupAttribution": "Unknown"
+    },
+    {
+      "coordinates": [-38.29141, 23.32578],
+      "id": "58782DD87481E7D7F7352581C0A97B49B80D136D",
+      "importIds": {
+        "gm_legacy": ["liyueExquisiteChest/1127"],
+        "yuanshen": ["27_1127"]
+      },
+      "popupTitle": {
+        "zh": "璃月宝箱"
+      },
+      "popupContent": {
+        "zh": "九柱任务宝箱"
+      },
+      "popupMedia": "liyue/exquisite-chest/27_1127",
+      "popupAttribution": "Unknown"
+    },
+    {
+      "coordinates": [-48.99844, 23.18125],
+      "id": "87D8B485F9DA80AFE729B1342C93CE33951F29E8",
+      "importIds": {
+        "gm_legacy": ["liyueExquisiteChest/113"],
+        "yuanshen": ["27_113"]
+      },
+      "popupTitle": {
+        "zh": "璃月宝箱"
+      },
+      "popupContent": {
+        "zh": "这是一个璃月宝箱"
+      },
+      "popupMedia": "liyue/exquisite-chest/27_113",
+      "popupAttribution": "Unknown"
+    },
+    {
+      "coordinates": [-39.67422, 23.23594],
+      "id": "FE9815A785443A48934D01591028DE2CDC7D36E9",
+      "importIds": {
+        "gm_legacy": ["liyueExquisiteChest/1130"],
+        "yuanshen": ["27_1130"]
+      },
+      "popupTitle": {
+        "zh": "璃月宝箱"
+      },
+      "popupContent": {
+        "zh": "九柱任务宝箱"
+      },
+      "popupMedia": "liyue/exquisite-chest/27_1130",
+      "popupAttribution": "Unknown"
+    },
+    {
+      "coordinates": [-39.14297, 23.59141],
+      "id": "A2F81B32144CF6F66AAE5347D9A340861F969E8F",
+      "importIds": {
+        "gm_legacy": ["liyueExquisiteChest/1131"],
+        "yuanshen": ["27_1131"]
+      },
+      "popupTitle": {
+        "zh": "璃月宝箱"
+      },
+      "popupContent": {
+        "zh": "九柱任务宝箱"
+      },
+      "popupMedia": "liyue/exquisite-chest/27_1131",
+      "popupAttribution": "Unknown"
+    },
+    {
+      "coordinates": [-38.5414, 23.65],
+      "id": "BE9F2A40E0402D202C32EEC777D7771CC64BB077",
+      "importIds": {
+        "gm_legacy": ["liyueExquisiteChest/1132"],
+        "yuanshen": ["27_1132"]
+      },
+      "popupTitle": {
+        "zh": "璃月宝箱"
+      },
+      "popupContent": {
+        "zh": "九柱任务宝箱"
+      },
+      "popupMedia": "liyue/exquisite-chest/27_1132",
+      "popupAttribution": "Unknown"
+    },
+    {
+      "coordinates": [-30.95546, 29.65391],
+      "id": "F1D43A7CB236E4D6BA9F579894358BD3EE420F34",
+      "importIds": {
+        "gm_legacy": ["liyueExquisiteChest/115"],
+        "yuanshen": ["27_115"]
+      },
+      "popupTitle": {
+        "zh": "璃月宝箱"
+      },
+      "popupContent": {
+        "zh": "这是一个可以直接开启的【普通宝箱】无原石"
+      },
+      "popupMedia": "liyue/exquisite-chest/27_115",
+      "popupAttribution": "Unknown"
+    },
+    {
+      "coordinates": [-33.77187, 33.05625],
+      "id": "68E50ECA7DCF560A12D05AFCE72A4E3745A859C2",
+      "importIds": {
+        "gm_legacy": ["liyueExquisiteChest/123"],
+        "yuanshen": ["27_123"]
+      },
+      "popupTitle": {
+        "zh": "璃月宝箱"
+      },
+      "popupContent": {
+        "zh": "这是一个璃月宝箱"
+      },
+      "popupMedia": "liyue/exquisite-chest/27_123",
+      "popupAttribution": "Unknown"
+    },
+    {
+      "coordinates": [-34.2875, 33.25938],
+      "id": "EB48D619225D1F3D48E44B5025EFB4A8A0BFD109",
+      "importIds": {
+        "gm_legacy": ["liyueExquisiteChest/126"],
+        "yuanshen": ["27_126"]
+      },
+      "popupTitle": {
+        "zh": "璃月宝箱"
+      },
+      "popupContent": {
+        "zh": "这是一个璃月宝箱"
+      },
+      "popupMedia": "liyue/exquisite-chest/27_126",
+      "popupAttribution": "Unknown"
+    },
+    {
+      "coordinates": [-34.95156, 32.79063],
+      "id": "F20248DA4799DC874A1B117E3F7F9FBD391BC18F",
+      "importIds": {
+        "gm_legacy": ["liyueExquisiteChest/129"],
+        "yuanshen": ["27_129"]
+      },
+      "popupTitle": {
+        "zh": "璃月宝箱"
+      },
+      "popupContent": {
+        "zh": "这是一个璃月宝箱"
+      },
+      "popupMedia": "liyue/exquisite-chest/27_129",
+      "popupAttribution": "Unknown"
+    },
+    {
+      "coordinates": [-36.45938, 34.97812],
+      "id": "2365843190D07054D8B55435539B760C09E87254",
+      "importIds": {
+        "gm_legacy": ["liyueExquisiteChest/133"],
+        "yuanshen": ["27_133"]
+      },
+      "popupTitle": {
+        "zh": "璃月宝箱"
+      },
+      "popupContent": {
+        "zh": "这是一个璃月宝箱"
+      },
+      "popupMedia": "liyue/exquisite-chest/27_133",
+      "popupAttribution": "Unknown"
+    },
+    {
+      "coordinates": [-36.43594, 34.55625],
+      "id": "D7CAE1571FF3188BE580D3F25C6D0A46500712C4",
+      "importIds": {
+        "gm_legacy": ["liyueExquisiteChest/134"],
+        "yuanshen": ["27_134"]
+      },
+      "popupTitle": {
+        "zh": "璃月宝箱"
+      },
+      "popupContent": {
+        "zh": "这是一个璃月宝箱"
+      },
+      "popupMedia": "liyue/exquisite-chest/27_134",
+      "popupAttribution": "Unknown"
+    },
+    {
+      "coordinates": [-36.86563, 35.23594],
+      "id": "2DB2F2805CCC0C85410B319FFC21BBC74BDE2944",
+      "importIds": {
+        "gm_legacy": ["liyueExquisiteChest/136"],
+        "yuanshen": ["27_136"]
+      },
+      "popupTitle": {
+        "zh": "璃月宝箱"
+      },
+      "popupContent": {
+        "zh": "这是一个璃月宝箱"
+      },
+      "popupMedia": "liyue/exquisite-chest/27_136",
+      "popupAttribution": "Unknown"
+    },
+    {
+      "coordinates": [-35.65469, 34.29062],
+      "id": "B78CF3B4B47B27704EA9D2CBE4697F69373EB8A6",
+      "importIds": {
+        "gm_legacy": ["liyueExquisiteChest/144"],
+        "yuanshen": ["27_144"]
+      },
+      "popupTitle": {
+        "zh": "璃月宝箱"
+      },
+      "popupContent": {
+        "zh": "这是一个璃月宝箱"
+      },
+      "popupMedia": "liyue/exquisite-chest/27_144",
+      "popupAttribution": "Unknown"
+    },
+    {
+      "coordinates": [-24.11562, 26.53281],
+      "id": "87C76B1347335F6FFAA4895783C0119F7566C977",
+      "importIds": {
+        "gm_legacy": ["liyueExquisiteChest/16"],
+        "yuanshen": ["27_16"]
+      },
+      "popupTitle": {
+        "zh": "璃月宝箱"
+      },
+      "popupContent": {
+        "zh": "这是一个璃月宝箱"
+      },
+      "popupMedia": "liyue/exquisite-chest/27_16",
+      "popupAttribution": "Unknown"
+    },
+    {
+      "coordinates": [-43.95939, 37.19687],
+      "id": "1F95FD51B3B93666D0FF44983F38E57223C0D12F",
+      "importIds": {
+        "yuanshen": ["27_162"],
+        "gm_legacy": ["liyueExquisiteChest/162"]
+      },
+      "popupTitle": {
+        "en": "#162",
+        "zh": "璃月宝箱"
+      },
+      "popupContent": {
+        "zh": "这是一个沙滩上的【普通宝箱】"
+      },
+      "popupMedia": "liyue/exquisite-chest/27_162",
+      "popupAttribution": "Yuanshen.site"
+    },
+    {
+      "coordinates": [-44.00625, 41.5875],
+      "id": "AA3A0C6155F03148934FAB9E8628A4ADC6502F11",
+      "importIds": {
+        "gm_legacy": ["liyueExquisiteChest/172"],
+        "yuanshen": ["27_172"]
+      },
+      "popupTitle": {
+        "zh": "璃月宝箱"
+      },
+      "popupContent": {
+        "zh": "拱门上面"
+      },
+      "popupMedia": "liyue/exquisite-chest/27_172",
+      "popupAttribution": "Unknown"
+    },
+    {
+      "coordinates": [-32.92814, 29.78671],
+      "id": "CE7A17BA0D4B724BEECFEA2C9CDE14338667141C",
+      "importIds": {
+        "gm_legacy": ["liyueExquisiteChest/183"],
+        "yuanshen": ["27_183"]
+      },
+      "popupTitle": {
+        "zh": "璃月宝箱"
+      },
+      "popupContent": {
+        "zh": "这是一个击败冰史莱姆解锁的【普通宝箱】无原石"
+      },
+      "popupMedia": "liyue/exquisite-chest/27_183",
+      "popupAttribution": "Unknown"
+    },
+    {
+      "coordinates": [-32.49844, 29.75156],
+      "id": "CC3D2DF1FD2460C401A0E767BF5B8F6F8ECABA6B",
+      "importIds": {
+        "gm_legacy": ["liyueExquisiteChest/184"],
+        "yuanshen": ["27_184"]
+      },
+      "popupTitle": {
+        "zh": "璃月宝箱"
+      },
+      "popupContent": {
+        "zh": "这是一个璃月宝箱"
+      },
+      "popupMedia": "liyue/exquisite-chest/27_184",
+      "popupAttribution": "Unknown"
+    },
+    {
+      "coordinates": [-33.1625, 29.43125],
+      "id": "ACC6A1B07DB0C5B101B54CE41AFD450C3F713B31",
+      "importIds": {
+        "gm_legacy": ["liyueExquisiteChest/185"],
+        "yuanshen": ["27_185"]
+      },
+      "popupTitle": {
+        "zh": "璃月宝箱"
+      },
+      "popupContent": {
+        "zh": "这是一个璃月宝箱"
+      },
+      "popupMedia": "liyue/exquisite-chest/27_185",
+      "popupAttribution": "Unknown"
+    },
+    {
+      "coordinates": [-33.59219, 28.56407],
+      "id": "58B1D077E3EC2412E7EDDB76ED1C306FF609B676",
+      "importIds": {
+        "gm_legacy": ["liyueExquisiteChest/187"],
+        "yuanshen": ["27_187"]
+      },
+      "popupTitle": {
+        "zh": "璃月宝箱"
+      },
+      "popupContent": {
+        "zh": "这是一个璃月宝箱"
+      },
+      "popupMedia": "liyue/exquisite-chest/27_187",
+      "popupAttribution": "Unknown"
+    },
+    {
+      "coordinates": [-35.20156, 29.72813],
+      "id": "3AC9CB59544DC770E24C13B00FE3574949589670",
+      "importIds": {
+        "gm_legacy": ["liyueExquisiteChest/191"],
+        "yuanshen": ["27_191"]
+      },
+      "popupTitle": {
+        "zh": "璃月宝箱"
+      },
+      "popupContent": {
+        "zh": "这是一个璃月宝箱"
+      },
+      "popupMedia": "liyue/exquisite-chest/27_191",
+      "popupAttribution": "Unknown"
+    },
+    {
+      "coordinates": [-38.03489, 27.8375],
+      "id": "3EFC95DA21F7E80E9B95213DCE22DF2F5716DAE5",
+      "importIds": {
+        "yuanshen": ["27_199"],
+        "gm_legacy": ["liyueExquisiteChest/199"]
+      },
+      "popupTitle": {
+        "en": "#199",
+        "zh": "璃月宝箱"
+      },
+      "popupContent": {
+        "zh": "这是一个被荆棘封印的【普通宝箱】"
+      },
+      "popupMedia": "liyue/exquisite-chest/27_199",
+      "popupAttribution": "Yuanshen.site"
+    },
+    {
+      "coordinates": [-25.12344, 31.9],
+      "id": "BA44065593546D37FB91991D6F43764B631DA72B",
+      "importIds": {
+        "gm_legacy": ["liyueExquisiteChest/2"],
+        "yuanshen": ["27_2"]
+      },
+      "popupTitle": {
+        "zh": "璃月宝箱"
+      },
+      "popupContent": {
+        "zh": "这是一个璃月宝箱"
+      },
+      "popupMedia": "liyue/exquisite-chest/27_2",
+      "popupAttribution": "Unknown"
+    },
+    {
+      "coordinates": [-39.31875, 28.42344],
+      "id": "B61A2784E5B88F0F2BDAE80205DD6C415E1681DC",
+      "importIds": {
+        "gm_legacy": ["liyueExquisiteChest/201"],
+        "yuanshen": ["27_201"]
+      },
+      "popupTitle": {
+        "zh": "璃月宝箱"
+      },
+      "popupContent": {
+        "zh": "这是一个璃月宝箱"
+      },
+      "popupMedia": "liyue/exquisite-chest/27_201",
+      "popupAttribution": "Unknown"
+    },
+    {
+      "coordinates": [-41.45157, 31.45469],
+      "id": "31C903C0A3580053AB4ECA8CC41901AA64874BAB",
+      "importIds": {
+        "gm_legacy": ["liyueExquisiteChest/210"],
+        "yuanshen": ["27_210"]
+      },
+      "popupTitle": {
+        "zh": "璃月宝箱"
+      },
+      "popupContent": {
+        "zh": "这是一个璃月宝箱"
+      },
+      "popupMedia": "liyue/exquisite-chest/27_210",
+      "popupAttribution": "Unknown"
+    },
+    {
+      "coordinates": [-40.89687, 31.15782],
+      "id": "78EA233A19BA892F20D4EABD92E7748CECE5829A",
+      "importIds": {
+        "gm_legacy": ["liyueExquisiteChest/212"],
+        "yuanshen": ["27_212"]
+      },
+      "popupTitle": {
+        "zh": "璃月宝箱"
+      },
+      "popupContent": {
+        "zh": "这是一个璃月宝箱"
+      },
+      "popupMedia": "liyue/exquisite-chest/27_212",
+      "popupAttribution": "Unknown"
+    },
+    {
+      "coordinates": [-39.02187, 30.56407],
+      "id": "98DAC5DB37DE246F2D5E77BAF70CDBAB542642CD",
+      "importIds": {
+        "gm_legacy": ["liyueExquisiteChest/213"],
+        "yuanshen": ["27_213"]
+      },
+      "popupTitle": {
+        "zh": "璃月宝箱"
+      },
+      "popupContent": {
+        "zh": "这是一个璃月宝箱"
+      },
+      "popupMedia": "liyue/exquisite-chest/27_213",
+      "popupAttribution": "Unknown"
+    },
+    {
+      "coordinates": [-36.46718, 30.775],
+      "id": "6DB412D7420A42854B4DF4486E715DCDF26D9784",
+      "importIds": {
+        "gm_legacy": ["liyueExquisiteChest/217"],
+        "yuanshen": ["27_217"]
+      },
+      "popupTitle": {
+        "zh": "璃月宝箱"
+      },
+      "popupContent": {
+        "zh": "这是一个璃月宝箱"
+      },
+      "popupMedia": "liyue/exquisite-chest/27_217",
+      "popupAttribution": "Unknown"
+    },
+    {
+      "coordinates": [-40.04531, 28.12656],
+      "id": "95B4AEAC2EFC78D6C252320765E28619786F5EBB",
+      "importIds": {
+        "gm_legacy": ["liyueExquisiteChest/220"],
+        "yuanshen": ["27_220"]
+      },
+      "popupTitle": {
+        "zh": "璃月宝箱"
+      },
+      "popupContent": {
+        "zh": "这是一个璃月宝箱"
+      },
+      "popupMedia": "liyue/exquisite-chest/27_220",
+      "popupAttribution": "Unknown"
+    },
+    {
+      "coordinates": [-40.19375, 28.73593],
+      "id": "563059EDC215ECC551D64EB7FC6B1BD5C8959408",
+      "importIds": {
+        "gm_legacy": ["liyueExquisiteChest/221"],
+        "yuanshen": ["27_221"]
+      },
+      "popupTitle": {
+        "zh": "璃月宝箱"
+      },
+      "popupContent": {
+        "zh": "这是一个璃月宝箱"
+      },
+      "popupMedia": "liyue/exquisite-chest/27_221",
+      "popupAttribution": "Unknown"
+    },
+    {
+      "coordinates": [-40.00625, 29.25156],
+      "id": "DB6C3AA72B7536FEDAB3C7BEBC7AAF9095750073",
+      "importIds": {
+        "gm_legacy": ["liyueExquisiteChest/222"],
+        "yuanshen": ["27_222"]
+      },
+      "popupTitle": {
+        "zh": "璃月宝箱"
+      },
+      "popupContent": {
+        "zh": "这是一个璃月宝箱"
+      },
+      "popupMedia": "liyue/exquisite-chest/27_222",
+      "popupAttribution": "Unknown"
+    },
+    {
+      "coordinates": [-41.71719, 28.55625],
+      "id": "E3B0EA7CA9C129B2CD9FC0A5BBFE5EFC619351BF",
+      "importIds": {
+        "gm_legacy": ["liyueExquisiteChest/223"],
+        "yuanshen": ["27_223"]
+      },
+      "popupTitle": {
+        "zh": "璃月宝箱"
+      },
+      "popupContent": {
+        "zh": "这是一个璃月宝箱"
+      },
+      "popupMedia": "liyue/exquisite-chest/27_223",
+      "popupAttribution": "Unknown"
+    },
+    {
+      "coordinates": [-25.59219, 30.72813],
+      "id": "86CEBE77C779600FD7F1D00E0EE69A084C7B3165",
+      "importIds": {
+        "gm_legacy": ["liyueExquisiteChest/228"],
+        "yuanshen": ["27_228"]
+      },
+      "popupTitle": {
+        "zh": "璃月宝箱"
+      },
+      "popupContent": {
+        "zh": "这是一个璃月宝箱"
+      },
+      "popupMedia": "liyue/exquisite-chest/27_228",
+      "popupAttribution": "Unknown"
+    },
+    {
+      "coordinates": [-25.31094, 30.23594],
+      "id": "EFD53E1716D666772BF87C9CB31AC7E74CD7CE3E",
+      "importIds": {
+        "gm_legacy": ["liyueExquisiteChest/229"],
+        "yuanshen": ["27_229"]
+      },
+      "popupTitle": {
+        "zh": "璃月宝箱"
+      },
+      "popupContent": {
+        "zh": "这是一个璃月宝箱"
+      },
+      "popupMedia": "liyue/exquisite-chest/27_229",
+      "popupAttribution": "Unknown"
+    },
+    {
+      "coordinates": [-24.35, 31.99375],
+      "id": "EC995329A57EBB11E9A97AAEFDCAEA8C3007B2B8",
+      "importIds": {
+        "gm_legacy": ["liyueExquisiteChest/230"],
+        "yuanshen": ["27_230"]
+      },
+      "popupTitle": {
+        "zh": "璃月宝箱"
+      },
+      "popupContent": {
+        "zh": "这是一个璃月宝箱"
+      },
+      "popupMedia": "liyue/exquisite-chest/27_230",
+      "popupAttribution": "Unknown"
+    },
+    {
+      "coordinates": [-24.4262, 31.60261],
+      "id": "BD924FC49448B498854F3D788600B2512B6792E1",
+      "importIds": {
+        "gm_legacy": ["liyueExquisiteChest/231"],
+        "yuanshen": ["27_231"]
+      },
+      "popupTitle": {
+        "zh": "璃月宝箱"
+      },
+      "popupContent": {
+        "zh": "这是一个璃月宝箱"
+      },
+      "popupMedia": "liyue/exquisite-chest/27_231",
+      "popupAttribution": "Unknown"
+    },
+    {
+      "coordinates": [-34.74843, 26.66563],
+      "id": "666721D2250D20C18FAC5BCEEB3F7CC2E16496D2",
+      "importIds": {
+        "gm_legacy": ["liyueExquisiteChest/238"],
+        "yuanshen": ["27_238"]
+      },
+      "popupTitle": {
+        "zh": "璃月宝箱"
+      },
+      "popupContent": {
+        "zh": "这是一个璃月宝箱"
+      },
+      "popupMedia": "liyue/exquisite-chest/27_238",
+      "popupAttribution": "Unknown"
+    },
+    {
+      "coordinates": [-33.08437, 26.38438],
+      "id": "61561384B65EED58162C253AD30F03BFDDCFB752",
+      "importIds": {
+        "gm_legacy": ["liyueExquisiteChest/240"],
+        "yuanshen": ["27_240"]
+      },
+      "popupTitle": {
+        "zh": "璃月宝箱"
+      },
+      "popupContent": {
+        "zh": "这是一个璃月宝箱"
+      },
+      "popupMedia": "liyue/exquisite-chest/27_240",
+      "popupAttribution": "Unknown"
+    },
+    {
+      "coordinates": [-34.19375, 26.025],
+      "id": "770A805248F5C48CE05602A0F02F1825339D9D6C",
+      "importIds": {
+        "gm_legacy": ["liyueExquisiteChest/241"],
+        "yuanshen": ["27_241"]
+      },
+      "popupTitle": {
+        "zh": "璃月宝箱"
+      },
+      "popupContent": {
+        "zh": "这是一个璃月宝箱"
+      },
+      "popupMedia": "liyue/exquisite-chest/27_241",
+      "popupAttribution": "Unknown"
+    },
+    {
+      "coordinates": [-36.57656, 19.85313],
+      "id": "D1912825E5DB2AA0562D632F38BA3365F4CAA13A",
+      "importIds": {
+        "gm_legacy": ["liyueExquisiteChest/244"],
+        "yuanshen": ["27_244"]
+      },
+      "popupTitle": {
+        "zh": "璃月宝箱"
+      },
+      "popupContent": {
+        "zh": "这是一个璃月宝箱"
+      },
+      "popupMedia": "liyue/exquisite-chest/27_244",
+      "popupAttribution": "Unknown"
+    },
+    {
+      "coordinates": [-50.14688, 25.34531],
+      "id": "1D1EDA18910424510A242F8C34BD9332D1F7A4D3",
+      "importIds": {
+        "gm_legacy": ["liyueExquisiteChest/246"],
+        "yuanshen": ["27_246"]
+      },
+      "popupTitle": {
+        "zh": "璃月宝箱"
+      },
+      "popupContent": {
+        "zh": "这是一个璃月宝箱"
+      },
+      "popupMedia": "liyue/exquisite-chest/27_246",
+      "popupAttribution": "Unknown"
+    },
+    {
+      "coordinates": [-32.71719, 28.85313],
+      "id": "7726575D12D36C2E892187307528DA1BCFCBA592",
+      "importIds": {
+        "gm_legacy": ["liyueExquisiteChest/247"],
+        "yuanshen": ["27_247"]
+      },
+      "popupTitle": {
+        "zh": "璃月宝箱"
+      },
+      "popupContent": {
+        "zh": "这是一个璃月宝箱"
+      },
+      "popupMedia": "liyue/exquisite-chest/27_247",
+      "popupAttribution": "Unknown"
+    },
+    {
+      "coordinates": [-31.93593, 27.9],
+      "id": "72C0959CF16EAFDF2F24C0521E2F0881FA7B97A2",
+      "importIds": {
+        "gm_legacy": ["liyueExquisiteChest/248"],
+        "yuanshen": ["27_248"]
+      },
+      "popupTitle": {
+        "zh": "璃月宝箱"
+      },
+      "popupContent": {
+        "zh": "这是一个璃月宝箱"
+      },
+      "popupMedia": "liyue/exquisite-chest/27_248",
+      "popupAttribution": "Unknown"
+    },
+    {
+      "coordinates": [-29.90469, 32.50156],
+      "id": "F6DFD4DF7BA36A53A6AA485C5A9CBB37621D33C1",
+      "importIds": {
+        "gm_legacy": ["liyueExquisiteChest/253"],
+        "yuanshen": ["27_253"]
+      },
+      "popupTitle": {
+        "zh": "璃月宝箱"
+      },
+      "popupContent": {
+        "zh": "这是一个璃月宝箱"
+      },
+      "popupMedia": "liyue/exquisite-chest/27_253",
+      "popupAttribution": "Unknown"
+    },
+    {
+      "coordinates": [-29.7875, 32.3375],
+      "id": "BA03067C24EAE0DFF7B54946888251F3B4562F5B",
+      "importIds": {
+        "gm_legacy": ["liyueExquisiteChest/254"],
+        "yuanshen": ["27_254"]
+      },
+      "popupTitle": {
+        "zh": "璃月宝箱"
+      },
+      "popupContent": {
+        "zh": "这是一个璃月宝箱"
+      },
+      "popupMedia": "liyue/exquisite-chest/27_254",
+      "popupAttribution": "Unknown"
+    },
+    {
+      "coordinates": [-29.08438, 33.00156],
+      "id": "3E87233EA8CF742F5B3CC12E2182C4396B090241",
+      "importIds": {
+        "gm_legacy": ["liyueExquisiteChest/255"],
+        "yuanshen": ["27_255"]
+      },
+      "popupTitle": {
+        "zh": "璃月宝箱"
+      },
+      "popupContent": {
+        "zh": "这是一个璃月宝箱"
+      },
+      "popupMedia": "liyue/exquisite-chest/27_255",
+      "popupAttribution": "Unknown"
+    },
+    {
+      "coordinates": [-25.1625, 31.25156],
+      "id": "99F93E30E910E4CE16CB258E5D8258BE5ABBDBCD",
+      "importIds": {
+        "gm_legacy": ["liyueExquisiteChest/260"],
+        "yuanshen": ["27_260"]
+      },
+      "popupTitle": {
+        "zh": "璃月宝箱"
+      },
+      "popupContent": {
+        "zh": "这是一个璃月宝箱"
+      },
+      "popupMedia": "liyue/exquisite-chest/27_260",
+      "popupAttribution": "Unknown"
+    },
+    {
+      "coordinates": [-37.43594, 35.82969],
+      "id": "B37F0F87478BD2FA5B8106C25555A8EDDAE301D2",
+      "importIds": {
+        "gm_legacy": ["liyueExquisiteChest/264"],
+        "yuanshen": ["27_264"]
+      },
+      "popupTitle": {
+        "zh": "璃月宝箱"
+      },
+      "popupContent": {
+        "zh": "这是一个璃月宝箱"
+      },
+      "popupMedia": "liyue/exquisite-chest/27_264",
+      "popupAttribution": "Unknown"
+    },
+    {
+      "coordinates": [-38.4125, 34.15],
+      "id": "F2D3A1F2F566CA0687BD882526A0B757E98D32E1",
+      "importIds": {
+        "gm_legacy": ["liyueExquisiteChest/266"],
+        "yuanshen": ["27_266"]
+      },
+      "popupTitle": {
+        "zh": "璃月宝箱"
+      },
+      "popupContent": {
+        "zh": "这是一个璃月宝箱"
+      },
+      "popupMedia": "liyue/exquisite-chest/27_266",
+      "popupAttribution": "Unknown"
+    },
+    {
+      "coordinates": [-33.07656, 22.87656],
+      "id": "1A3DC487C9718526DF36FB957D104B5E1084E93E",
+      "importIds": {
+        "gm_legacy": ["liyueExquisiteChest/269"],
+        "yuanshen": ["27_269"]
+      },
+      "popupTitle": {
+        "zh": "璃月宝箱"
+      },
+      "popupContent": {
+        "zh": "这是一个璃月宝箱"
+      },
+      "popupMedia": "liyue/exquisite-chest/27_269",
+      "popupAttribution": "Unknown"
+    },
+    {
+      "coordinates": [-34.04531, 22.36094],
+      "id": "3F8EDAE87183A20C28D131388B02547E967388A8",
+      "importIds": {
+        "gm_legacy": ["liyueExquisiteChest/270"],
+        "yuanshen": ["27_270"]
+      },
+      "popupTitle": {
+        "zh": "璃月宝箱"
+      },
+      "popupContent": {
+        "zh": "这是一个璃月宝箱"
+      },
+      "popupMedia": "liyue/exquisite-chest/27_270",
+      "popupAttribution": "Unknown"
+    },
+    {
+      "coordinates": [-35.06875, 22.92344],
+      "id": "3AE37D68F07F56E71D9A00DB091769A2C151F1CD",
+      "importIds": {
+        "gm_legacy": ["liyueExquisiteChest/275"],
+        "yuanshen": ["27_275"]
+      },
+      "popupTitle": {
+        "zh": "璃月宝箱"
+      },
+      "popupContent": {
+        "zh": "这是一个璃月宝箱"
+      },
+      "popupMedia": "liyue/exquisite-chest/27_275",
+      "popupAttribution": "Unknown"
+    },
+    {
+      "coordinates": [-37.09219, 23.86094],
+      "id": "3341D844AF19A799EF42AD785F83F58F0BEF6325",
+      "importIds": {
+        "gm_legacy": ["liyueExquisiteChest/281"],
+        "yuanshen": ["27_281"]
+      },
+      "popupTitle": {
+        "zh": "璃月宝箱"
+      },
+      "popupContent": {
+        "zh": "这是一个璃月宝箱"
+      },
+      "popupMedia": "liyue/exquisite-chest/27_281",
+      "popupAttribution": "Unknown"
+    },
+    {
+      "coordinates": [-38.62344, 24.54063],
+      "id": "68F3FD447AE509218F4EA944D5C28F87423F60AE",
+      "importIds": {
+        "gm_legacy": ["liyueExquisiteChest/287"],
+        "yuanshen": ["27_287"]
+      },
+      "popupTitle": {
+        "zh": "璃月宝箱"
+      },
+      "popupContent": {
+        "zh": "这是一个璃月宝箱"
+      },
+      "popupMedia": "liyue/exquisite-chest/27_287",
+      "popupAttribution": "Unknown"
+    },
+    {
+      "coordinates": [-39.56882, 21.15006],
+      "id": "AB4CF9CE2EEB19816360BC9D771B3B06EDEDFE5C",
+      "importIds": {
+        "gm_legacy": ["liyueExquisiteChest/293"],
+        "yuanshen": ["27_293"]
+      },
+      "popupTitle": {
+        "zh": "璃月宝箱"
+      },
+      "popupContent": {
+        "zh": "这是一个璃月宝箱"
+      },
+      "popupMedia": "liyue/exquisite-chest/27_293",
+      "popupAttribution": "Unknown"
+    },
+    {
+      "coordinates": [-22.24844, 23.23594],
+      "id": "CDFFAEC32A8DCC6185A6241EB823F56572D43D33",
+      "importIds": {
+        "gm_legacy": ["liyueExquisiteChest/30"],
+        "yuanshen": ["27_30"]
+      },
+      "popupTitle": {
+        "zh": "璃月宝箱"
+      },
+      "popupContent": {
+        "zh": "这是一个璃月宝箱"
+      },
+      "popupMedia": "liyue/exquisite-chest/27_30",
+      "popupAttribution": "Unknown"
+    },
+    {
+      "coordinates": [-39.51407, 16.87656],
+      "id": "758B2A4C9BD835B92AAB5242AB817411810406B9",
+      "importIds": {
+        "gm_legacy": ["liyueExquisiteChest/304"],
+        "yuanshen": ["27_304"]
+      },
+      "popupTitle": {
+        "zh": "璃月宝箱"
+      },
+      "popupContent": {
+        "zh": "这是一个璃月宝箱"
+      },
+      "popupMedia": "liyue/exquisite-chest/27_304",
+      "popupAttribution": "Unknown"
+    },
+    {
+      "coordinates": [-39.61562, 16.15],
+      "id": "B9AE233636305CA2B3FAE48D5197AEAB28AC144F",
+      "importIds": {
+        "gm_legacy": ["liyueExquisiteChest/305"],
+        "yuanshen": ["27_305"]
+      },
+      "popupTitle": {
+        "zh": "璃月宝箱"
+      },
+      "popupContent": {
+        "zh": "这是一个璃月宝箱"
+      },
+      "popupMedia": "liyue/exquisite-chest/27_305",
+      "popupAttribution": "Unknown"
+    },
+    {
+      "coordinates": [-39.56094, 14.78281],
+      "id": "7AA7867E6A8DECF4185B4D5DDA23D883AC245E85",
+      "importIds": {
+        "gm_legacy": ["liyueExquisiteChest/308"],
+        "yuanshen": ["27_308"]
+      },
+      "popupTitle": {
+        "zh": "璃月宝箱"
+      },
+      "popupContent": {
+        "zh": "这是一个璃月宝箱"
+      },
+      "popupMedia": "liyue/exquisite-chest/27_308",
+      "popupAttribution": "Unknown"
+    },
+    {
+      "coordinates": [-22.86562, 23.7125],
+      "id": "0EC2E64DBA2319DC07BA18FAF6E28587DAD04FD7",
+      "importIds": {
+        "gm_legacy": ["liyueExquisiteChest/31"],
+        "yuanshen": ["27_31"]
+      },
+      "popupTitle": {
+        "zh": "璃月宝箱"
+      },
+      "popupContent": {
+        "zh": "这是一个璃月宝箱"
+      },
+      "popupMedia": "liyue/exquisite-chest/27_31",
+      "popupAttribution": "Unknown"
+    },
+    {
+      "coordinates": [-37.39687, 14.59531],
+      "id": "05BBF7C0762D39A6BB0971C78C4AA1D5FD0E920E",
+      "importIds": {
+        "gm_legacy": ["liyueExquisiteChest/313"],
+        "yuanshen": ["27_313"]
+      },
+      "popupTitle": {
+        "zh": "璃月宝箱"
+      },
+      "popupContent": {
+        "zh": "这是一个璃月宝箱"
+      },
+      "popupMedia": "liyue/exquisite-chest/27_313",
+      "popupAttribution": "Unknown"
+    },
+    {
+      "coordinates": [-37.15469, 14.9625],
+      "id": "1482D800F584A15E32804C435CBC06166E1E790D",
+      "importIds": {
+        "gm_legacy": ["liyueExquisiteChest/314"],
+        "yuanshen": ["27_314"]
+      },
+      "popupTitle": {
+        "zh": "璃月宝箱"
+      },
+      "popupContent": {
+        "zh": "这是一个璃月宝箱"
+      },
+      "popupMedia": "liyue/exquisite-chest/27_314",
+      "popupAttribution": "Unknown"
+    },
+    {
+      "coordinates": [-24.65469, 23.06406],
+      "id": "835C9F9E01CD87EA02BFFB3BDFF060BB0FB3D828",
+      "importIds": {
+        "gm_legacy": ["liyueExquisiteChest/32"],
+        "yuanshen": ["27_32"]
+      },
+      "popupTitle": {
+        "zh": "璃月宝箱"
+      },
+      "popupContent": {
+        "zh": "这是一个璃月宝箱"
+      },
+      "popupMedia": "liyue/exquisite-chest/27_32",
+      "popupAttribution": "Unknown"
+    },
+    {
+      "coordinates": [-35.11046, 13.94425],
+      "id": "F57B6DB17C7543ED7840B44CD4E5E823CF293EF1",
+      "importIds": {
+        "yuanshen": ["27_323"],
+        "gm_legacy": ["liyueExquisiteChest/323"]
+      },
+      "popupTitle": {
+        "en": "#323",
+        "zh": "璃月宝箱"
+      },
+      "popupContent": {
+        "zh": "这是一个璃月宝箱"
+      },
+      "popupMedia": "liyue/exquisite-chest/F57B6DB",
+      "popupAttribution": "Yuanshen.site"
+    },
+    {
+      "coordinates": [-34.88125, 13.97812],
+      "id": "9D7DE3880D00F2FD1EDD24C9DD1007EBD41DB614",
+      "importIds": {
+        "gm_legacy": ["liyueExquisiteChest/324"],
+        "yuanshen": ["27_324"]
+      },
+      "popupTitle": {
+        "zh": "璃月宝箱"
+      },
+      "popupContent": {
+        "zh": "琥珀宝箱（随机出现，直到你获得该宝箱）"
+      },
+      "popupMedia": "liyue/exquisite-chest/27_324",
+      "popupAttribution": "Unknown"
+    },
+    {
+      "coordinates": [-34.71719, 13.70469],
+      "id": "FDA52A421AEC6151500AF25C6278DF72F157A0E4",
+      "importIds": {
+        "gm_legacy": ["liyueExquisiteChest/327"],
+        "yuanshen": ["27_327"]
+      },
+      "popupTitle": {
+        "zh": "璃月宝箱"
+      },
+      "popupContent": {
+        "zh": "这是一个璃月宝箱"
+      },
+      "popupMedia": "liyue/exquisite-chest/27_327",
+      "popupAttribution": "Unknown"
+    },
+    {
+      "coordinates": [-35.61562, 13.97812],
+      "id": "AB4591FDB049558CB4BD345CACB0CA769AAC477B",
+      "importIds": {
+        "gm_legacy": ["liyueExquisiteChest/329"],
+        "yuanshen": ["27_329"]
+      },
+      "popupTitle": {
+        "zh": "璃月宝箱"
+      },
+      "popupContent": {
+        "zh": "琥珀宝箱（随机出现，直到你获得该宝箱）"
+      },
+      "popupMedia": "liyue/exquisite-chest/27_329",
+      "popupAttribution": "Unknown"
+    },
+    {
+      "coordinates": [-24.93594, 23.49375],
+      "id": "5A021E4B73CDA88A756A8B415D4D7BA285CA32E0",
+      "importIds": {
+        "gm_legacy": ["liyueExquisiteChest/33"],
+        "yuanshen": ["27_33"]
+      },
+      "popupTitle": {
+        "zh": "璃月宝箱"
+      },
+      "popupContent": {
+        "zh": "这是一个璃月宝箱"
+      },
+      "popupMedia": "liyue/exquisite-chest/27_33",
+      "popupAttribution": "Unknown"
+    },
+    {
+      "coordinates": [-34.48281, 15.82187],
+      "id": "A252AC7C75DDA5A368415695FDC89F3BA6442B5B",
+      "importIds": {
+        "gm_legacy": ["liyueExquisiteChest/330"],
+        "yuanshen": ["27_330"]
+      },
+      "popupTitle": {
+        "zh": "璃月宝箱"
+      },
+      "popupContent": {
+        "zh": "这是一个璃月宝箱"
+      },
+      "popupMedia": "liyue/exquisite-chest/27_330",
+      "popupAttribution": "Unknown"
+    },
+    {
+      "coordinates": [-36.06094, 12.9625],
+      "id": "3253186EE1E575894683E2E98C7A4854F3B1430F",
+      "importIds": {
+        "gm_legacy": ["liyueExquisiteChest/332"],
+        "yuanshen": ["27_332"]
+      },
+      "popupTitle": {
+        "zh": "璃月宝箱"
+      },
+      "popupContent": {
+        "zh": "这是一个璃月宝箱"
+      },
+      "popupMedia": "liyue/exquisite-chest/27_332",
+      "popupAttribution": "Unknown"
+    },
+    {
+      "coordinates": [-36.06094, 12.73593],
+      "id": "28C05EE3BAA29B0B52DE8419F2D2A35AB95C4114",
+      "importIds": {
+        "gm_legacy": ["liyueExquisiteChest/334"],
+        "yuanshen": ["27_334"]
+      },
+      "popupTitle": {
+        "zh": "璃月宝箱"
+      },
+      "popupContent": {
+        "zh": "琥珀宝箱（随机出现，直到你获得该宝箱）"
+      },
+      "popupMedia": "liyue/exquisite-chest/27_334",
+      "popupAttribution": "Unknown"
+    },
+    {
+      "coordinates": [-35.88125, 12.53281],
+      "id": "634F2346F78E58020CE1D448919A139B87283CE1",
+      "importIds": {
+        "gm_legacy": ["liyueExquisiteChest/341"],
+        "yuanshen": ["27_341"]
+      },
+      "popupTitle": {
+        "zh": "璃月宝箱"
+      },
+      "popupContent": {
+        "zh": "琥珀宝箱（随机出现，直到你获得该宝箱）"
+      },
+      "popupMedia": "liyue/exquisite-chest/27_341",
+      "popupAttribution": "Unknown"
+    },
+    {
+      "coordinates": [-33.37344, 16.04844],
+      "id": "898797BB543ADA236D83FBDCD303980EF6F1F694",
+      "importIds": {
+        "gm_legacy": ["liyueExquisiteChest/352"],
+        "yuanshen": ["27_352"]
+      },
+      "popupTitle": {
+        "zh": "璃月宝箱"
+      },
+      "popupContent": {
+        "zh": "这是一个璃月宝箱"
+      },
+      "popupMedia": "liyue/exquisite-chest/27_352",
+      "popupAttribution": "Unknown"
+    },
+    {
+      "coordinates": [-32.38125, 17.72813],
+      "id": "9A2DB58C2BCA21F9A29F68177EC029139F84BD40",
+      "importIds": {
+        "gm_legacy": ["liyueExquisiteChest/357"],
+        "yuanshen": ["27_357"]
+      },
+      "popupTitle": {
+        "zh": "璃月宝箱"
+      },
+      "popupContent": {
+        "zh": "这是一个璃月宝箱(打败狂风之核)"
+      },
+      "popupMedia": "liyue/exquisite-chest/27_357",
+      "popupAttribution": "Unknown"
+    },
+    {
+      "coordinates": [-33.35, 14.22812],
+      "id": "33BBA2178B4A97EAF26CDB2306AC5BCE6A2C7A88",
+      "importIds": {
+        "gm_legacy": ["liyueExquisiteChest/359"],
+        "yuanshen": ["27_359"]
+      },
+      "popupTitle": {
+        "zh": "璃月宝箱"
+      },
+      "popupContent": {
+        "zh": "这是一个璃月宝箱"
+      },
+      "popupMedia": "liyue/exquisite-chest/27_359",
+      "popupAttribution": "Unknown"
+    },
+    {
+      "coordinates": [-32.475, 17.07188],
+      "id": "A44EAE63E613FBC176EC35E51BB75F952EDF9189",
+      "importIds": {
+        "gm_legacy": ["liyueExquisiteChest/364"],
+        "yuanshen": ["27_364"]
+      },
+      "popupTitle": {
+        "zh": "璃月宝箱"
+      },
+      "popupContent": {
+        "zh": "这是一个璃月宝箱"
+      },
+      "popupMedia": "liyue/exquisite-chest/27_364",
+      "popupAttribution": "Unknown"
+    },
+    {
+      "coordinates": [-31.76406, 15.42344],
+      "id": "B4D2503E2994346127B88A2120E3DA0C3B581DD0",
+      "importIds": {
+        "gm_legacy": ["liyueExquisiteChest/373"],
+        "yuanshen": ["27_373"]
+      },
+      "popupTitle": {
+        "zh": "璃月宝箱"
+      },
+      "popupContent": {
+        "zh": "这是一个璃月宝箱"
+      },
+      "popupMedia": "liyue/exquisite-chest/27_373",
+      "popupAttribution": "Unknown"
+    },
+    {
+      "coordinates": [-31.48281, 15.25938],
+      "id": "F1216696F0377A4E25DF03DF3EBD41B5CA94702F",
+      "importIds": {
+        "gm_legacy": ["liyueExquisiteChest/378"],
+        "yuanshen": ["27_378"]
+      },
+      "popupTitle": {
+        "zh": "璃月宝箱"
+      },
+      "popupContent": {
+        "zh": "这是一个璃月宝箱"
+      },
+      "popupMedia": "liyue/exquisite-chest/27_378",
+      "popupAttribution": "Unknown"
+    },
+    {
+      "coordinates": [-33.62343, 13.29844],
+      "id": "FC3E93C25405CB238BBCBC6DF67A9A782A7355FD",
+      "importIds": {
+        "gm_legacy": ["liyueExquisiteChest/379"],
+        "yuanshen": ["27_379"]
+      },
+      "popupTitle": {
+        "zh": "璃月宝箱"
+      },
+      "popupContent": {
+        "zh": "这是一个璃月宝箱"
+      },
+      "popupMedia": "liyue/exquisite-chest/27_379",
+      "popupAttribution": "Unknown"
+    },
+    {
+      "coordinates": [-31.98281, 16.70469],
+      "id": "13DF92D8630E51775CC537D4B54E455FC502A556",
+      "importIds": {
+        "gm_legacy": ["liyueExquisiteChest/387"],
+        "yuanshen": ["27_387"]
+      },
+      "popupTitle": {
+        "zh": "璃月宝箱"
+      },
+      "popupContent": {
+        "zh": "这是一个璃月宝箱"
+      },
+      "popupMedia": "liyue/exquisite-chest/27_387",
+      "popupAttribution": "Unknown"
+    },
+    {
+      "coordinates": [-34.43595, 17.13697],
+      "id": "CC1640B6C9C85BC9A3D84FB4C2D36DC702F45257",
+      "importIds": {
+        "yuanshen": ["27_396"],
+        "gm_legacy": ["liyueExquisiteChest/396"]
+      },
+      "popupTitle": {
+        "zh": "璃月宝箱"
+      },
+      "popupContent": {
+        "zh": "这是一个被岩元素包裹的【精致宝箱】"
+      },
+      "popupMedia": "liyue/exquisite-chest/27_396",
+      "popupAttribution": "Yuanshen.site"
+    },
+    {
+      "coordinates": [-34.18766, 17.50465],
+      "id": "56ECC2E6C3CF584C08112F79F90D85AA5C828979",
+      "importIds": {
+        "gm_legacy": ["liyueExquisiteChest/402"],
+        "yuanshen": ["27_402"]
+      },
+      "popupTitle": {
+        "zh": "璃月宝箱"
+      },
+      "popupContent": {
+        "zh": "这是一个击碎岩石开启的【普通宝箱】"
+      },
+      "popupMedia": "liyue/exquisite-chest/27_402",
+      "popupAttribution": "Unknown"
+    },
+    {
+      "coordinates": [-32.0375, 19.2125],
+      "id": "C0AEE3257D2E1C4249F2CC5898D3378278445DA1",
+      "importIds": {
+        "gm_legacy": ["liyueExquisiteChest/410"],
+        "yuanshen": ["27_410"]
+      },
+      "popupTitle": {
+        "zh": "璃月宝箱"
+      },
+      "popupContent": {
+        "zh": "这是一个璃月宝箱"
+      },
+      "popupMedia": "liyue/exquisite-chest/27_410",
+      "popupAttribution": "Unknown"
+    },
+    {
+      "coordinates": [-37.36563, 20.75156],
+      "id": "93118E0584BD5468CAF8631E8E5F4EEFD8D7EEE3",
+      "importIds": {
+        "gm_legacy": ["liyueExquisiteChest/416"],
+        "yuanshen": ["27_416"]
+      },
+      "popupTitle": {
+        "zh": "璃月宝箱"
+      },
+      "popupContent": {
+        "zh": "这是一个璃月宝箱"
+      },
+      "popupMedia": "liyue/exquisite-chest/27_416",
+      "popupAttribution": "Unknown"
+    },
+    {
+      "coordinates": [-35.67031, 21.18906],
+      "id": "65FE87AC9AE771EB863C67431DCEF43DF182385D",
+      "importIds": {
+        "gm_legacy": ["liyueExquisiteChest/428"],
+        "yuanshen": ["27_428"]
+      },
+      "popupTitle": {
+        "zh": "璃月宝箱"
+      },
+      "popupContent": {
+        "zh": "这是一个璃月宝箱"
+      },
+      "popupMedia": "liyue/exquisite-chest/27_428",
+      "popupAttribution": "Unknown"
+    },
+    {
+      "coordinates": [-31.52188, 15.80625],
+      "id": "2B3479A0E10D62076430C882DF1A35DEB6717FCE",
+      "importIds": {
+        "gm_legacy": ["liyueExquisiteChest/431"],
+        "yuanshen": ["27_431"]
+      },
+      "popupTitle": {
+        "zh": "璃月宝箱"
+      },
+      "popupContent": {
+        "zh": "这是一个璃月宝箱"
+      },
+      "popupMedia": "liyue/exquisite-chest/27_431",
+      "popupAttribution": "Unknown"
+    },
+    {
+      "coordinates": [-30.14688, 17.50156],
+      "id": "A7100402ABA68C41B3D520125E7B5CE9F9B17CB7",
+      "importIds": {
+        "gm_legacy": ["liyueExquisiteChest/437"],
+        "yuanshen": ["27_437"]
+      },
+      "popupTitle": {
+        "zh": "璃月宝箱"
+      },
+      "popupContent": {
+        "zh": "这是一个璃月宝箱"
+      },
+      "popupMedia": "liyue/exquisite-chest/27_437",
+      "popupAttribution": "Unknown"
+    },
+    {
+      "coordinates": [-29.71719, 23.47813],
+      "id": "2BFBF76C64F615DCF88AB2427C6082023F59FA8D",
+      "importIds": {
+        "gm_legacy": ["liyueExquisiteChest/445"],
+        "yuanshen": ["27_445"]
+      },
+      "popupTitle": {
+        "zh": "璃月宝箱"
+      },
+      "popupContent": {
+        "zh": "这是一个璃月宝箱"
+      },
+      "popupMedia": "liyue/exquisite-chest/27_445",
+      "popupAttribution": "Unknown"
+    },
+    {
+      "coordinates": [-25.9125, 29.10312],
+      "id": "F753332194AAF7C0B60ECC78A3D787BA00662BEB",
+      "importIds": {
+        "gm_legacy": ["liyueExquisiteChest/45"],
+        "yuanshen": ["27_45"]
+      },
+      "popupTitle": {
+        "zh": "璃月宝箱"
+      },
+      "popupContent": {
+        "zh": "这是一个璃月宝箱"
+      },
+      "popupMedia": "liyue/exquisite-chest/27_45",
+      "popupAttribution": "Unknown"
+    },
+    {
+      "coordinates": [-36.73281, 23.82969],
+      "id": "420A5F0114D766E3B164E430A7A32B8EE057CCBD",
+      "importIds": {
+        "gm_legacy": ["liyueExquisiteChest/451"],
+        "yuanshen": ["27_451"]
+      },
+      "popupTitle": {
+        "zh": "璃月宝箱"
+      },
+      "popupContent": {
+        "zh": "这是一个璃月宝箱"
+      },
+      "popupMedia": "liyue/exquisite-chest/27_451",
+      "popupAttribution": "Unknown"
+    },
+    {
+      "coordinates": [-35.99843, 25.49375],
+      "id": "5516FB5164B3ECB66A321C9693981F4F7CD98B91",
+      "importIds": {
+        "gm_legacy": ["liyueExquisiteChest/454"]
+      },
+      "popupAttribution": "Unknown",
+      "popupMedia": "liyue/exquisite-chest/27_454"
+    },
+    {
+      "coordinates": [-35.95938, 25.34531],
+      "id": "1F812BA200544535480C11EC8624F4F88652C3C3",
+      "importIds": {
+        "gm_legacy": ["liyueExquisiteChest/455"],
+        "yuanshen": ["27_455"]
+      },
+      "popupTitle": {
+        "zh": "璃月宝箱"
+      },
+      "popupContent": {
+        "zh": "这是一个璃月宝箱"
+      },
+      "popupMedia": "liyue/exquisite-chest/27_455",
+      "popupAttribution": "Unknown"
+    },
+    {
+      "coordinates": [-30.46718, 29.79844],
+      "id": "D37A8EB74F2F411CBDF16DCA794F298807B11506",
+      "importIds": {
+        "gm_legacy": ["liyueExquisiteChest/457"],
+        "yuanshen": ["27_457"]
+      },
+      "popupTitle": {
+        "zh": "璃月宝箱"
+      },
+      "popupContent": {
+        "zh": "这是一个击败史莱姆解锁的【普通宝箱】无原石"
+      },
+      "popupMedia": "liyue/exquisite-chest/27_457",
+      "popupAttribution": "Unknown"
+    },
+    {
+      "coordinates": [-25.92031, 17.76719],
+      "id": "0C3C549E6D76A15EE9B53F19E8DBE7E713A3365A",
+      "importIds": {
+        "gm_legacy": ["liyueExquisiteChest/459"],
+        "yuanshen": ["27_459"]
+      },
+      "popupTitle": {
+        "zh": "璃月宝箱"
+      },
+      "popupContent": {
+        "zh": "这是一个璃月宝箱"
+      },
+      "popupMedia": "liyue/exquisite-chest/27_459",
+      "popupAttribution": "Unknown"
+    },
+    {
+      "coordinates": [-25.96719, 30.60313],
+      "id": "263D44151064A4AAEB9B2C992FEA21912B5847F0",
+      "importIds": {
+        "gm_legacy": ["liyueExquisiteChest/46"],
+        "yuanshen": ["27_46"]
+      },
+      "popupTitle": {
+        "zh": "璃月宝箱"
+      },
+      "popupContent": {
+        "zh": "这是一个璃月宝箱"
+      },
+      "popupMedia": "liyue/exquisite-chest/27_46",
+      "popupAttribution": "Unknown"
+    },
+    {
+      "coordinates": [-27.33438, 19.92344],
+      "id": "27990909F5886DD11B796B9441224E8BAA0584E4",
+      "importIds": {
+        "gm_legacy": ["liyueExquisiteChest/462"],
+        "yuanshen": ["27_462"]
+      },
+      "popupTitle": {
+        "zh": "璃月宝箱"
+      },
+      "popupContent": {
+        "zh": "这是一个璃月宝箱"
+      },
+      "popupMedia": "liyue/exquisite-chest/27_462",
+      "popupAttribution": "Unknown"
+    },
+    {
+      "coordinates": [-26.85, 28.04062],
+      "id": "A149B57E75D3478C5F9217C91AE50CD7A030D8B9",
+      "importIds": {
+        "gm_legacy": ["liyueExquisiteChest/47"],
+        "yuanshen": ["27_47"]
+      },
+      "popupTitle": {
+        "zh": "璃月宝箱"
+      },
+      "popupContent": {
+        "zh": "这是一个璃月宝箱"
+      },
+      "popupMedia": "liyue/exquisite-chest/27_47",
+      "popupAttribution": "Unknown"
+    },
+    {
+      "coordinates": [-27.56094, 19.34531],
+      "id": "B613F4E7B8ECB749FDA0B2A62DFBAC170C871295",
+      "importIds": {
+        "gm_legacy": ["liyueExquisiteChest/473"],
+        "yuanshen": ["27_473"]
+      },
+      "popupTitle": {
+        "zh": "璃月宝箱"
+      },
+      "popupContent": {
+        "zh": "这是一个璃月宝箱"
+      },
+      "popupMedia": "liyue/exquisite-chest/27_473",
+      "popupAttribution": "Unknown"
+    },
+    {
+      "coordinates": [-35.79531, 17.37656],
+      "id": "2D62BC5A450C65425A10AC8C56FE37CD24CB8286",
+      "importIds": {
+        "gm_legacy": ["liyueExquisiteChest/476"],
+        "yuanshen": ["27_476"]
+      },
+      "popupTitle": {
+        "zh": "璃月宝箱"
+      },
+      "popupContent": {
+        "zh": "这是一个璃月宝箱"
+      },
+      "popupMedia": "liyue/exquisite-chest/27_476",
+      "popupAttribution": "Unknown"
+    },
+    {
+      "coordinates": [-36.01406, 18.88437],
+      "id": "56A7DCAF78CF3F7C32CE99990B611B78B4B78640",
+      "importIds": {
+        "gm_legacy": ["liyueExquisiteChest/477"],
+        "yuanshen": ["27_477"]
+      },
+      "popupTitle": {
+        "zh": "璃月宝箱"
+      },
+      "popupContent": {
+        "zh": "这是一个璃月宝箱"
+      },
+      "popupMedia": "liyue/exquisite-chest/27_477",
+      "popupAttribution": "Unknown"
+    },
+    {
+      "coordinates": [-35.60781, 18.54063],
+      "id": "3307D56406383600D7E82653AE9F9D59AC4C38EF",
+      "importIds": {
+        "gm_legacy": ["liyueExquisiteChest/480"],
+        "yuanshen": ["27_480"]
+      },
+      "popupTitle": {
+        "zh": "璃月宝箱"
+      },
+      "popupContent": {
+        "zh": "这是一个璃月宝箱"
+      },
+      "popupMedia": "liyue/exquisite-chest/27_480",
+      "popupAttribution": "Unknown"
+    },
+    {
+      "coordinates": [-46.03738, 21.14613],
+      "id": "02AB4267A39441975975DA090A6689631DE6B47F",
+      "importIds": {
+        "gm_legacy": ["liyueExquisiteChest/483"],
+        "yuanshen": ["27_483"]
+      },
+      "popupTitle": {
+        "zh": "璃月宝箱"
+      },
+      "popupContent": {
+        "zh": "这是一个璃月宝箱"
+      },
+      "popupMedia": "liyue/exquisite-chest/27_483",
+      "popupAttribution": "Unknown"
+    },
+    {
+      "coordinates": [-25.14687, 28.68906],
+      "id": "CF64F462BDA2D4756A4F438EEBE61BA2EDFEE5D3",
+      "importIds": {
+        "gm_legacy": ["liyueExquisiteChest/49"],
+        "yuanshen": ["27_49"]
+      },
+      "popupTitle": {
+        "zh": "璃月宝箱"
+      },
+      "popupContent": {
+        "zh": "这是一个璃月宝箱"
+      },
+      "popupMedia": "liyue/exquisite-chest/27_49",
+      "popupAttribution": "Unknown"
+    },
+    {
+      "coordinates": [-45.13907, 19.4],
+      "id": "A1A7CAD1964FCE68F8F5A1419AAE6A5D99948A22",
+      "importIds": {
+        "gm_legacy": ["liyueExquisiteChest/491"],
+        "yuanshen": ["27_491"]
+      },
+      "popupTitle": {
+        "zh": "璃月宝箱"
+      },
+      "popupContent": {
+        "zh": "这是一个璃月宝箱"
+      },
+      "popupMedia": "liyue/exquisite-chest/27_491",
+      "popupAttribution": "Unknown"
+    },
+    {
+      "coordinates": [-44.48281, 20.11094],
+      "id": "87F0F38DAEFAA5C07F69E1FF104B635E071F0514",
+      "importIds": {
+        "gm_legacy": ["liyueExquisiteChest/492"],
+        "yuanshen": ["27_492"]
+      },
+      "popupTitle": {
+        "zh": "璃月宝箱"
+      },
+      "popupContent": {
+        "zh": "这是一个璃月宝箱"
+      },
+      "popupMedia": "liyue/exquisite-chest/27_492",
+      "popupAttribution": "Unknown"
+    },
+    {
+      "coordinates": [-46.32656, 19.86094],
+      "id": "16EDBC5A6B60ACCB5921BA43B4FCA076C7A72708",
+      "importIds": {
+        "gm_legacy": ["liyueExquisiteChest/494"],
+        "yuanshen": ["27_494"]
+      },
+      "popupTitle": {
+        "zh": "璃月宝箱"
+      },
+      "popupContent": {
+        "zh": "这是一个璃月宝箱"
+      },
+      "popupMedia": "liyue/exquisite-chest/27_494",
+      "popupAttribution": "Unknown"
+    },
+    {
+      "coordinates": [-47.81094, 22.16562],
+      "id": "111BE044D4975D6ED3E5415F7D987707B3F8C1D9",
+      "importIds": {
+        "gm_legacy": ["liyueExquisiteChest/498"],
+        "yuanshen": ["27_498"]
+      },
+      "popupTitle": {
+        "zh": "璃月宝箱"
+      },
+      "popupContent": {
+        "zh": "这是一个璃月宝箱"
+      },
+      "popupMedia": "liyue/exquisite-chest/27_498",
+      "popupAttribution": "Unknown"
+    },
+    {
+      "coordinates": [-26.58437, 31.72031],
+      "id": "4D411DBFB37C2797750BEC69AEAD0E159B5A830E",
+      "importIds": {
+        "gm_legacy": ["liyueExquisiteChest/5"],
+        "yuanshen": ["27_5"]
+      },
+      "popupTitle": {
+        "zh": "璃月宝箱"
+      },
+      "popupContent": {
+        "zh": "这是一个璃月宝箱"
+      },
+      "popupMedia": "liyue/exquisite-chest/27_5",
+      "popupAttribution": "Unknown"
+    },
+    {
+      "coordinates": [-24.98281, 28.79844],
+      "id": "384B3684450DB7297E2CB92DF7D6DEAD51A99FD5",
+      "importIds": {
+        "gm_legacy": ["liyueExquisiteChest/50"],
+        "yuanshen": ["27_50"]
+      },
+      "popupTitle": {
+        "zh": "璃月宝箱"
+      },
+      "popupContent": {
+        "zh": "这是一个璃月宝箱"
+      },
+      "popupMedia": "liyue/exquisite-chest/27_50",
+      "popupAttribution": "Unknown"
+    },
+    {
+      "coordinates": [-49.27187, 22.60313],
+      "id": "638D15781E331ABD30B491178B6A1C50C16FB379",
+      "importIds": {
+        "gm_legacy": ["liyueExquisiteChest/504"],
+        "yuanshen": ["27_504"]
+      },
+      "popupTitle": {
+        "zh": "璃月宝箱"
+      },
+      "popupContent": {
+        "zh": "这是一个璃月宝箱"
+      },
+      "popupMedia": "liyue/exquisite-chest/27_504",
+      "popupAttribution": "Unknown"
+    },
+    {
+      "coordinates": [-50.57656, 24.18125],
+      "id": "716DC9E79A7FFEC601CD27653EA5D54BF1DDE699",
+      "importIds": {
+        "gm_legacy": ["liyueExquisiteChest/506"],
+        "yuanshen": ["27_506"]
+      },
+      "popupTitle": {
+        "zh": "璃月宝箱"
+      },
+      "popupContent": {
+        "zh": "这是一个璃月宝箱"
+      },
+      "popupMedia": "liyue/exquisite-chest/27_506",
+      "popupAttribution": "Unknown"
+    },
+    {
+      "coordinates": [-45.36562, 20.49375],
+      "id": "E5060DD2DCB6A9D8B38401E66D91223FFDC807DE",
+      "importIds": {
+        "gm_legacy": ["liyueExquisiteChest/508"],
+        "yuanshen": ["27_508"]
+      },
+      "popupTitle": {
+        "zh": "璃月宝箱"
+      },
+      "popupContent": {
+        "zh": "这是一个璃月宝箱"
+      },
+      "popupMedia": "liyue/exquisite-chest/27_508",
+      "popupAttribution": "Unknown"
+    },
+    {
+      "coordinates": [-44.87606, 21.81406],
+      "id": "3FDB354DDAC17CD28F136FE06E3D40F95FB26EBA",
+      "importIds": {
+        "yuanshen": ["27_510"],
+        "gm_legacy": ["liyueExquisiteChest/510"]
+      },
+      "popupTitle": {
+        "en": "#510",
+        "zh": "璃月宝箱"
+      },
+      "popupContent": {
+        "zh": "这是一个击杀怪物解锁封印的【精致宝箱】"
+      },
+      "popupMedia": "liyue/exquisite-chest/27_510",
+      "popupAttribution": "Yuanshen.site"
+    },
+    {
+      "coordinates": [-40.39687, 21.81406],
+      "id": "62038E4947632993B4EBF1450BF4FDC7720CB88E",
+      "importIds": {
+        "gm_legacy": ["liyueExquisiteChest/514"],
+        "yuanshen": ["27_514"]
+      },
+      "popupTitle": {
+        "zh": "璃月宝箱"
+      },
+      "popupContent": {
+        "zh": "这是一个璃月宝箱"
+      },
+      "popupMedia": "liyue/exquisite-chest/27_514",
+      "popupAttribution": "Unknown"
+    },
+    {
+      "coordinates": [-40.00625, 23.20468],
+      "id": "F09AA8F991CA0D4CA2EA56EED4FB17D1EF796211",
+      "importIds": {
+        "gm_legacy": ["liyueExquisiteChest/516"],
+        "yuanshen": ["27_516"]
+      },
+      "popupTitle": {
+        "zh": "璃月宝箱"
+      },
+      "popupContent": {
+        "zh": "这是一个璃月宝箱"
+      },
+      "popupMedia": "liyue/exquisite-chest/27_516",
+      "popupAttribution": "Unknown"
+    },
+    {
+      "coordinates": [-36.81094, 22.11875],
+      "id": "CD0C44A6137FAA5511000F1DC7AA0173B642957D",
+      "importIds": {
+        "gm_legacy": ["liyueExquisiteChest/519"],
+        "yuanshen": ["27_519"]
+      },
+      "popupTitle": {
+        "zh": "璃月宝箱"
+      },
+      "popupContent": {
+        "zh": "这是一个璃月宝箱"
+      },
+      "popupMedia": "liyue/exquisite-chest/27_519",
+      "popupAttribution": "Unknown"
+    },
+    {
+      "coordinates": [-45.17421, 22.54974],
+      "id": "AEBB058E61554E9325DB398355E868C57D6A6A80",
+      "importIds": {
+        "yuanshen": ["27_527"],
+        "gm_legacy": ["liyueExquisiteChest/527"]
+      },
+      "popupTitle": {
+        "zh": "璃月宝箱"
+      },
+      "popupContent": {
+        "zh": "这是一个击败怪物解锁封印的【精致宝箱】"
+      },
+      "popupMedia": "liyue/exquisite-chest/27_527",
+      "popupAttribution": "Yuanshen.site"
+    },
+    {
+      "coordinates": [-44.61562, 23.0875],
+      "id": "96C9706C6679C459AFE600FC1A8ECF21CFF351B4",
+      "importIds": {
+        "gm_legacy": ["liyueExquisiteChest/530"],
+        "yuanshen": ["27_530"]
+      },
+      "popupTitle": {
+        "zh": "璃月宝箱"
+      },
+      "popupContent": {
+        "zh": "这是一个璃月宝箱"
+      },
+      "popupMedia": "liyue/exquisite-chest/27_530",
+      "popupAttribution": "Unknown"
+    },
+    {
+      "coordinates": [-44.44376, 22.85313],
+      "id": "28F251A290E133FF7C0963D727E645A392DED201",
+      "importIds": {
+        "gm_legacy": ["liyueExquisiteChest/534"],
+        "yuanshen": ["27_534"]
+      },
+      "popupTitle": {
+        "zh": "璃月宝箱"
+      },
+      "popupContent": {
+        "zh": "这是一个璃月宝箱"
+      },
+      "popupMedia": "liyue/exquisite-chest/27_534",
+      "popupAttribution": "Unknown"
+    },
+    {
+      "coordinates": [-44.54532, 22.85313],
+      "id": "439D2EE2962EE63222016D596026B2FA7742BA41",
+      "importIds": {
+        "gm_legacy": ["liyueExquisiteChest/535"],
+        "yuanshen": ["27_535"]
+      },
+      "popupTitle": {
+        "zh": "璃月宝箱"
+      },
+      "popupContent": {
+        "zh": "这是一个璃月宝箱"
+      },
+      "popupMedia": "liyue/exquisite-chest/27_535",
+      "popupAttribution": "Unknown"
+    },
+    {
+      "coordinates": [-44.71718, 21.97031],
+      "id": "E66F39DC4A1A36A8ADED47C9AD6538B7C5376B9E",
+      "importIds": {
+        "gm_legacy": ["liyueExquisiteChest/538"],
+        "yuanshen": ["27_538"]
+      },
+      "popupTitle": {
+        "zh": "璃月宝箱"
+      },
+      "popupContent": {
+        "zh": "这是一个璃月宝箱"
+      },
+      "popupMedia": "liyue/exquisite-chest/27_538",
+      "popupAttribution": "Unknown"
+    },
+    {
+      "coordinates": [-45.14689, 22.50156],
+      "id": "334AFA812A2CF765581F2F16FF4DA94622D886F2",
+      "importIds": {
+        "yuanshen": ["27_541"],
+        "gm_legacy": ["liyueExquisiteChest/541"]
+      },
+      "popupTitle": {
+        "en": "#541",
+        "zh": "璃月宝箱"
+      },
+      "popupContent": {
+        "zh": "这是一个直接开启的【普通宝箱】"
+      },
+      "popupMedia": "liyue/exquisite-chest/27_541",
+      "popupAttribution": "Yuanshen.site"
+    },
+    {
+      "coordinates": [-45.58438, 22.14218],
+      "id": "6F41FA2B136223CC2D261312E025257642147AA6",
+      "importIds": {
+        "gm_legacy": ["liyueExquisiteChest/542"]
+      },
+      "popupAttribution": "Unknown",
+      "popupMedia": "liyue/exquisite-chest/27_542"
+    },
+    {
+      "coordinates": [-45.60521, 22.24377],
+      "id": "41CCDFEDFBB0B00740D5255F37020A6BFB98C824",
+      "importIds": {
+        "yuanshen": ["27_542"]
+      },
+      "popupTitle": {
+        "en": "#542",
+        "zh": "璃月宝箱"
+      },
+      "popupContent": {
+        "zh": "遗迹底层藏在木箱后可直接开启的【普通宝箱】2原石"
+      },
+      "popupMedia": "liyue/exquisite-chest/41CCDFE",
+      "popupAttribution": "Yuanshen.site"
+    },
+    {
+      "coordinates": [-46.55312, 23.25156],
+      "id": "83E90D183B5F64CACDA2CF2F98CD2769CA9D9B11",
+      "importIds": {
+        "gm_legacy": ["liyueExquisiteChest/543"],
+        "yuanshen": ["27_543"]
+      },
+      "popupTitle": {
+        "zh": "璃月宝箱"
+      },
+      "popupContent": {
+        "zh": "这是一个璃月宝箱"
+      },
+      "popupMedia": "liyue/exquisite-chest/27_543",
+      "popupAttribution": "Unknown"
+    },
+    {
+      "coordinates": [-48.42813, 21.07969],
+      "id": "EBC2A5EE44C624CD18B2A8D30C80EA169F794BD5",
+      "importIds": {
+        "gm_legacy": ["liyueExquisiteChest/547"],
+        "yuanshen": ["27_547"]
+      },
+      "popupTitle": {
+        "zh": "璃月宝箱"
+      },
+      "popupContent": {
+        "zh": "这是一个璃月宝箱"
+      },
+      "popupMedia": "liyue/exquisite-chest/27_547",
+      "popupAttribution": "Unknown"
+    },
+    {
+      "coordinates": [-47.68594, 20.99375],
+      "id": "37C1C9AC1704B03FDFE6283FF6836DFE25CD75ED",
+      "importIds": {
+        "gm_legacy": ["liyueExquisiteChest/548"],
+        "yuanshen": ["27_548"]
+      },
+      "popupTitle": {
+        "zh": "璃月宝箱"
+      },
+      "popupContent": {
+        "zh": "这是一个璃月宝箱"
+      },
+      "popupMedia": "liyue/exquisite-chest/27_548",
+      "popupAttribution": "Unknown"
+    },
+    {
+      "coordinates": [-48.43593, 20.28281],
+      "id": "710834C94E4156F12E62FC04B14C552039742135",
+      "importIds": {
+        "gm_legacy": ["liyueExquisiteChest/550"],
+        "yuanshen": ["27_550"]
+      },
+      "popupTitle": {
+        "zh": "璃月宝箱"
+      },
+      "popupContent": {
+        "zh": "这是一个璃月宝箱"
+      },
+      "popupMedia": "liyue/exquisite-chest/27_550",
+      "popupAttribution": "Unknown"
+    },
+    {
+      "coordinates": [-51.61563, 19.775],
+      "id": "599DE8D16231364DD8CC7DC0A049CF74EFF85444",
+      "importIds": {
+        "gm_legacy": ["liyueExquisiteChest/556"],
+        "yuanshen": ["27_556"]
+      },
+      "popupTitle": {
+        "zh": "璃月宝箱"
+      },
+      "popupContent": {
+        "zh": "这是一个璃月宝箱"
+      },
+      "popupMedia": "liyue/exquisite-chest/27_556",
+      "popupAttribution": "Unknown"
+    },
+    {
+      "coordinates": [-51.92813, 18.9625],
+      "id": "9A6785568C43182D92C56BDE9938EA653651ECCA",
+      "importIds": {
+        "gm_legacy": ["liyueExquisiteChest/563"],
+        "yuanshen": ["27_563"]
+      },
+      "popupTitle": {
+        "zh": "璃月宝箱"
+      },
+      "popupContent": {
+        "zh": "这是一个璃月宝箱"
+      },
+      "popupMedia": "liyue/exquisite-chest/27_563",
+      "popupAttribution": "Unknown"
+    },
+    {
+      "coordinates": [-52.1, 20.43906],
+      "id": "D33CE01CE9C6AF5E455C32017A3BBD26AEA8DF93",
+      "importIds": {
+        "gm_legacy": ["liyueExquisiteChest/569"],
+        "yuanshen": ["27_569"]
+      },
+      "popupTitle": {
+        "zh": "璃月宝箱"
+      },
+      "popupContent": {
+        "zh": "这是一个璃月宝箱"
+      },
+      "popupMedia": "liyue/exquisite-chest/27_569",
+      "popupAttribution": "Unknown"
+    },
+    {
+      "coordinates": [-52.15469, 25.07969],
+      "id": "4F5ED4DE99C77A130A87FF1AB6F99C010BCAEE21",
+      "importIds": {
+        "gm_legacy": ["liyueExquisiteChest/576"],
+        "yuanshen": ["27_576"]
+      },
+      "popupTitle": {
+        "zh": "璃月宝箱"
+      },
+      "popupContent": {
+        "zh": "这是一个璃月宝箱"
+      },
+      "popupMedia": "liyue/exquisite-chest/27_576",
+      "popupAttribution": "Unknown"
+    },
+    {
+      "coordinates": [-52.35, 25.22031],
+      "id": "F77EC24D163B8A4DE715B3E62E820C4C014F2C13",
+      "importIds": {
+        "gm_legacy": ["liyueExquisiteChest/577"],
+        "yuanshen": ["27_577"]
+      },
+      "popupTitle": {
+        "zh": "璃月宝箱"
+      },
+      "popupContent": {
+        "zh": "这是一个璃月宝箱"
+      },
+      "popupMedia": "liyue/exquisite-chest/27_577",
+      "popupAttribution": "Unknown"
+    },
+    {
+      "coordinates": [-52.06875, 24.70469],
+      "id": "9A1EF19FB6BF1EEF00D83E393CDF4F26EE4FCDDF",
+      "importIds": {
+        "gm_legacy": ["liyueExquisiteChest/578"],
+        "yuanshen": ["27_578"]
+      },
+      "popupTitle": {
+        "zh": "璃月宝箱"
+      },
+      "popupContent": {
+        "zh": "这是一个璃月宝箱"
+      },
+      "popupMedia": "liyue/exquisite-chest/27_578",
+      "popupAttribution": "Unknown"
+    },
+    {
+      "coordinates": [-52.42032, 25.10312],
+      "id": "BFE2686299F1F2C6BBFAACAE4AB276E03811871B",
+      "importIds": {
+        "gm_legacy": ["liyueExquisiteChest/579"],
+        "yuanshen": ["27_579"]
+      },
+      "popupTitle": {
+        "zh": "璃月宝箱"
+      },
+      "popupContent": {
+        "zh": "这是一个璃月宝箱"
+      },
+      "popupMedia": "liyue/exquisite-chest/27_579",
+      "popupAttribution": "Unknown"
+    },
+    {
+      "coordinates": [-49.77969, 26.37656],
+      "id": "C7282D40A5DDA860AB2361F1DC5C7D0647FA074C",
+      "importIds": {
+        "gm_legacy": ["liyueExquisiteChest/582"],
+        "yuanshen": ["27_582"]
+      },
+      "popupTitle": {
+        "zh": "璃月宝箱"
+      },
+      "popupContent": {
+        "zh": "这是一个璃月宝箱"
+      },
+      "popupMedia": "liyue/exquisite-chest/27_582",
+      "popupAttribution": "Unknown"
+    },
+    {
+      "coordinates": [-46.75625, 25.30625],
+      "id": "ECB583F9E45AC10E5CA79CFA9E33CCF02EFF7770",
+      "importIds": {
+        "gm_legacy": ["liyueExquisiteChest/594"],
+        "yuanshen": ["27_594"]
+      },
+      "popupTitle": {
+        "zh": "璃月宝箱"
+      },
+      "popupContent": {
+        "zh": "这是一个璃月宝箱"
+      },
+      "popupMedia": "liyue/exquisite-chest/27_594",
+      "popupAttribution": "Unknown"
+    },
+    {
+      "coordinates": [-47.30313, 25.42344],
+      "id": "F12D3BE95961BAF2FB274FD23AB681C62DB09075",
+      "importIds": {
+        "gm_legacy": ["liyueExquisiteChest/597"],
+        "yuanshen": ["27_597"]
+      },
+      "popupTitle": {
+        "zh": "璃月宝箱"
+      },
+      "popupContent": {
+        "zh": "这是一个璃月宝箱"
+      },
+      "popupMedia": "liyue/exquisite-chest/27_597",
+      "popupAttribution": "Unknown"
+    },
+    {
+      "coordinates": [-46.75625, 25.25938],
+      "id": "B0E37853A52C13B62560C2632172974646081982",
+      "importIds": {
+        "gm_legacy": ["liyueExquisiteChest/598"],
+        "yuanshen": ["27_598"]
+      },
+      "popupTitle": {
+        "zh": "璃月宝箱"
+      },
+      "popupContent": {
+        "zh": "这是一个璃月宝箱"
+      },
+      "popupMedia": "liyue/exquisite-chest/27_598",
+      "popupAttribution": "Unknown"
+    },
+    {
+      "coordinates": [-46.33438, 25.61875],
+      "id": "99959012C5754D0C0A8DB0BF1F1E01808DFE288C",
+      "importIds": {
+        "gm_legacy": ["liyueExquisiteChest/599"],
+        "yuanshen": ["27_599"]
+      },
+      "popupTitle": {
+        "zh": "璃月宝箱"
+      },
+      "popupContent": {
+        "zh": "这是一个璃月宝箱"
+      },
+      "popupMedia": "liyue/exquisite-chest/27_599",
+      "popupAttribution": "Unknown"
+    },
+    {
+      "coordinates": [-45.725, 26.7125],
+      "id": "86C048A1D9CDFADA4D93AC430E9FBBF109D1B3F3",
+      "importIds": {
+        "gm_legacy": ["liyueExquisiteChest/607"],
+        "yuanshen": ["27_607"]
+      },
+      "popupTitle": {
+        "zh": "璃月宝箱"
+      },
+      "popupContent": {
+        "zh": "这是一个璃月宝箱"
+      },
+      "popupMedia": "liyue/exquisite-chest/27_607",
+      "popupAttribution": "Unknown"
+    },
+    {
+      "coordinates": [-43.95156, 29.67343],
+      "id": "367C8D13CF07B5A05339B008CBFA0762ACAB342D",
+      "importIds": {
+        "gm_legacy": ["liyueExquisiteChest/609"],
+        "yuanshen": ["27_609"]
+      },
+      "popupTitle": {
+        "zh": "璃月宝箱"
+      },
+      "popupContent": {
+        "zh": "这是一个璃月宝箱"
+      },
+      "popupMedia": "liyue/exquisite-chest/27_609",
+      "popupAttribution": "Unknown"
+    },
+    {
+      "coordinates": [-43.11953, 28.90781],
+      "id": "915E6FD28EFC27A0048CC7DDD4332EB8BECE0656",
+      "importIds": {
+        "yuanshen": ["27_611"],
+        "gm_legacy": ["liyueExquisiteChest/611"]
+      },
+      "popupTitle": {
+        "en": "#611",
+        "zh": "璃月宝箱"
+      },
+      "popupContent": {
+        "zh": "击碎三处石堆出现的【普通宝箱】"
+      },
+      "popupMedia": "liyue/exquisite-chest/27_611",
+      "popupAttribution": "Yuanshen.site"
+    },
+    {
+      "coordinates": [-42.31093, 28.24375],
+      "id": "0694CFDA8DA2E0EE2558AF2436079D292CDF6DA7",
+      "importIds": {
+        "gm_legacy": ["liyueExquisiteChest/613"],
+        "yuanshen": ["27_613"]
+      },
+      "popupTitle": {
+        "zh": "璃月宝箱"
+      },
+      "popupContent": {
+        "zh": "这是一个璃月宝箱"
+      },
+      "popupMedia": "liyue/exquisite-chest/27_613",
+      "popupAttribution": "Unknown"
+    },
+    {
+      "coordinates": [-42.50625, 27.79844],
+      "id": "EFC9A275BCDE9D9B6A616EBC60CDBEF32BF98E36",
+      "importIds": {
+        "gm_legacy": ["liyueExquisiteChest/614"],
+        "yuanshen": ["27_614"]
+      },
+      "popupTitle": {
+        "zh": "璃月宝箱"
+      },
+      "popupContent": {
+        "zh": "这是一个璃月宝箱"
+      },
+      "popupMedia": "liyue/exquisite-chest/27_614",
+      "popupAttribution": "Unknown"
+    },
+    {
+      "coordinates": [-45.02187, 29.89219],
+      "id": "5056D0E01506CCE9E1A308E178FDA5E2684E7180",
+      "importIds": {
+        "gm_legacy": ["liyueExquisiteChest/617"],
+        "yuanshen": ["27_617"]
+      },
+      "popupTitle": {
+        "zh": "璃月宝箱"
+      },
+      "popupContent": {
+        "zh": "这是一个璃月宝箱"
+      },
+      "popupMedia": "liyue/exquisite-chest/27_617",
+      "popupAttribution": "Unknown"
+    },
+    {
+      "coordinates": [-40.725, 33.5875],
+      "id": "583439AED0848947B09072D3F93A9A660D281C78",
+      "importIds": {
+        "gm_legacy": ["liyueExquisiteChest/622"],
+        "yuanshen": ["27_622"]
+      },
+      "popupTitle": {
+        "zh": "璃月宝箱"
+      },
+      "popupContent": {
+        "zh": "这是一个璃月宝箱"
+      },
+      "popupMedia": "liyue/exquisite-chest/27_622",
+      "popupAttribution": "Unknown"
+    },
+    {
+      "coordinates": [-40.10782, 33.025],
+      "id": "5B339E622E4A936707DA40134A21240E66611C86",
+      "importIds": {
+        "gm_legacy": ["liyueExquisiteChest/623"],
+        "yuanshen": ["27_623"]
+      },
+      "popupTitle": {
+        "zh": "璃月宝箱"
+      },
+      "popupContent": {
+        "zh": "这是一个璃月宝箱"
+      },
+      "popupMedia": "liyue/exquisite-chest/27_623",
+      "popupAttribution": "Unknown"
+    },
+    {
+      "coordinates": [-43.68593, 28.07188],
+      "id": "743925AC76572DB953CCD8CE80C70CAC12E8D4A8",
+      "importIds": {
+        "gm_legacy": ["liyueExquisiteChest/633"],
+        "yuanshen": ["27_633"]
+      },
+      "popupTitle": {
+        "zh": "璃月宝箱"
+      },
+      "popupContent": {
+        "zh": "这是一个璃月宝箱"
+      },
+      "popupMedia": "liyue/exquisite-chest/27_633",
+      "popupAttribution": "Unknown"
+    },
+    {
+      "coordinates": [-28.37344, 22.31406],
+      "id": "3F6141987AE9DEAEF519B381493C1F2A99E3D393",
+      "importIds": {
+        "gm_legacy": ["liyueExquisiteChest/643"],
+        "yuanshen": ["27_643"]
+      },
+      "popupTitle": {
+        "zh": "璃月宝箱"
+      },
+      "popupContent": {
+        "zh": "这是一个璃月宝箱"
+      },
+      "popupMedia": "liyue/exquisite-chest/27_643",
+      "popupAttribution": "Unknown"
+    },
+    {
+      "coordinates": [-33.27188, 20.32969],
+      "id": "BEA8A3771633762FB68EED01FC85969B4FE58A34",
+      "importIds": {
+        "gm_legacy": ["liyueExquisiteChest/645"],
+        "yuanshen": ["27_645"]
+      },
+      "popupTitle": {
+        "zh": "璃月宝箱"
+      },
+      "popupContent": {
+        "zh": "这是一个璃月宝箱"
+      },
+      "popupMedia": "liyue/exquisite-chest/27_645",
+      "popupAttribution": "Unknown"
+    },
+    {
+      "coordinates": [-26.9125, 27.59531],
+      "id": "89A894D29AAA8A514FA145751955B429B8D915DB",
+      "importIds": {
+        "gm_legacy": ["liyueExquisiteChest/654"],
+        "yuanshen": ["27_654"]
+      },
+      "popupTitle": {
+        "zh": "璃月宝箱"
+      },
+      "popupContent": {
+        "zh": "这是一个璃月宝箱"
+      },
+      "popupMedia": "liyue/exquisite-chest/27_654",
+      "popupAttribution": "Unknown"
+    },
+    {
+      "coordinates": [-28.00625, 28.98594],
+      "id": "DD515202782E476CAA235D8DB42FE279C543A3AA",
+      "importIds": {
+        "gm_legacy": ["liyueExquisiteChest/657"],
+        "yuanshen": ["27_657"]
+      },
+      "popupTitle": {
+        "zh": "璃月宝箱"
+      },
+      "popupContent": {
+        "zh": "这是一个璃月宝箱"
+      },
+      "popupMedia": "liyue/exquisite-chest/27_657",
+      "popupAttribution": "Unknown"
+    },
+    {
+      "coordinates": [-27.45938, 24.17344],
+      "id": "76E753D7DA3012163A0E74ED77C54ABC5E374893",
+      "importIds": {
+        "gm_legacy": ["liyueExquisiteChest/659"],
+        "yuanshen": ["27_659"]
+      },
+      "popupTitle": {
+        "zh": "璃月宝箱"
+      },
+      "popupContent": {
+        "zh": "这是一个璃月宝箱"
+      },
+      "popupMedia": "liyue/exquisite-chest/27_659",
+      "popupAttribution": "Unknown"
+    },
+    {
+      "coordinates": [-25.14687, 25.86875],
+      "id": "3B9D76216D1B665DE9012D48DB8E68F77A39B085",
+      "importIds": {
+        "gm_legacy": ["liyueExquisiteChest/660"],
+        "yuanshen": ["27_660"]
+      },
+      "popupTitle": {
+        "zh": "璃月宝箱"
+      },
+      "popupContent": {
+        "zh": "这是一个璃月宝箱"
+      },
+      "popupMedia": "liyue/exquisite-chest/27_660",
+      "popupAttribution": "Unknown"
+    },
+    {
+      "coordinates": [-24.79531, 24.97031],
+      "id": "CB5DC814B2F56F0C11BD767592ABD2404C2866DC",
+      "importIds": {
+        "gm_legacy": ["liyueExquisiteChest/661"],
+        "yuanshen": ["27_661"]
+      },
+      "popupTitle": {
+        "zh": "璃月宝箱"
+      },
+      "popupContent": {
+        "zh": "这是一个璃月宝箱"
+      },
+      "popupMedia": "liyue/exquisite-chest/27_661",
+      "popupAttribution": "Unknown"
+    },
+    {
+      "coordinates": [-25.81094, 27.67343],
+      "id": "017DA4FCACEBB7CA3575AF0FD48730835CE85822",
+      "importIds": {
+        "gm_legacy": ["liyueExquisiteChest/662"],
+        "yuanshen": ["27_662"]
+      },
+      "popupTitle": {
+        "zh": "璃月宝箱"
+      },
+      "popupContent": {
+        "zh": "这是一个璃月宝箱"
+      },
+      "popupMedia": "liyue/exquisite-chest/27_662",
+      "popupAttribution": "Unknown"
+    },
+    {
+      "coordinates": [-31.92813, 28.74375],
+      "id": "010D2AE5CE6E35BF6B28107C93A2AB1CBF9F5474",
+      "importIds": {
+        "gm_legacy": ["liyueExquisiteChest/664"],
+        "yuanshen": ["27_664"]
+      },
+      "popupTitle": {
+        "zh": "璃月宝箱"
+      },
+      "popupContent": {
+        "zh": "这是一个璃月宝箱"
+      },
+      "popupMedia": "liyue/exquisite-chest/27_664",
+      "popupAttribution": "Unknown"
+    },
+    {
+      "coordinates": [-33.13125, 28.42344],
+      "id": "7764139BC6CDC223DA141F372788A22E3132D32F",
+      "importIds": {
+        "gm_legacy": ["liyueExquisiteChest/666"],
+        "yuanshen": ["27_666"]
+      },
+      "popupTitle": {
+        "zh": "璃月宝箱"
+      },
+      "popupContent": {
+        "zh": "这是一个璃月宝箱"
+      },
+      "popupMedia": "liyue/exquisite-chest/27_666",
+      "popupAttribution": "Unknown"
+    },
+    {
+      "coordinates": [-32.21719, 33.62657],
+      "id": "73EB00AF6C0E289367C20D4B3D3A4D01092B9C88",
+      "importIds": {
+        "gm_legacy": ["liyueExquisiteChest/669"],
+        "yuanshen": ["27_669"]
+      },
+      "popupTitle": {
+        "zh": "璃月宝箱"
+      },
+      "popupContent": {
+        "zh": "这是一个璃月宝箱"
+      },
+      "popupMedia": "liyue/exquisite-chest/27_669",
+      "popupAttribution": "Unknown"
+    },
+    {
+      "coordinates": [-31.50625, 34.60313],
+      "id": "267C7F170694932B98A895884291C1FFECDD62B3",
+      "importIds": {
+        "gm_legacy": ["liyueExquisiteChest/671"],
+        "yuanshen": ["27_671"]
+      },
+      "popupTitle": {
+        "zh": "璃月宝箱"
+      },
+      "popupContent": {
+        "zh": "这是一个璃月宝箱"
+      },
+      "popupMedia": "liyue/exquisite-chest/27_671",
+      "popupAttribution": "Unknown"
+    },
+    {
+      "coordinates": [-34.04531, 34.56407],
+      "id": "CDBAAB098C7A82EEB05E97DE800BEC978B86CC1B",
+      "importIds": {
+        "gm_legacy": ["liyueExquisiteChest/672"],
+        "yuanshen": ["27_672"]
+      },
+      "popupTitle": {
+        "zh": "璃月宝箱"
+      },
+      "popupContent": {
+        "zh": "打掉箭靶出现宝箱"
+      },
+      "popupMedia": "liyue/exquisite-chest/27_672",
+      "popupAttribution": "Unknown"
+    },
+    {
+      "coordinates": [-35.77967, 34.58752],
+      "id": "BF68F844DE7ECE43C75581DDB688F0C60CCE4269",
+      "importIds": {
+        "gm_legacy": ["liyueExquisiteChest/675"],
+        "yuanshen": ["27_675"]
+      },
+      "popupTitle": {
+        "zh": "璃月宝箱"
+      },
+      "popupContent": {
+        "zh": "这是一个璃月宝箱"
+      },
+      "popupMedia": "liyue/exquisite-chest/27_675",
+      "popupAttribution": "Unknown"
+    },
+    {
+      "coordinates": [-35.88906, 34.66563],
+      "id": "0FF2EC9FAF8C3DCC17775D7A16DEEF6A98E5AE82",
+      "importIds": {
+        "gm_legacy": ["liyueExquisiteChest/676"],
+        "yuanshen": ["27_676"]
+      },
+      "popupTitle": {
+        "zh": "璃月宝箱"
+      },
+      "popupContent": {
+        "zh": "这是一个璃月宝箱"
+      },
+      "popupMedia": "liyue/exquisite-chest/27_676",
+      "popupAttribution": "Unknown"
+    },
+    {
+      "coordinates": [-36.26406, 34.66563],
+      "id": "7B6A8C68AD876AB61AF131DE0556B61149E18F8D",
+      "importIds": {
+        "gm_legacy": ["liyueExquisiteChest/677"],
+        "yuanshen": ["27_677"]
+      },
+      "popupTitle": {
+        "zh": "璃月宝箱"
+      },
+      "popupContent": {
+        "zh": "这是一个璃月宝箱"
+      },
+      "popupMedia": "liyue/exquisite-chest/27_677",
+      "popupAttribution": "Unknown"
+    },
+    {
+      "coordinates": [-36.49062, 35.4625],
+      "id": "336D6852CC75C11A460F940A41D314A5A9FCC47B",
+      "importIds": {
+        "gm_legacy": ["liyueExquisiteChest/679"],
+        "yuanshen": ["27_679"]
+      },
+      "popupTitle": {
+        "zh": "璃月宝箱"
+      },
+      "popupContent": {
+        "zh": "这是一个璃月宝箱"
+      },
+      "popupMedia": "liyue/exquisite-chest/27_679",
+      "popupAttribution": "Unknown"
+    },
+    {
+      "coordinates": [-36.30701, 35.68515],
+      "id": "11EFDF7E78CDEE1005C87D7C12FB98C963EF624C",
+      "importIds": {
+        "gm_legacy": ["liyueExquisiteChest/680"],
+        "yuanshen": ["27_680"]
+      },
+      "popupTitle": {
+        "zh": "璃月宝箱"
+      },
+      "popupContent": {
+        "zh": "这是一个被岩元素保护的【普通宝箱】无原石"
+      },
+      "popupMedia": "liyue/exquisite-chest/27_680",
+      "popupAttribution": "Unknown"
+    },
+    {
+      "coordinates": [-33.23282, 34.63437],
+      "id": "DC381A151B5644A401C9E6117466317430D0AA30",
+      "importIds": {
+        "gm_legacy": ["liyueExquisiteChest/684"],
+        "yuanshen": ["27_684"]
+      },
+      "popupTitle": {
+        "zh": "璃月宝箱"
+      },
+      "popupContent": {
+        "zh": "这是一个璃月宝箱"
+      },
+      "popupMedia": "liyue/exquisite-chest/27_684",
+      "popupAttribution": "Unknown"
+    },
+    {
+      "coordinates": [-49.46718, 29.15],
+      "id": "91722895D673F955B3D7757797124A3FADAD2D11",
+      "importIds": {
+        "gm_legacy": ["liyueExquisiteChest/688"],
+        "yuanshen": ["27_688"]
+      },
+      "popupTitle": {
+        "zh": "璃月宝箱"
+      },
+      "popupContent": {
+        "zh": "这是一个璃月宝箱"
+      },
+      "popupMedia": "liyue/exquisite-chest/27_688",
+      "popupAttribution": "Unknown"
+    },
+    {
+      "coordinates": [-49.32656, 28.73593],
+      "id": "971DB220DA4EE04662F738AC57785692A543E504",
+      "importIds": {
+        "gm_legacy": ["liyueExquisiteChest/689"],
+        "yuanshen": ["27_689"]
+      },
+      "popupTitle": {
+        "zh": "璃月宝箱"
+      },
+      "popupContent": {
+        "zh": "这是一个璃月宝箱"
+      },
+      "popupMedia": "liyue/exquisite-chest/27_689",
+      "popupAttribution": "Unknown"
+    },
+    {
+      "coordinates": [-49.84219, 29.66563],
+      "id": "865085E2AF040EA6D48514D9A5EAC9222E53A89B",
+      "importIds": {
+        "gm_legacy": ["liyueExquisiteChest/690"],
+        "yuanshen": ["27_690"]
+      },
+      "popupTitle": {
+        "zh": "璃月宝箱"
+      },
+      "popupContent": {
+        "zh": "这是一个璃月宝箱"
+      },
+      "popupMedia": "liyue/exquisite-chest/27_690",
+      "popupAttribution": "Unknown"
+    },
+    {
+      "coordinates": [-49.53749, 29.8375],
+      "id": "D135616F7297895F62B2D09608E47B6E55D457F6",
+      "importIds": {
+        "gm_legacy": ["liyueExquisiteChest/691"],
+        "yuanshen": ["27_691"]
+      },
+      "popupTitle": {
+        "zh": "璃月宝箱"
+      },
+      "popupContent": {
+        "zh": "这是一个璃月宝箱"
+      },
+      "popupMedia": "liyue/exquisite-chest/27_691",
+      "popupAttribution": "Unknown"
+    },
+    {
+      "coordinates": [-49.29532, 28.62657],
+      "id": "DE44035DA0E675E8A5A65A9FC23E6D62537E97E1",
+      "importIds": {
+        "gm_legacy": ["liyueExquisiteChest/693"],
+        "yuanshen": ["27_693"]
+      },
+      "popupTitle": {
+        "zh": "璃月宝箱"
+      },
+      "popupContent": {
+        "zh": "这是一个璃月宝箱"
+      },
+      "popupMedia": "liyue/exquisite-chest/27_693",
+      "popupAttribution": "Unknown"
+    },
+    {
+      "coordinates": [-48.24844, 28.54063],
+      "id": "4E5213234CD6D6DF8CAAB7EAE495029B945DDFDC",
+      "importIds": {
+        "gm_legacy": ["liyueExquisiteChest/694"],
+        "yuanshen": ["27_694"]
+      },
+      "popupTitle": {
+        "zh": "璃月宝箱"
+      },
+      "popupContent": {
+        "zh": "这是一个璃月宝箱"
+      },
+      "popupMedia": "liyue/exquisite-chest/27_694",
+      "popupAttribution": "Unknown"
+    },
+    {
+      "coordinates": [-50.06093, 31.11094],
+      "id": "7C466E7AA51B4665787294B3C1E7A9EB79A1C6E8",
+      "importIds": {
+        "gm_legacy": ["liyueExquisiteChest/695"],
+        "yuanshen": ["27_695"]
+      },
+      "popupTitle": {
+        "zh": "璃月宝箱"
+      },
+      "popupContent": {
+        "zh": "这是一个璃月宝箱"
+      },
+      "popupMedia": "liyue/exquisite-chest/27_695",
+      "popupAttribution": "Unknown"
+    },
+    {
+      "coordinates": [-49.63125, 31.69687],
+      "id": "B5B2488A3664DE7A21E2ADAC447F667DF92B32E4",
+      "importIds": {
+        "gm_legacy": ["liyueExquisiteChest/696"],
+        "yuanshen": ["27_696"]
+      },
+      "popupTitle": {
+        "zh": "璃月宝箱"
+      },
+      "popupContent": {
+        "zh": "这是一个璃月宝箱"
+      },
+      "popupMedia": "liyue/exquisite-chest/27_696",
+      "popupAttribution": "Unknown"
+    },
+    {
+      "coordinates": [-49.02187, 28.4625],
+      "id": "B56BD0B8FEF7990FB05D44EBAEE19A1F9335D49A",
+      "importIds": {
+        "gm_legacy": ["liyueExquisiteChest/698"],
+        "yuanshen": ["27_698"]
+      },
+      "popupTitle": {
+        "zh": "璃月宝箱"
+      },
+      "popupContent": {
+        "zh": "这是一个璃月宝箱"
+      },
+      "popupMedia": "liyue/exquisite-chest/27_698",
+      "popupAttribution": "Unknown"
+    },
+    {
+      "coordinates": [-49.36563, 29.9625],
+      "id": "52F886F183573EE873BF14F0D741F6F6BE25EDD8",
+      "importIds": {
+        "gm_legacy": ["liyueExquisiteChest/700"],
+        "yuanshen": ["27_700"]
+      },
+      "popupTitle": {
+        "zh": "璃月宝箱"
+      },
+      "popupContent": {
+        "zh": "这是一个璃月宝箱"
+      },
+      "popupMedia": "liyue/exquisite-chest/27_700",
+      "popupAttribution": "Unknown"
+    },
+    {
+      "coordinates": [-47.63907, 27.82969],
+      "id": "F2632AFFEC46198EE1EB6A701FE9EB88CCD9DAF9",
+      "importIds": {
+        "gm_legacy": ["liyueExquisiteChest/701"],
+        "yuanshen": ["27_701"]
+      },
+      "popupTitle": {
+        "zh": "璃月宝箱"
+      },
+      "popupContent": {
+        "zh": "这是一个璃月宝箱"
+      },
+      "popupMedia": "liyue/exquisite-chest/27_701",
+      "popupAttribution": "Unknown"
+    },
+    {
+      "coordinates": [-37.99062, 21.07969],
+      "id": "AF94179BB8AEB2C0604A6A566E6DB69CF604A829",
+      "importIds": {
+        "gm_legacy": ["liyueExquisiteChest/705"],
+        "yuanshen": ["27_705"]
+      },
+      "popupTitle": {
+        "zh": "璃月宝箱"
+      },
+      "popupContent": {
+        "zh": "这是一个璃月宝箱"
+      },
+      "popupMedia": "liyue/exquisite-chest/27_705",
+      "popupAttribution": "Unknown"
+    },
+    {
+      "coordinates": [-30.39687, 17.775],
+      "id": "84E2EE95DE90D0480905EDBE2953217BC047B3AA",
+      "importIds": {
+        "gm_legacy": ["liyueExquisiteChest/708"],
+        "yuanshen": ["27_708"]
+      },
+      "popupTitle": {
+        "zh": "璃月宝箱"
+      },
+      "popupContent": {
+        "zh": "这是一个璃月宝箱"
+      },
+      "popupMedia": "liyue/exquisite-chest/27_708",
+      "popupAttribution": "Unknown"
+    },
+    {
+      "coordinates": [-28.58437, 17.86094],
+      "id": "B5DFEC547DC1DC09F4FB6EF8962F444C37354F16",
+      "importIds": {
+        "gm_legacy": ["liyueExquisiteChest/710"],
+        "yuanshen": ["27_710"]
+      },
+      "popupTitle": {
+        "zh": "璃月宝箱"
+      },
+      "popupContent": {
+        "zh": "这是一个璃月宝箱"
+      },
+      "popupMedia": "liyue/exquisite-chest/27_710",
+      "popupAttribution": "Unknown"
+    },
+    {
+      "coordinates": [-31.81875, 22.48594],
+      "id": "714B7B2C93DF536F5AA7A04778D2BF5217F07C72",
+      "importIds": {
+        "gm_legacy": ["liyueExquisiteChest/711"],
+        "yuanshen": ["27_711"]
+      },
+      "popupTitle": {
+        "zh": "璃月宝箱"
+      },
+      "popupContent": {
+        "zh": "这是一个璃月宝箱"
+      },
+      "popupMedia": "liyue/exquisite-chest/27_711",
+      "popupAttribution": "Unknown"
+    },
+    {
+      "coordinates": [-30.89687, 22.34531],
+      "id": "8963D7EB9B7E9E497EB1E363D755D371952E19E3",
+      "importIds": {
+        "gm_legacy": ["liyueExquisiteChest/712"],
+        "yuanshen": ["27_712"]
+      },
+      "popupTitle": {
+        "zh": "璃月宝箱"
+      },
+      "popupContent": {
+        "zh": "这是一个璃月宝箱"
+      },
+      "popupMedia": "liyue/exquisite-chest/27_712",
+      "popupAttribution": "Unknown"
+    },
+    {
+      "coordinates": [-34.34218, 18.72813],
+      "id": "CC9813462EED76216224C541DA0379023A534FB1",
+      "importIds": {
+        "gm_legacy": ["liyueExquisiteChest/714"],
+        "yuanshen": ["27_714"]
+      },
+      "popupTitle": {
+        "zh": "璃月宝箱"
+      },
+      "popupContent": {
+        "zh": "这是一个璃月宝箱"
+      },
+      "popupMedia": "liyue/exquisite-chest/27_714",
+      "popupAttribution": "Unknown"
+    },
+    {
+      "coordinates": [-36.70156, 20.28281],
+      "id": "CB321A6E7BB4B62EB15842EB42FA086C41F6DC16",
+      "importIds": {
+        "gm_legacy": ["liyueExquisiteChest/717"],
+        "yuanshen": ["27_717"]
+      },
+      "popupTitle": {
+        "zh": "璃月宝箱"
+      },
+      "popupContent": {
+        "zh": "这是一个璃月宝箱"
+      },
+      "popupMedia": "liyue/exquisite-chest/27_717",
+      "popupAttribution": "Unknown"
+    },
+    {
+      "coordinates": [-33.31094, 14.04844],
+      "id": "0D545A9182FD2832EF62AB58A4DF2636DE681743",
+      "importIds": {
+        "gm_legacy": ["liyueExquisiteChest/718"],
+        "yuanshen": ["27_718"]
+      },
+      "popupTitle": {
+        "zh": "璃月宝箱"
+      },
+      "popupContent": {
+        "zh": "这是一个璃月宝箱"
+      },
+      "popupMedia": "liyue/exquisite-chest/27_718",
+      "popupAttribution": "Unknown"
+    },
+    {
+      "coordinates": [-35.42813, 17.24375],
+      "id": "2647E9478BA907EF5F4E802695626A66ABEEEEDE",
+      "importIds": {
+        "gm_legacy": ["liyueExquisiteChest/719"],
+        "yuanshen": ["27_719"]
+      },
+      "popupTitle": {
+        "zh": "璃月宝箱"
+      },
+      "popupContent": {
+        "zh": "这是一个璃月宝箱"
+      },
+      "popupMedia": "liyue/exquisite-chest/27_719",
+      "popupAttribution": "Unknown"
+    },
+    {
+      "coordinates": [-38.20938, 15.68125],
+      "id": "1309B581A751DF8D5937B397AD685C48FC4C2151",
+      "importIds": {
+        "gm_legacy": ["liyueExquisiteChest/729"],
+        "yuanshen": ["27_729"]
+      },
+      "popupTitle": {
+        "zh": "璃月宝箱"
+      },
+      "popupContent": {
+        "zh": "这是一个璃月宝箱"
+      },
+      "popupMedia": "liyue/exquisite-chest/27_729",
+      "popupAttribution": "Unknown"
+    },
+    {
+      "coordinates": [-28.98281, 26.79063],
+      "id": "2C14FEB0810A2916791EECDB6223DDB854ABA67B",
+      "importIds": {
+        "gm_legacy": ["liyueExquisiteChest/73"],
+        "yuanshen": ["27_73"]
+      },
+      "popupTitle": {
+        "zh": "璃月宝箱"
+      },
+      "popupContent": {
+        "zh": "这是一个璃月宝箱"
+      },
+      "popupMedia": "liyue/exquisite-chest/27_73",
+      "popupAttribution": "Unknown"
+    },
+    {
+      "coordinates": [-46.20938, 29.70469],
+      "id": "EC347000C8FCD396396F0D017C3987B6878ED49F",
+      "importIds": {
+        "gm_legacy": ["liyueExquisiteChest/742"],
+        "yuanshen": ["27_742"]
+      },
+      "popupTitle": {
+        "zh": "璃月宝箱"
+      },
+      "popupContent": {
+        "zh": "这是一个璃月宝箱"
+      },
+      "popupMedia": "liyue/exquisite-chest/27_742",
+      "popupAttribution": "Unknown"
+    },
+    {
+      "coordinates": [-51.02969, 20.29062],
+      "id": "219919D082FC20E9153DAF6A9D97D1F6ED19C83B",
+      "importIds": {
+        "gm_legacy": ["liyueExquisiteChest/748"],
+        "yuanshen": ["27_748"]
+      },
+      "popupTitle": {
+        "zh": "璃月宝箱"
+      },
+      "popupContent": {
+        "zh": "这是一个璃月宝箱"
+      },
+      "popupMedia": "liyue/exquisite-chest/27_748",
+      "popupAttribution": "Unknown"
+    },
+    {
+      "coordinates": [-28.67032, 27.90781],
+      "id": "FAF8D4632E9D5E05C97D19FA7769FC5BCDF4ECD4",
+      "importIds": {
+        "gm_legacy": ["liyueExquisiteChest/75"],
+        "yuanshen": ["27_75"]
+      },
+      "popupTitle": {
+        "zh": "璃月宝箱"
+      },
+      "popupContent": {
+        "zh": "这是一个璃月宝箱"
+      },
+      "popupMedia": "liyue/exquisite-chest/27_75",
+      "popupAttribution": "Unknown"
+    },
+    {
+      "coordinates": [-35.65469, 33.20468],
+      "id": "2EAF95B98057C386724D0748E86D30BF432CA862",
+      "importIds": {
+        "gm_legacy": ["liyueExquisiteChest/753"],
+        "yuanshen": ["27_753"]
+      },
+      "popupTitle": {
+        "zh": "璃月宝箱"
+      },
+      "popupContent": {
+        "zh": "这是一个璃月宝箱"
+      },
+      "popupMedia": "liyue/exquisite-chest/27_753",
+      "popupAttribution": "Unknown"
+    },
+    {
+      "coordinates": [-44.61562, 25.60313],
+      "id": "3BD28A4B3597FE5DF83CE0CA6F2F174791777287",
+      "importIds": {
+        "gm_legacy": ["liyueExquisiteChest/754"],
+        "yuanshen": ["27_754"]
+      },
+      "popupTitle": {
+        "zh": "璃月宝箱"
+      },
+      "popupContent": {
+        "zh": "这是一个璃月宝箱"
+      },
+      "popupMedia": "liyue/exquisite-chest/27_754",
+      "popupAttribution": "Unknown"
+    },
+    {
+      "coordinates": [-43.70937, 24.75156],
+      "id": "0FAD19FFEE8319762E5B92551DD4299F5FE1A410",
+      "importIds": {
+        "gm_legacy": ["liyueExquisiteChest/756"],
+        "yuanshen": ["27_756"]
+      },
+      "popupTitle": {
+        "zh": "璃月宝箱"
+      },
+      "popupContent": {
+        "zh": "这是一个璃月宝箱"
+      },
+      "popupMedia": "liyue/exquisite-chest/27_756",
+      "popupAttribution": "Unknown"
+    },
+    {
+      "coordinates": [-42.54532, 24.86875],
+      "id": "E75C12A3F1A632D4B463F2F875857F23D9C93CED",
+      "importIds": {
+        "gm_legacy": ["liyueExquisiteChest/758"],
+        "yuanshen": ["27_758"]
+      },
+      "popupTitle": {
+        "zh": "璃月宝箱"
+      },
+      "popupContent": {
+        "zh": "这是一个璃月宝箱"
+      },
+      "popupMedia": "liyue/exquisite-chest/27_758",
+      "popupAttribution": "Unknown"
+    },
+    {
+      "coordinates": [-50.40468, 23.04062],
+      "id": "0132BB80D29CCCA130824FA21D15EA6F5A98FF5C",
+      "importIds": {
+        "gm_legacy": ["liyueExquisiteChest/760"],
+        "yuanshen": ["27_760"]
+      },
+      "popupTitle": {
+        "zh": "璃月宝箱"
+      },
+      "popupContent": {
+        "zh": "这是一个璃月宝箱"
+      },
+      "popupMedia": "liyue/exquisite-chest/27_760",
+      "popupAttribution": "Unknown"
+    },
+    {
+      "coordinates": [-49.59999, 22.85313],
+      "id": "9A89DF57BF1BD60D035D7938F709D2E36C8BFF70",
+      "importIds": {
+        "gm_legacy": ["liyueExquisiteChest/761"],
+        "yuanshen": ["27_761"]
+      },
+      "popupTitle": {
+        "zh": "璃月宝箱"
+      },
+      "popupContent": {
+        "zh": "这是一个璃月宝箱"
+      },
+      "popupMedia": "liyue/exquisite-chest/27_761",
+      "popupAttribution": "Unknown"
+    },
+    {
+      "coordinates": [-50.42813, 30.68125],
+      "id": "76789CD518A2543C1DC107CA0AB4F99733F872AE",
+      "importIds": {
+        "gm_legacy": ["liyueExquisiteChest/762"],
+        "yuanshen": ["27_762"]
+      },
+      "popupTitle": {
+        "zh": "璃月宝箱"
+      },
+      "popupContent": {
+        "zh": "这是一个璃月宝箱"
+      },
+      "popupMedia": "liyue/exquisite-chest/27_762",
+      "popupAttribution": "Unknown"
+    },
+    {
+      "coordinates": [-48.63906, 27.97031],
+      "id": "88E184B2C26860701392CA9C7DD609EAB989C84E",
+      "importIds": {
+        "gm_legacy": ["liyueExquisiteChest/764"],
+        "yuanshen": ["27_764"]
+      },
+      "popupTitle": {
+        "zh": "璃月宝箱"
+      },
+      "popupContent": {
+        "zh": "这是一个璃月宝箱"
+      },
+      "popupMedia": "liyue/exquisite-chest/27_764",
+      "popupAttribution": "Unknown"
+    },
+    {
+      "coordinates": [-47.96719, 29.53281],
+      "id": "D7B81286262BFC462AB6DBB1762449B03994A8B7",
+      "importIds": {
+        "gm_legacy": ["liyueExquisiteChest/765"],
+        "yuanshen": ["27_765"]
+      },
+      "popupTitle": {
+        "zh": "璃月宝箱"
+      },
+      "popupContent": {
+        "zh": "这是一个璃月宝箱"
+      },
+      "popupMedia": "liyue/exquisite-chest/27_765",
+      "popupAttribution": "Unknown"
+    },
+    {
+      "coordinates": [-47.89688, 24.99375],
+      "id": "7B45057290011719092790D4F778C9866CAD7204",
+      "importIds": {
+        "gm_legacy": ["liyueExquisiteChest/766"],
+        "yuanshen": ["27_766"]
+      },
+      "popupTitle": {
+        "zh": "璃月宝箱"
+      },
+      "popupContent": {
+        "zh": "这是一个璃月宝箱"
+      },
+      "popupMedia": "liyue/exquisite-chest/27_766",
+      "popupAttribution": "Unknown"
+    },
+    {
+      "coordinates": [-47.70156, 24.72031],
+      "id": "3D0C3CA83ACA759D354D4717D788A274D8D48257",
+      "importIds": {
+        "gm_legacy": ["liyueExquisiteChest/767"],
+        "yuanshen": ["27_767"]
+      },
+      "popupTitle": {
+        "zh": "璃月宝箱"
+      },
+      "popupContent": {
+        "zh": "这是一个璃月宝箱"
+      },
+      "popupMedia": "liyue/exquisite-chest/27_767",
+      "popupAttribution": "Unknown"
+    },
+    {
+      "coordinates": [-44.04531, 25.95469],
+      "id": "0EB8112E84C31321A520F3E4D0773FF7C7E3C474",
+      "importIds": {
+        "gm_legacy": ["liyueExquisiteChest/769"],
+        "yuanshen": ["27_769"]
+      },
+      "popupTitle": {
+        "zh": "璃月宝箱"
+      },
+      "popupContent": {
+        "zh": "这是一个璃月宝箱"
+      },
+      "popupMedia": "liyue/exquisite-chest/27_769",
+      "popupAttribution": "Unknown"
+    },
+    {
+      "coordinates": [-28.17031, 28.29844],
+      "id": "CDD8253138BF76ACB9D6423F1B35A0D61F4659AC",
+      "importIds": {
+        "gm_legacy": ["liyueExquisiteChest/77"],
+        "yuanshen": ["27_77"]
+      },
+      "popupTitle": {
+        "zh": "璃月宝箱"
+      },
+      "popupContent": {
+        "zh": "这是一个璃月宝箱"
+      },
+      "popupMedia": "liyue/exquisite-chest/27_77",
+      "popupAttribution": "Unknown"
+    },
+    {
+      "coordinates": [-42.77969, 25.79844],
+      "id": "4F7B625EE8DE38986688EDF6CF695DB5E1AD43F8",
+      "importIds": {
+        "gm_legacy": ["liyueExquisiteChest/770"],
+        "yuanshen": ["27_770"]
+      },
+      "popupTitle": {
+        "zh": "璃月宝箱"
+      },
+      "popupContent": {
+        "zh": "这是一个璃月宝箱"
+      },
+      "popupMedia": "liyue/exquisite-chest/27_770",
+      "popupAttribution": "Unknown"
+    },
+    {
+      "coordinates": [-36.01406, 18.12656],
+      "id": "5FE35304DE17CC826352D51CF06B1F1F0EB346C6",
+      "importIds": {
+        "gm_legacy": ["liyueExquisiteChest/776"],
+        "yuanshen": ["27_776"]
+      },
+      "popupTitle": {
+        "zh": "璃月宝箱"
+      },
+      "popupContent": {
+        "zh": "这是一个璃月宝箱"
+      },
+      "popupMedia": "liyue/exquisite-chest/27_776",
+      "popupAttribution": "Unknown"
+    },
+    {
+      "coordinates": [-35.225, 13.25938],
+      "id": "B70B42332F84EFDF9EAE9C2066EF432787F7FC57",
+      "importIds": {
+        "gm_legacy": ["liyueExquisiteChest/777"]
+      },
+      "popupAttribution": "Unknown",
+      "popupMedia": "liyue/exquisite-chest/27_777"
+    },
+    {
+      "coordinates": [-34.27187, 16.82969],
+      "id": "2F4D34991041F265AC310624BF1FA523D157F5CD",
+      "importIds": {
+        "gm_legacy": ["liyueExquisiteChest/779"],
+        "yuanshen": ["27_779"]
+      },
+      "popupTitle": {
+        "zh": "璃月宝箱"
+      },
+      "popupContent": {
+        "zh": "这是一个璃月宝箱"
+      },
+      "popupMedia": "liyue/exquisite-chest/27_779",
+      "popupAttribution": "Unknown"
+    },
+    {
+      "coordinates": [-28.27187, 27.67343],
+      "id": "EC4582EB8A6A6866FB3BB6A9B8A94A2A10311761",
+      "importIds": {
+        "gm_legacy": ["liyueExquisiteChest/780"],
+        "yuanshen": ["27_780"]
+      },
+      "popupTitle": {
+        "zh": "璃月宝箱"
+      },
+      "popupContent": {
+        "zh": "这是一个璃月宝箱"
+      },
+      "popupMedia": "liyue/exquisite-chest/27_780",
+      "popupAttribution": "Unknown"
+    },
+    {
+      "coordinates": [-24.73281, 31.53281],
+      "id": "7ED1D4B3C59FD8E8798CE01AF50B8155224515F5",
+      "importIds": {
+        "gm_legacy": ["liyueExquisiteChest/783"],
+        "yuanshen": ["27_783"]
+      },
+      "popupTitle": {
+        "zh": "璃月宝箱"
+      },
+      "popupContent": {
+        "zh": "这是一个璃月宝箱"
+      },
+      "popupMedia": "liyue/exquisite-chest/27_783",
+      "popupAttribution": "Unknown"
+    },
+    {
+      "coordinates": [-27.09219, 33.30625],
+      "id": "95457FC96190B8C02B2F4008585B5705BB558198",
+      "importIds": {
+        "gm_legacy": ["liyueExquisiteChest/785"],
+        "yuanshen": ["27_785"]
+      },
+      "popupTitle": {
+        "zh": "璃月宝箱"
+      },
+      "popupContent": {
+        "zh": "这是一个璃月宝箱"
+      },
+      "popupMedia": "liyue/exquisite-chest/27_785",
+      "popupAttribution": "Unknown"
+    },
+    {
+      "coordinates": [-23.90469, 31.57969],
+      "id": "32CF0AC9AC734F0C0174DE58F98A1FCCB908645C",
+      "importIds": {
+        "gm_legacy": ["liyueExquisiteChest/787"],
+        "yuanshen": ["27_787"]
+      },
+      "popupTitle": {
+        "zh": "璃月宝箱"
+      },
+      "popupContent": {
+        "zh": "这是一个璃月宝箱"
+      },
+      "popupMedia": "liyue/exquisite-chest/27_787",
+      "popupAttribution": "Unknown"
+    },
+    {
+      "coordinates": [-24.52188, 31.72031],
+      "id": "6BEE176956D8D335960569BA7DCDA33CAD3CF0D8",
+      "importIds": {
+        "gm_legacy": ["liyueExquisiteChest/788"],
+        "yuanshen": ["27_788"]
+      },
+      "popupTitle": {
+        "zh": "璃月宝箱"
+      },
+      "popupContent": {
+        "zh": "这是一个璃月宝箱"
+      },
+      "popupMedia": "liyue/exquisite-chest/27_788",
+      "popupAttribution": "Unknown"
+    },
+    {
+      "coordinates": [-26.08904, 30.36519],
+      "id": "EFC2B49E7B9ECC5A20FC19F2490AE3151D6B1110",
+      "importIds": {
+        "gm_legacy": ["liyueExquisiteChest/789"],
+        "yuanshen": ["27_789"]
+      },
+      "popupTitle": {
+        "zh": "璃月宝箱"
+      },
+      "popupContent": {
+        "zh": "这是一个璃月宝箱"
+      },
+      "popupMedia": "liyue/exquisite-chest/27_789",
+      "popupAttribution": "Unknown"
+    },
+    {
+      "coordinates": [-27.34219, 29.22812],
+      "id": "F9473796B3902F3FD383B4AB09EE306FCE0586BD",
+      "importIds": {
+        "gm_legacy": ["liyueExquisiteChest/79"],
+        "yuanshen": ["27_79"]
+      },
+      "popupTitle": {
+        "zh": "璃月宝箱"
+      },
+      "popupContent": {
+        "zh": "这是一个璃月宝箱"
+      },
+      "popupMedia": "liyue/exquisite-chest/27_79",
+      "popupAttribution": "Unknown"
+    },
+    {
+      "coordinates": [-26.26406, 30.25938],
+      "id": "F30BF186757C643B9B99A77035E350B8353598F4",
+      "importIds": {
+        "gm_legacy": ["liyueExquisiteChest/790"],
+        "yuanshen": ["27_790"]
+      },
+      "popupTitle": {
+        "zh": "璃月宝箱"
+      },
+      "popupContent": {
+        "zh": "这是一个璃月宝箱"
+      },
+      "popupMedia": "liyue/exquisite-chest/27_790",
+      "popupAttribution": "Unknown"
+    },
+    {
+      "coordinates": [-35.94375, 36.75937],
+      "id": "72FF8095C5EE263AD26354A5D129B9FBF8424D09",
+      "importIds": {
+        "gm_legacy": ["liyueExquisiteChest/791"],
+        "yuanshen": ["27_791"]
+      },
+      "popupTitle": {
+        "zh": "璃月宝箱"
+      },
+      "popupContent": {
+        "zh": "这是一个璃月宝箱"
+      },
+      "popupMedia": "liyue/exquisite-chest/27_791",
+      "popupAttribution": "Unknown"
+    },
+    {
+      "coordinates": [-35.88125, 37.38438],
+      "id": "D21867F1776512A510BCE5EEC1E8A0B2C917B09F",
+      "importIds": {
+        "gm_legacy": ["liyueExquisiteChest/792"],
+        "yuanshen": ["27_792"]
+      },
+      "popupTitle": {
+        "zh": "璃月宝箱"
+      },
+      "popupContent": {
+        "zh": "这是一个璃月宝箱"
+      },
+      "popupMedia": "liyue/exquisite-chest/27_792",
+      "popupAttribution": "Unknown"
+    },
+    {
+      "coordinates": [-36.2875, 38.13438],
+      "id": "A234FF4BEA74F8F43187C4FB83609C0F0FC6E07A",
+      "importIds": {
+        "gm_legacy": ["liyueExquisiteChest/793"],
+        "yuanshen": ["27_793"]
+      },
+      "popupTitle": {
+        "zh": "璃月宝箱"
+      },
+      "popupContent": {
+        "zh": "这是一个璃月宝箱"
+      },
+      "popupMedia": "liyue/exquisite-chest/27_793",
+      "popupAttribution": "Unknown"
+    },
+    {
+      "coordinates": [-36.39688, 38.07188],
+      "id": "341DAD91D628C24593C2A3D2DF63D424C388603E",
+      "importIds": {
+        "gm_legacy": ["liyueExquisiteChest/794"],
+        "yuanshen": ["27_794"]
+      },
+      "popupTitle": {
+        "zh": "璃月宝箱"
+      },
+      "popupContent": {
+        "zh": "这是一个璃月宝箱"
+      },
+      "popupMedia": "liyue/exquisite-chest/27_794",
+      "popupAttribution": "Unknown"
+    },
+    {
+      "coordinates": [-38.95937, 34.17344],
+      "id": "44F160E22218B2FB0CD783F3D361425CC865558F",
+      "importIds": {
+        "gm_legacy": ["liyueExquisiteChest/796"],
+        "yuanshen": ["27_796"]
+      },
+      "popupTitle": {
+        "zh": "璃月宝箱"
+      },
+      "popupContent": {
+        "zh": "这是一个璃月宝箱"
+      },
+      "popupMedia": "liyue/exquisite-chest/27_796",
+      "popupAttribution": "Unknown"
+    },
+    {
+      "coordinates": [-39.99844, 35.19688],
+      "id": "20BACC6B99AED90D6540A6900F92BE1D802AEAA9",
+      "importIds": {
+        "gm_legacy": ["liyueExquisiteChest/798"],
+        "yuanshen": ["27_798"]
+      },
+      "popupTitle": {
+        "zh": "璃月宝箱"
+      },
+      "popupContent": {
+        "zh": "这是一个璃月宝箱"
+      },
+      "popupMedia": "liyue/exquisite-chest/27_798",
+      "popupAttribution": "Unknown"
+    },
+    {
+      "coordinates": [-44.08438, 36.45469],
+      "id": "0F6AB1B44205D2358304F649B293512493BD335C",
+      "importIds": {
+        "gm_legacy": ["liyueExquisiteChest/800"],
+        "yuanshen": ["27_800"]
+      },
+      "popupTitle": {
+        "zh": "璃月宝箱"
+      },
+      "popupContent": {
+        "zh": "这是一个露天的普通宝箱"
+      },
+      "popupMedia": "liyue/exquisite-chest/27_800",
+      "popupAttribution": "Unknown"
+    },
+    {
+      "coordinates": [-44.14947, 39.20729],
+      "id": "D58ACCC973B7F85CA2FBBFCC507146887955A35D",
+      "importIds": {
+        "yuanshen": ["27_801"],
+        "gm_legacy": ["liyueExquisiteChest/801"]
+      },
+      "popupTitle": {
+        "en": "#801",
+        "zh": "璃月宝箱"
+      },
+      "popupContent": {
+        "zh": "这是一个岩石包裹的【普通宝箱】"
+      },
+      "popupMedia": "liyue/exquisite-chest/27_801",
+      "popupAttribution": "Yuanshen.site"
+    },
+    {
+      "coordinates": [-46.14687, 39.86875],
+      "id": "FF9AF153D91842851C6FCACCE62AE974BBF9B93F",
+      "importIds": {
+        "gm_legacy": ["liyueExquisiteChest/803"],
+        "yuanshen": ["27_803"]
+      },
+      "popupTitle": {
+        "zh": "璃月宝箱"
+      },
+      "popupContent": {
+        "zh": "这是一个璃月宝箱"
+      },
+      "popupMedia": "liyue/exquisite-chest/27_803",
+      "popupAttribution": "Unknown"
+    },
+    {
+      "coordinates": [-46.0375, 38.54063],
+      "id": "F998144EBF9772C9FD48427D842E7DA5CED3E806",
+      "importIds": {
+        "gm_legacy": ["liyueExquisiteChest/805"],
+        "yuanshen": ["27_805"]
+      },
+      "popupTitle": {
+        "zh": "璃月宝箱"
+      },
+      "popupContent": {
+        "zh": "这是一个璃月宝箱"
+      },
+      "popupMedia": "liyue/exquisite-chest/27_805",
+      "popupAttribution": "Unknown"
+    },
+    {
+      "coordinates": [-47.23282, 25.2125],
+      "id": "5B4C6AF9AB47A5880158D02958C85C7232840288",
+      "importIds": {
+        "gm_legacy": ["liyueExquisiteChest/806"],
+        "yuanshen": ["27_806"]
+      },
+      "popupTitle": {
+        "zh": "璃月宝箱"
+      },
+      "popupContent": {
+        "zh": "这是一个璃月宝箱"
+      },
+      "popupMedia": "liyue/exquisite-chest/27_806",
+      "popupAttribution": "Unknown"
+    },
+    {
+      "coordinates": [-41.42031, 28.775],
+      "id": "18572D839CA62C38476391F37797C46C72749F78",
+      "importIds": {
+        "gm_legacy": ["liyueExquisiteChest/807"],
+        "yuanshen": ["27_807"]
+      },
+      "popupTitle": {
+        "zh": "璃月宝箱"
+      },
+      "popupContent": {
+        "zh": "这是一个璃月宝箱"
+      },
+      "popupMedia": "liyue/exquisite-chest/27_807",
+      "popupAttribution": "Unknown"
+    },
+    {
+      "coordinates": [-39.77188, 31.50937],
+      "id": "68E4B66BBBF51C494E780876BF3A6331C73343DA",
+      "importIds": {
+        "gm_legacy": ["liyueExquisiteChest/809"],
+        "yuanshen": ["27_809"]
+      },
+      "popupTitle": {
+        "zh": "璃月宝箱"
+      },
+      "popupContent": {
+        "zh": "这是一个璃月宝箱"
+      },
+      "popupMedia": "liyue/exquisite-chest/27_809",
+      "popupAttribution": "Unknown"
+    },
+    {
+      "coordinates": [-42.5375, 30.12656],
+      "id": "4E0ACCE6B6C0B9BD7E52BCF2089DBBD452A459FF",
+      "importIds": {
+        "gm_legacy": ["liyueExquisiteChest/810"],
+        "yuanshen": ["27_810"]
+      },
+      "popupTitle": {
+        "zh": "璃月宝箱"
+      },
+      "popupContent": {
+        "zh": "这是一个璃月宝箱"
+      },
+      "popupMedia": "liyue/exquisite-chest/27_810",
+      "popupAttribution": "Unknown"
+    },
+    {
+      "coordinates": [-34.04531, 30.32969],
+      "id": "5978138D47B7D3570EF88A75D186401EA0FB32D3",
+      "importIds": {
+        "gm_legacy": ["liyueExquisiteChest/811"],
+        "yuanshen": ["27_811"]
+      },
+      "popupTitle": {
+        "zh": "璃月宝箱"
+      },
+      "popupContent": {
+        "zh": "这是一个璃月宝箱"
+      },
+      "popupMedia": "liyue/exquisite-chest/27_811",
+      "popupAttribution": "Unknown"
+    },
+    {
+      "coordinates": [-34.61563, 30.63437],
+      "id": "32A2A281E9D835AE963325F6480CEEE348A63777",
+      "importIds": {
+        "gm_legacy": ["liyueExquisiteChest/812"],
+        "yuanshen": ["27_812"]
+      },
+      "popupTitle": {
+        "zh": "璃月宝箱"
+      },
+      "popupContent": {
+        "zh": "这是一个璃月宝箱"
+      },
+      "popupMedia": "liyue/exquisite-chest/27_812",
+      "popupAttribution": "Unknown"
+    },
+    {
+      "coordinates": [-35.99843, 31.00156],
+      "id": "66AE928F1497D8143A9AEAAF99D9755FEF2CE154",
+      "importIds": {
+        "gm_legacy": ["liyueExquisiteChest/814"],
+        "yuanshen": ["27_814"]
+      },
+      "popupTitle": {
+        "zh": "璃月宝箱"
+      },
+      "popupContent": {
+        "zh": "这是一个璃月宝箱"
+      },
+      "popupMedia": "liyue/exquisite-chest/27_814",
+      "popupAttribution": "Unknown"
+    },
+    {
+      "coordinates": [-33.9125, 24.4],
+      "id": "278BE84CE8D08F91A6853F193CD8CAB33FEF9175",
+      "importIds": {
+        "gm_legacy": ["liyueExquisiteChest/819"],
+        "yuanshen": ["27_819"]
+      },
+      "popupTitle": {
+        "zh": "璃月宝箱"
+      },
+      "popupContent": {
+        "zh": "这是一个璃月宝箱"
+      },
+      "popupMedia": "liyue/exquisite-chest/27_819",
+      "popupAttribution": "Unknown"
+    },
+    {
+      "coordinates": [-26.87905, 30.59716],
+      "id": "EFD248CB98B70A13D1BE706BE07DC6169036CA60",
+      "importIds": {
+        "gm_legacy": ["liyueExquisiteChest/82"],
+        "yuanshen": ["27_82"]
+      },
+      "popupTitle": {
+        "zh": "璃月宝箱"
+      },
+      "popupContent": {
+        "zh": "这是一个璃月宝箱"
+      },
+      "popupMedia": "liyue/exquisite-chest/27_82",
+      "popupAttribution": "Unknown"
+    },
+    {
+      "coordinates": [-33.88125, 23.22812],
+      "id": "D1C8906D3E6D2EA3C8FA459CF6805F175AD758F6",
+      "importIds": {
+        "gm_legacy": ["liyueExquisiteChest/821"],
+        "yuanshen": ["27_821"]
+      },
+      "popupTitle": {
+        "zh": "璃月宝箱"
+      },
+      "popupContent": {
+        "zh": "这是一个璃月宝箱"
+      },
+      "popupMedia": "liyue/exquisite-chest/27_821",
+      "popupAttribution": "Unknown"
+    },
+    {
+      "coordinates": [-40.1, 27.47813],
+      "id": "DC6F9F2A323A89325E50A4D700FC25AD23842057",
+      "importIds": {
+        "gm_legacy": ["liyueExquisiteChest/824"],
+        "yuanshen": ["27_824"]
+      },
+      "popupTitle": {
+        "zh": "璃月宝箱"
+      },
+      "popupContent": {
+        "zh": "这是一个璃月宝箱"
+      },
+      "popupMedia": "liyue/exquisite-chest/27_824",
+      "popupAttribution": "Unknown"
+    },
+    {
+      "coordinates": [-35.74844, 36.4625],
+      "id": "FA05C31C87B339D8A07C70E7FE0473C20E195076",
+      "importIds": {
+        "gm_legacy": ["liyueExquisiteChest/825"],
+        "yuanshen": ["27_825"]
+      },
+      "popupTitle": {
+        "zh": "璃月宝箱"
+      },
+      "popupContent": {
+        "zh": "这是一个璃月宝箱"
+      },
+      "popupMedia": "liyue/exquisite-chest/27_825",
+      "popupAttribution": "Unknown"
+    },
+    {
+      "coordinates": [-45.74063, 23.15],
+      "id": "BDC192A8A5A17B2F6B56261B660370BC2EBDEC76",
+      "importIds": {
+        "gm_legacy": ["liyueExquisiteChest/826"],
+        "yuanshen": ["27_826"]
+      },
+      "popupTitle": {
+        "zh": "璃月宝箱"
+      },
+      "popupContent": {
+        "zh": "这是一个在树上的【普通宝箱】"
+      },
+      "popupMedia": "liyue/exquisite-chest/27_826",
+      "popupAttribution": "Unknown"
+    },
+    {
+      "coordinates": [-43.67031, 33.47813],
+      "id": "8B63CDC7B160343061416DED1EA0DE7D33534B09",
+      "importIds": {
+        "gm_legacy": ["liyueExquisiteChest/827"],
+        "yuanshen": ["27_827"]
+      },
+      "popupTitle": {
+        "zh": "璃月宝箱"
+      },
+      "popupContent": {
+        "zh": "这是一个璃月宝箱"
+      },
+      "popupMedia": "liyue/exquisite-chest/27_827",
+      "popupAttribution": "Unknown"
+    },
+    {
+      "coordinates": [-43.77187, 34.07969],
+      "id": "40FF127D0AD4C31FD9CF9E7FB9A5ECBF8394687E",
+      "importIds": {
+        "gm_legacy": ["liyueExquisiteChest/828"],
+        "yuanshen": ["27_828"]
+      },
+      "popupTitle": {
+        "zh": "璃月宝箱"
+      },
+      "popupContent": {
+        "zh": "这是一个璃月宝箱"
+      },
+      "popupMedia": "liyue/exquisite-chest/27_828",
+      "popupAttribution": "Unknown"
+    },
+    {
+      "coordinates": [-46.80313, 21.79063],
+      "id": "7D4E1B0DBBE529F4746DAB5D6588FD76EBCB661C",
+      "importIds": {
+        "gm_legacy": ["liyueExquisiteChest/831"],
+        "yuanshen": ["27_831"]
+      },
+      "popupTitle": {
+        "zh": "璃月宝箱"
+      },
+      "popupContent": {
+        "zh": "这是一个璃月宝箱"
+      },
+      "popupMedia": "liyue/exquisite-chest/27_831",
+      "popupAttribution": "Unknown"
+    },
+    {
+      "coordinates": [-35.94375, 31.63437],
+      "id": "621AEA96EF56290D48373B519CEF75B86FEA8AB1",
+      "importIds": {
+        "gm_legacy": ["liyueExquisiteChest/833"],
+        "yuanshen": ["27_833"]
+      },
+      "popupTitle": {
+        "zh": "璃月宝箱"
+      },
+      "popupContent": {
+        "zh": "这是一个璃月宝箱"
+      },
+      "popupMedia": "liyue/exquisite-chest/27_833",
+      "popupAttribution": "Unknown"
+    },
+    {
+      "coordinates": [-41.60781, 31.74375],
+      "id": "4577C78435E6DDAA18D466DC0634900531626732",
+      "importIds": {
+        "gm_legacy": ["liyueExquisiteChest/834"],
+        "yuanshen": ["27_834"]
+      },
+      "popupTitle": {
+        "zh": "璃月宝箱"
+      },
+      "popupContent": {
+        "zh": "这是一个璃月宝箱"
+      },
+      "popupMedia": "liyue/exquisite-chest/27_834",
+      "popupAttribution": "Unknown"
+    },
+    {
+      "coordinates": [-41.88125, 30.75156],
+      "id": "727E38E8DFEC5F6AD3AA244798390EF4E955AAB2",
+      "importIds": {
+        "gm_legacy": ["liyueExquisiteChest/835"],
+        "yuanshen": ["27_835"]
+      },
+      "popupTitle": {
+        "zh": "璃月宝箱"
+      },
+      "popupContent": {
+        "zh": "这是一个璃月宝箱"
+      },
+      "popupMedia": "liyue/exquisite-chest/27_835",
+      "popupAttribution": "Unknown"
+    },
+    {
+      "coordinates": [-41.82656, 30.60313],
+      "id": "FD59EB743272AC23A9185CD1D5D5C0F90D05F2B7",
+      "importIds": {
+        "gm_legacy": ["liyueExquisiteChest/836"],
+        "yuanshen": ["27_836"]
+      },
+      "popupTitle": {
+        "zh": "璃月宝箱"
+      },
+      "popupContent": {
+        "zh": "这是一个璃月宝箱"
+      },
+      "popupMedia": "liyue/exquisite-chest/27_836",
+      "popupAttribution": "Unknown"
+    },
+    {
+      "coordinates": [-41.84219, 30.57187],
+      "id": "4308764F4DBE50CD0792B9CD120E489B2A51C9CF",
+      "importIds": {
+        "gm_legacy": ["liyueExquisiteChest/837"],
+        "yuanshen": ["27_837"]
+      },
+      "popupTitle": {
+        "zh": "璃月宝箱"
+      },
+      "popupContent": {
+        "zh": "这是一个璃月宝箱"
+      },
+      "popupMedia": "liyue/exquisite-chest/27_837",
+      "popupAttribution": "Unknown"
+    },
+    {
+      "coordinates": [-42.26406, 31.22812],
+      "id": "D10C09E35918D3751512FA7F5A95E42E3F747FFA",
+      "importIds": {
+        "gm_legacy": ["liyueExquisiteChest/838"],
+        "yuanshen": ["27_838"]
+      },
+      "popupTitle": {
+        "zh": "璃月宝箱"
+      },
+      "popupContent": {
+        "zh": "这是一个璃月宝箱"
+      },
+      "popupMedia": "liyue/exquisite-chest/27_838",
+      "popupAttribution": "Unknown"
+    },
+    {
+      "coordinates": [-43.17528, 21.57969],
+      "id": "7F2096D820A0BDA53FFDD74B762D8D45F90CCDAD",
+      "importIds": {
+        "gm_legacy": ["liyueExquisiteChest/842"],
+        "yuanshen": ["27_842"]
+      },
+      "popupTitle": {
+        "zh": "璃月宝箱"
+      },
+      "popupContent": {
+        "zh": "咱躲在树底下"
+      },
+      "popupMedia": "liyue/exquisite-chest/27_842",
+      "popupAttribution": "Unknown"
+    },
+    {
+      "coordinates": [-30.0921, 34.41556],
+      "id": "A5313FDAD932BCFD576EE50350BB923CCDDD7C38",
+      "importIds": {
+        "gm_legacy": ["liyueExquisiteChest/845"],
+        "yuanshen": ["27_845"]
+      },
+      "popupTitle": {
+        "zh": "璃月宝箱"
+      },
+      "popupContent": {
+        "zh": "这是一个璃月宝箱"
+      },
+      "popupMedia": "liyue/exquisite-chest/27_845",
+      "popupAttribution": "Unknown"
+    },
+    {
+      "coordinates": [-30.42477, 34.20468],
+      "id": "8A62C89A4C0B56EE711C55F51109A8986973AE0C",
+      "importIds": {
+        "gm_legacy": ["liyueExquisiteChest/846"],
+        "yuanshen": ["27_846"]
+      },
+      "popupTitle": {
+        "zh": "璃月宝箱"
+      },
+      "popupContent": {
+        "zh": "这是一个璃月宝箱"
+      },
+      "popupMedia": "liyue/exquisite-chest/27_846",
+      "popupAttribution": "Unknown"
+    },
+    {
+      "coordinates": [-29.85414, 31.62657],
+      "id": "5919CC08D48ED6647F3D8A911B94BB718F8D3847",
+      "importIds": {
+        "gm_legacy": ["liyueExquisiteChest/848"],
+        "yuanshen": ["27_848"]
+      },
+      "popupTitle": {
+        "zh": "璃月宝箱"
+      },
+      "popupContent": {
+        "zh": "这是一个璃月宝箱"
+      },
+      "popupMedia": "liyue/exquisite-chest/27_848",
+      "popupAttribution": "Unknown"
+    },
+    {
+      "coordinates": [-27.18194, 31.07969],
+      "id": "0293F6D5E75E4BB23ADE6250FBB8C871556B13D1",
+      "importIds": {
+        "gm_legacy": ["liyueExquisiteChest/850"],
+        "yuanshen": ["27_850"]
+      },
+      "popupTitle": {
+        "zh": "璃月宝箱"
+      },
+      "popupContent": {
+        "zh": "这是一个璃月宝箱"
+      },
+      "popupMedia": "liyue/exquisite-chest/27_850",
+      "popupAttribution": "Unknown"
+    },
+    {
+      "coordinates": [-33.61519, 28.18125],
+      "id": "7F378200B18984E1125EBD99553D3D993368AE8C",
+      "importIds": {
+        "gm_legacy": ["liyueExquisiteChest/855"],
+        "yuanshen": ["27_855"]
+      },
+      "popupTitle": {
+        "zh": "璃月宝箱"
+      },
+      "popupContent": {
+        "zh": "这是一个璃月宝箱"
+      },
+      "popupMedia": "liyue/exquisite-chest/27_855",
+      "popupAttribution": "Unknown"
+    },
+    {
+      "coordinates": [-25.24336, 31.14218],
+      "id": "E8E544045DE6FE867E3E35E04A83563530137351",
+      "importIds": {
+        "gm_legacy": ["liyueExquisiteChest/857"],
+        "yuanshen": ["27_857"]
+      },
+      "popupTitle": {
+        "zh": "璃月宝箱"
+      },
+      "popupContent": {
+        "zh": "这是一个璃月宝箱"
+      },
+      "popupMedia": "liyue/exquisite-chest/27_857",
+      "popupAttribution": "Unknown"
+    },
+    {
+      "coordinates": [-26.06697, 30.76845],
+      "id": "F823DE58C7FB3EDC1C72038AF0B746A7213FFC21",
+      "importIds": {
+        "gm_legacy": ["liyueExquisiteChest/859"],
+        "yuanshen": ["27_859"]
+      },
+      "popupTitle": {
+        "zh": "璃月宝箱"
+      },
+      "popupContent": {
+        "zh": "这是一个璃月宝箱"
+      },
+      "popupMedia": "liyue/exquisite-chest/27_859",
+      "popupAttribution": "Unknown"
+    },
+    {
+      "coordinates": [-24.82397, 26.1446],
+      "id": "459F59CF82F718A57BEE48C07FCF3C953D0E7F05",
+      "importIds": {
+        "gm_legacy": ["liyueExquisiteChest/862"],
+        "yuanshen": ["27_862"]
+      },
+      "popupTitle": {
+        "zh": "璃月宝箱"
+      },
+      "popupContent": {
+        "zh": "这是一个璃月宝箱"
+      },
+      "popupMedia": "liyue/exquisite-chest/27_862",
+      "popupAttribution": "Unknown"
+    },
+    {
+      "coordinates": [-28.33883, 27.60313],
+      "id": "2E4B49D42F50095E2FAC6ECCC810F02FBC0ABA73",
+      "importIds": {
+        "gm_legacy": ["liyueExquisiteChest/865"],
+        "yuanshen": ["27_865"]
+      },
+      "popupTitle": {
+        "zh": "璃月宝箱"
+      },
+      "popupContent": {
+        "zh": "这是一个璃月宝箱"
+      },
+      "popupMedia": "liyue/exquisite-chest/27_865",
+      "popupAttribution": "Unknown"
+    },
+    {
+      "coordinates": [-26.61913, 27.85313],
+      "id": "64ED6F71E621AD8E67D6D41B832430FF0EA4CC8A",
+      "importIds": {
+        "gm_legacy": ["liyueExquisiteChest/866"],
+        "yuanshen": ["27_866"]
+      },
+      "popupTitle": {
+        "zh": "璃月宝箱"
+      },
+      "popupContent": {
+        "zh": "这是一个璃月宝箱"
+      },
+      "popupMedia": "liyue/exquisite-chest/27_866",
+      "popupAttribution": "Unknown"
+    },
+    {
+      "coordinates": [-35.49167, 27.79063],
+      "id": "05CBC656B7D0A4E2BABB4FC1F2C29919E4D250A9",
+      "importIds": {
+        "gm_legacy": ["liyueExquisiteChest/873"],
+        "yuanshen": ["27_873"]
+      },
+      "popupTitle": {
+        "zh": "璃月宝箱"
+      },
+      "popupContent": {
+        "zh": "这是一个璃月宝箱"
+      },
+      "popupMedia": "liyue/exquisite-chest/27_873",
+      "popupAttribution": "Unknown"
+    },
+    {
+      "coordinates": [-34.96795, 28.81406],
+      "id": "63EE8EEBFEEC72E2E5E8EF2B9B7A0A140586E5A5",
+      "importIds": {
+        "gm_legacy": ["liyueExquisiteChest/874"],
+        "yuanshen": ["27_874"]
+      },
+      "popupTitle": {
+        "zh": "璃月宝箱"
+      },
+      "popupContent": {
+        "zh": "这是一个璃月宝箱"
+      },
+      "popupMedia": "liyue/exquisite-chest/27_874",
+      "popupAttribution": "Unknown"
+    },
+    {
+      "coordinates": [-34.69436, 28.97031],
+      "id": "EB3506EAFF3658B8D76B3C3C9428584725C5BB43",
+      "importIds": {
+        "gm_legacy": ["liyueExquisiteChest/875"],
+        "yuanshen": ["27_875"]
+      },
+      "popupTitle": {
+        "zh": "璃月宝箱"
+      },
+      "popupContent": {
+        "zh": "这是一个璃月宝箱"
+      },
+      "popupMedia": "liyue/exquisite-chest/27_875",
+      "popupAttribution": "Unknown"
+    },
+    {
+      "coordinates": [-35.93723, 30.12656],
+      "id": "36708D9786F1A34913EDEEBBA96E36E14DA0EF2D",
+      "importIds": {
+        "gm_legacy": ["liyueExquisiteChest/876"],
+        "yuanshen": ["27_876"]
+      },
+      "popupTitle": {
+        "zh": "璃月宝箱"
+      },
+      "popupContent": {
+        "zh": "这是一个璃月宝箱"
+      },
+      "popupMedia": "liyue/exquisite-chest/27_876",
+      "popupAttribution": "Unknown"
+    },
+    {
+      "coordinates": [-36.09357, 31.95469],
+      "id": "ACC39FC4191ADFDCD7BE58BD15BA00914F56A4B7",
+      "importIds": {
+        "gm_legacy": ["liyueExquisiteChest/877"],
+        "yuanshen": ["27_877"]
+      },
+      "popupTitle": {
+        "zh": "璃月宝箱"
+      },
+      "popupContent": {
+        "zh": "这是一个璃月宝箱"
+      },
+      "popupMedia": "liyue/exquisite-chest/27_877",
+      "popupAttribution": "Unknown"
+    },
+    {
+      "coordinates": [-43.36706, 33.00156],
+      "id": "046F60AD780875EE7567D72914CE92666DE76CEB",
+      "importIds": {
+        "gm_legacy": ["liyueExquisiteChest/881"],
+        "yuanshen": ["27_881"]
+      },
+      "popupTitle": {
+        "zh": "璃月宝箱"
+      },
+      "popupContent": {
+        "zh": "这是一个璃月宝箱"
+      },
+      "popupMedia": "liyue/exquisite-chest/27_881",
+      "popupAttribution": "Unknown"
+    },
+    {
+      "coordinates": [-45.22747, 32.56407],
+      "id": "7941E81583A2F9CA6D3092028CC31834156D61E1",
+      "importIds": {
+        "gm_legacy": ["liyueExquisiteChest/883"],
+        "yuanshen": ["27_883"]
+      },
+      "popupTitle": {
+        "zh": "璃月宝箱"
+      },
+      "popupContent": {
+        "zh": "这是一个璃月宝箱"
+      },
+      "popupMedia": "liyue/exquisite-chest/27_883",
+      "popupAttribution": "Unknown"
+    },
+    {
+      "coordinates": [-44.85226, 30.54844],
+      "id": "B97A42DDD34901416B53E122DA257578F7504FC0",
+      "importIds": {
+        "gm_legacy": ["liyueExquisiteChest/884"],
+        "yuanshen": ["27_884"]
+      },
+      "popupTitle": {
+        "zh": "璃月宝箱"
+      },
+      "popupContent": {
+        "zh": "这是一个璃月宝箱"
+      },
+      "popupMedia": "liyue/exquisite-chest/27_884",
+      "popupAttribution": "Unknown"
+    },
+    {
+      "coordinates": [-44.94606, 30.525],
+      "id": "3D5DD204FFF8CC3F7EEC8DB7B65BD34DAD9F3F2A",
+      "importIds": {
+        "gm_legacy": ["liyueExquisiteChest/885"],
+        "yuanshen": ["27_885"]
+      },
+      "popupTitle": {
+        "zh": "璃月宝箱"
+      },
+      "popupContent": {
+        "zh": "这是一个璃月宝箱"
+      },
+      "popupMedia": "liyue/exquisite-chest/27_885",
+      "popupAttribution": "Unknown"
+    },
+    {
+      "coordinates": [-42.9398, 22.64207],
+      "id": "AF119D52D59ECAFF3B5EA0229908EF1D0D5370BF",
+      "importIds": {
+        "gm_legacy": ["liyueExquisiteChest/887"],
+        "yuanshen": ["27_887"]
+      },
+      "popupTitle": {
+        "zh": "璃月宝箱"
+      },
+      "popupContent": {
+        "zh": "点燃！点燃！点燃！"
+      },
+      "popupMedia": "liyue/exquisite-chest/27_887",
+      "popupAttribution": "Unknown"
+    },
+    {
+      "coordinates": [-28.10781, 24.18125],
+      "id": "65CC2742371BBAFA93B1A7B3431470BCD488A919",
+      "importIds": {
+        "gm_legacy": ["liyueExquisiteChest/89"],
+        "yuanshen": ["27_89"]
+      },
+      "popupTitle": {
+        "zh": "璃月宝箱"
+      },
+      "popupContent": {
+        "zh": "这是一个璃月宝箱"
+      },
+      "popupMedia": "liyue/exquisite-chest/27_89",
+      "popupAttribution": "Unknown"
+    },
+    {
+      "coordinates": [-34.45539, 12.8492],
+      "id": "4BF1413F3C8EB1BF4F8B63BAFF6F1977290D342C",
+      "importIds": {
+        "gm_legacy": ["liyueExquisiteChest/890"],
+        "yuanshen": ["27_890"]
+      },
+      "popupTitle": {
+        "zh": "璃月宝箱"
+      },
+      "popupContent": {
+        "zh": "琥珀宝箱（随机出现，直到你获得该宝箱）"
+      },
+      "popupMedia": "liyue/exquisite-chest/27_890",
+      "popupAttribution": "Unknown"
+    },
+    {
+      "coordinates": [-34.726, 12.34531],
+      "id": "65E39F3AA919089E5808DDD52F1C7AF664846C5B",
+      "importIds": {
+        "gm_legacy": ["liyueExquisiteChest/891"],
+        "yuanshen": ["27_891"]
+      },
+      "popupTitle": {
+        "zh": "璃月宝箱"
+      },
+      "popupContent": {
+        "zh": "琥珀宝箱（随机出现，直到你获得该宝箱）"
+      },
+      "popupMedia": "liyue/exquisite-chest/27_891",
+      "popupAttribution": "Unknown"
+    },
+    {
+      "coordinates": [-52.0686, 18.64217],
+      "id": "D0C85C5B1FC269D4B94EE853C352B2F6E8B8386E",
+      "importIds": {
+        "gm_legacy": ["liyueExquisiteChest/894"],
+        "yuanshen": ["27_894"]
+      },
+      "popupTitle": {
+        "zh": "璃月宝箱"
+      },
+      "popupContent": {
+        "zh": "这是一个璃月宝箱"
+      },
+      "popupMedia": "liyue/exquisite-chest/27_894",
+      "popupAttribution": "Unknown"
+    },
+    {
+      "coordinates": [-52.06088, 19.26722],
+      "id": "0328C6E659CFFC9B8995F044DE052CDF64E17215",
+      "importIds": {
+        "gm_legacy": ["liyueExquisiteChest/895"],
+        "yuanshen": ["27_895"]
+      },
+      "popupTitle": {
+        "zh": "璃月宝箱"
+      },
+      "popupContent": {
+        "zh": "这是一个璃月宝箱"
+      },
+      "popupMedia": "liyue/exquisite-chest/27_895",
+      "popupAttribution": "Unknown"
+    },
+    {
+      "coordinates": [-52.04215, 18.93906],
+      "id": "A18EA3451364704265290EEDE07B827D27CCD521",
+      "importIds": {
+        "gm_legacy": ["liyueExquisiteChest/896"],
+        "yuanshen": ["27_896"]
+      },
+      "popupTitle": {
+        "zh": "璃月宝箱"
+      },
+      "popupContent": {
+        "zh": "这是一个璃月宝箱"
+      },
+      "popupMedia": "liyue/exquisite-chest/27_896",
+      "popupAttribution": "Unknown"
+    },
+    {
+      "coordinates": [-26.49063, 29.42344],
+      "id": "11ADD7B874012BB658FE5E356A882A56570AC9C5",
+      "importIds": {
+        "gm_legacy": ["liyueExquisiteChest/9"],
+        "yuanshen": ["27_9"]
+      },
+      "popupTitle": {
+        "zh": "璃月宝箱"
+      },
+      "popupContent": {
+        "zh": "这是一个璃月宝箱"
+      },
+      "popupMedia": "liyue/exquisite-chest/27_9",
+      "popupAttribution": "Unknown"
+    },
+    {
+      "coordinates": [-41.34219, 21.54844],
+      "id": "18EB6BC686881DBC138289FC8E9244A948682AA4",
+      "importIds": {
+        "gm_legacy": ["liyueExquisiteChest/908"],
+        "yuanshen": ["27_908"]
+      },
+      "popupTitle": {
+        "zh": "璃月宝箱"
+      },
+      "popupContent": {
+        "zh": "这是一个璃月宝箱"
+      },
+      "popupMedia": "liyue/exquisite-chest/27_908",
+      "popupAttribution": "Unknown"
+    },
+    {
+      "coordinates": [-27.89687, 24.62657],
+      "id": "D19351A393EDF4FBA52F3810373883E8933AC584",
+      "importIds": {
+        "gm_legacy": ["liyueExquisiteChest/91"],
+        "yuanshen": ["27_91"]
+      },
+      "popupTitle": {
+        "zh": "璃月宝箱"
+      },
+      "popupContent": {
+        "zh": "这是一个璃月宝箱"
+      },
+      "popupMedia": "liyue/exquisite-chest/27_91",
+      "popupAttribution": "Unknown"
+    },
+    {
+      "coordinates": [-45.613, 22.04322],
+      "id": "250D9392982EE5ACDC63285583F43E6CA3718699",
+      "importIds": {
+        "yuanshen": ["27_912"],
+        "gm_legacy": ["liyueExquisiteChest/912"]
+      },
+      "popupTitle": {
+        "en": "#912",
+        "zh": "璃月宝箱"
+      },
+      "popupContent": {
+        "zh": "这是一个在以及上方进入的【精致宝箱】内有飞天大御剑"
+      },
+      "popupMedia": "liyue/exquisite-chest/27_912",
+      "popupAttribution": "Yuanshen.site"
+    },
+    {
+      "coordinates": [-44.46719, 25.54063],
+      "id": "C7AC4C06A6F9A2FAF29BD7720A80F9318E9C673B",
+      "importIds": {
+        "gm_legacy": ["liyueExquisiteChest/915"],
+        "yuanshen": ["27_915"]
+      },
+      "popupTitle": {
+        "zh": "璃月宝箱"
+      },
+      "popupContent": {
+        "zh": "这是一个璃月宝箱"
+      },
+      "popupMedia": "liyue/exquisite-chest/27_915",
+      "popupAttribution": "Unknown"
+    },
+    {
+      "coordinates": [-47.725, 22.85313],
+      "id": "A5144BAF9FA9281026A2F472EFC78673A11201AD",
+      "importIds": {
+        "gm_legacy": ["liyueExquisiteChest/920"],
+        "yuanshen": ["27_920"]
+      },
+      "popupTitle": {
+        "zh": "璃月宝箱"
+      },
+      "popupContent": {
+        "zh": "这是一个璃月宝箱"
+      },
+      "popupMedia": "liyue/exquisite-chest/27_920",
+      "popupAttribution": "Unknown"
+    },
+    {
+      "coordinates": [-25.51406, 23.28281],
+      "id": "BDCC357DDF4D6C7E99E51A386F8EA41BA59646E6",
+      "importIds": {
+        "gm_legacy": ["liyueExquisiteChest/93"],
+        "yuanshen": ["27_93"]
+      },
+      "popupTitle": {
+        "zh": "璃月宝箱"
+      },
+      "popupContent": {
+        "zh": "这是一个璃月宝箱"
+      },
+      "popupMedia": "liyue/exquisite-chest/27_93",
+      "popupAttribution": "Unknown"
+    },
+    {
+      "coordinates": [-51.11562, 25.72813],
+      "id": "754CFC19DC26B9375CCB45602126AF7F2529773E",
+      "importIds": {
+        "gm_legacy": ["liyueExquisiteChest/931"],
+        "yuanshen": ["27_931"]
+      },
+      "popupTitle": {
+        "zh": "璃月宝箱"
+      },
+      "popupContent": {
+        "zh": "这是一个璃月宝箱"
+      },
+      "popupMedia": "liyue/exquisite-chest/27_931",
+      "popupAttribution": "Unknown"
+    },
+    {
+      "coordinates": [-32.05313, 31.775],
+      "id": "A77433260FF9D2B18EA2B2D7A3A08E44339B959B",
+      "importIds": {
+        "gm_legacy": ["liyueExquisiteChest/934"],
+        "yuanshen": ["27_934"]
+      },
+      "popupTitle": {
+        "zh": "璃月宝箱"
+      },
+      "popupContent": {
+        "zh": "击败火史莱姆和深渊法师出现的精致宝箱"
+      },
+      "popupMedia": "liyue/exquisite-chest/27_934",
+      "popupAttribution": "Unknown"
+    },
+    {
+      "coordinates": [-36.81094, 35.525],
+      "id": "1B6AFB70CCF9BFAC305914952744114D103F6187",
+      "importIds": {
+        "gm_legacy": ["liyueExquisiteChest/935"],
+        "yuanshen": ["27_935"]
+      },
+      "popupTitle": {
+        "zh": "璃月宝箱"
+      },
+      "popupContent": {
+        "zh": "这是一个璃月宝箱"
+      },
+      "popupMedia": "liyue/exquisite-chest/27_935",
+      "popupAttribution": "Unknown"
+    },
+    {
+      "coordinates": [-38.77969, 33.26718],
+      "id": "D187F5308A10329663D800771C39458D4A4E5260",
+      "importIds": {
+        "gm_legacy": ["liyueExquisiteChest/937"],
+        "yuanshen": ["27_937"]
+      },
+      "popupTitle": {
+        "zh": "璃月宝箱"
+      },
+      "popupContent": {
+        "zh": "点燃火堆"
+      },
+      "popupMedia": "liyue/exquisite-chest/27_937",
+      "popupAttribution": "Unknown"
+    },
+    {
+      "coordinates": [-29.01406, 29.23594],
+      "id": "AE614B8568992261978D22BA60CBD92DE0D64170",
+      "importIds": {
+        "gm_legacy": ["liyueExquisiteChest/96"],
+        "yuanshen": ["27_96"]
+      },
+      "popupTitle": {
+        "zh": "璃月宝箱"
+      },
+      "popupContent": {
+        "zh": "击碎木箱获得的【普通宝箱】无原石"
+      },
+      "popupMedia": "liyue/exquisite-chest/27_96",
+      "popupAttribution": "Unknown"
+    },
+    {
+      "coordinates": [-38.1705, 19.73165],
+      "id": "917DE400DA9D29EA69E67FF5C2B368C82AA0A035",
+      "importIds": {
+        "gm_legacy": ["liyueExquisiteChest/964"],
+        "yuanshen": ["27_964"]
+      },
+      "popupTitle": {
+        "zh": "璃月宝箱"
+      },
+      "popupContent": {
+        "zh": "这是一个璃月宝箱"
+      },
+      "popupMedia": "liyue/exquisite-chest/27_964",
+      "popupAttribution": "Unknown"
+    },
+    {
+      "coordinates": [-40.83051, 17.37583],
+      "id": "3F377C16BE6DE7ED31724982975AFB53F8702AB5",
+      "importIds": {
+        "gm_legacy": ["liyueExquisiteChest/972"],
+        "yuanshen": ["27_972"]
+      },
+      "popupTitle": {
+        "zh": "璃月宝箱"
+      },
+      "popupContent": {
+        "zh": "这是一个璃月宝箱"
+      },
+      "popupMedia": "liyue/exquisite-chest/27_972",
+      "popupAttribution": "Unknown"
+    },
+    {
+      "coordinates": [-40.6429, 17.66485],
+      "id": "2BF328A987F35E84E583942B47DBD9ED1308031C",
+      "importIds": {
+        "gm_legacy": ["liyueExquisiteChest/973"],
+        "yuanshen": ["27_973"]
+      },
+      "popupTitle": {
+        "zh": "璃月宝箱"
+      },
+      "popupContent": {
+        "zh": "遗迹外顶部击破风史莱姆出现的【精致宝箱】2原石"
+      },
+      "popupMedia": "liyue/exquisite-chest/27_973",
+      "popupAttribution": "Unknown"
+    },
+    {
+      "coordinates": [-40.76064, 17.67732],
+      "id": "50A8DEE3A589C290BF888E611A2A436E0B54A3F5",
+      "importIds": {
+        "gm_legacy": ["liyueExquisiteChest/974"],
+        "yuanshen": ["27_974"]
+      },
+      "popupTitle": {
+        "zh": "璃月宝箱"
+      },
+      "popupContent": {
+        "zh": "这是一个遗迹内解密解锁的【华丽宝箱】"
+      },
+      "popupMedia": "liyue/exquisite-chest/27_974",
+      "popupAttribution": "Unknown"
+    },
+    {
+      "coordinates": [-41.14556, 17.09922],
+      "id": "5225A1118862B0A040029ED3CE5AFFC676C461D3",
+      "importIds": {
+        "yuanshen": ["27_975"],
+        "gm_legacy": ["liyueExquisiteChest/975"]
+      },
+      "popupTitle": {
+        "en": "#975",
+        "zh": "璃月宝箱"
+      },
+      "popupContent": {
+        "zh": "这是一个可以直接获取的【精致宝箱】2原石"
+      },
+      "popupMedia": "liyue/exquisite-chest/5225A11",
+      "popupAttribution": "Yuanshen.site"
+    },
+    {
+      "coordinates": [-29.17814, 28.68125],
+      "id": "634C06E275E1F76761AB1509DFF8D9C69EBEBA15",
+      "importIds": {
+        "gm_legacy": ["liyueExquisiteChest/98"],
+        "yuanshen": ["27_98"]
+      },
+      "popupTitle": {
+        "zh": "璃月宝箱"
+      },
+      "popupContent": {
+        "zh": "这是一个击败怪物解锁的【精致宝箱】"
+      },
+      "popupMedia": "liyue/exquisite-chest/27_98",
+      "popupAttribution": "Unknown"
+    },
+    {
+      "coordinates": [-36.53751, 17.80234],
+      "id": "2F55256EAA82564E93D4CDC4BDD360FAC82C9D05",
+      "importIds": {
+        "gm_legacy": ["liyueExquisiteChest/982"],
+        "yuanshen": ["27_982"]
+      },
+      "popupTitle": {
+        "zh": "璃月宝箱"
+      },
+      "popupContent": {
+        "zh": "击杀此处史莱姆出现的【精致宝箱】"
+      },
+      "popupMedia": "liyue/exquisite-chest/27_982",
+      "popupAttribution": "Unknown"
+    },
+    {
+      "coordinates": [-38.91246, 13.99195],
+      "id": "4C748AAAD27C5D74A48978F15AD603AD273F33AF",
+      "importIds": {
+        "gm_legacy": ["liyueExquisiteChest/987"],
+        "yuanshen": ["27_987"]
+      },
+      "popupTitle": {
+        "zh": "璃月宝箱"
+      },
+      "popupContent": {
+        "zh": "这是需要挖掘的宝箱"
+      },
+      "popupMedia": "liyue/exquisite-chest/27_987",
+      "popupAttribution": "Unknown"
+    },
+    {
+      "coordinates": [-35.73054, 14.35904],
+      "id": "87B05D20C97F88E06E0339D13F76B61A79845835",
+      "importIds": {
+        "gm_legacy": ["liyueExquisiteChest/988"],
+        "yuanshen": ["27_988"]
+      },
+      "popupTitle": {
+        "zh": "璃月宝箱"
+      },
+      "popupContent": {
+        "zh": "这是一个璃月宝箱"
+      },
+      "popupMedia": "liyue/exquisite-chest/27_988",
+      "popupAttribution": "Unknown"
+    },
+    {
+      "coordinates": [-29.88125, 28.53281],
+      "id": "23B6623A401F62BCBEED046AEC43C24DA9C7C4FA",
+      "importIds": {
+        "gm_legacy": ["liyueExquisiteChest/99"],
+        "yuanshen": ["27_99"]
+      },
+      "popupTitle": {
+        "zh": "璃月宝箱"
+      },
+      "popupContent": {
+        "zh": "这是一个璃月宝箱"
+      },
+      "popupMedia": "liyue/exquisite-chest/27_99",
+      "popupAttribution": "Unknown"
+    }
+  ]
+}

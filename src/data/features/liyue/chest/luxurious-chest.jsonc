@@ -1,0 +1,377 @@
+{
+  "format": 2,
+  "name": {
+    "en": "Luxurious Chest",
+    "ru": "Роскошный сундук",
+    "pt": "Baú Luxuoso"
+  },
+  "description": {
+    "en": "A gorgeous porcelain chest framed with gold. Contains powerful rewards.",
+    "ru": "Прекрасный фарфоровый сундук обрамленный золотом. Содержит мощную награду."
+  },
+  "enabled": true,
+  "cluster": "on",
+  "respawn": "none",
+  "icons": {
+    "filter": "luxurious-chest",
+    "base": {
+      "marker": true
+    },
+    "done": {
+      "marker": true
+    }
+  },
+  "data": [
+    {
+      "coordinates": [-50.25625, 31.25156],
+      "id": "82C6D028C1AFF5656D958AA9815C484FAC8AA733",
+      "importIds": {
+        "gm_legacy": ["liyueLuxuriousChest/735"],
+        "yuanshen": ["27_735"]
+      },
+      "popupTitle": {
+        "en": "#4: Liyue Harbor Tower",
+        "zh": "璃月宝箱"
+      },
+      "popupContent": {
+        "en": "This Luxurious Chest is found by climbing to the top of the south tower of Liyue Harbor.",
+        "zh": "这是一个璃月宝箱"
+      },
+      "popupMedia": "liyue/luxurious-chest/27_735",
+      "popupAttribution": "MasterEric"
+    },
+    {
+      "coordinates": [-46.57656, 39.55625],
+      "id": "BD8BD03C85DC43BF646E9DC4846AA4825B998261",
+      "importIds": {
+        "gm_legacy": ["liyueLuxuriousChest/179"],
+        "yuanshen": ["27_179"]
+      },
+      "popupTitle": {
+        "en": "#7: Guyun Gauntlet",
+        "zh": "璃月宝箱"
+      },
+      "popupContent": {
+        "en": "This Luxurious Chest will only spawn after defeating all four of the Ruin Guards that spawn on this island. Oh yeah, and they're all going to attack you at the same time.",
+        "zh": "这是一个璃月宝箱"
+      },
+      "popupMedia": "liyue/luxurious-chest/27_179",
+      "popupAttribution": "MasterEric"
+    },
+    {
+      "coordinates": [-38.77187, 39.95469],
+      "id": "C55CC57749A905C9C22D6A7EAD5F5C77F7CED805",
+      "importIds": {
+        "gm_legacy": ["liyueLuxuriousChest/799"],
+        "yuanshen": ["27_799"]
+      },
+      "popupTitle": {
+        "en": "#8: Unswerving",
+        "zh": "璃月宝箱"
+      },
+      "popupContent": {
+        "en": "This Luxurious Chest is unlocked when you and another player (via Co-Op) stand within the heart-shaped formation on this island. You claim an achievement for unlocking this chest too.",
+        "zh": "这是一个璃月宝箱"
+      },
+      "popupMedia": "liyue/luxurious-chest/27_799",
+      "popupAttribution": "MasterEric"
+    },
+    {
+      "coordinates": [-45.79415, 44.57357],
+      "id": "AB5A1348A633CB47637C1D00324EA70C0FE6053F",
+      "importIds": {
+        "gm_legacy": ["liyueLuxuriousChest/2003"]
+      },
+      "popupAttribution": "MasterEric",
+      "popupTitle": {
+        "en": "#10: Guyun Stone Forest Ship"
+      },
+      "popupContent": {
+        "en": "This Luxurious Chest is found by climbing to the top of the mast of this ship. You can get here without conversing with the crew by gliding from the top of Guyun Stone Forest directly to it."
+      },
+      "popupMedia": "liyue/luxurious-chest/2003"
+    },
+    {
+      "coordinates": [-44.56875, 28.7125],
+      "id": "84CE83A07EE13F60311828C9872DE598E5504498",
+      "importIds": {
+        "gm_legacy": ["liyueLuxuriousChest/608"],
+        "yuanshen": ["27_608"]
+      },
+      "popupAttribution": "MasterEric",
+      "popupTitle": {
+        "en": "#13: Liyue Port Mountain"
+      },
+      "popupContent": {
+        "en": "This Luxurious Chest is located on a pillar at the top of a mountain north of Liyue Harbor. Ignite the torch inside the wooden square to trigger a wind gust and allowing you to glide to the chest."
+      },
+      "popupMedia": "liyue/luxurious-chest/27_608"
+    },
+    {
+      "coordinates": [-25.00104, 26.86875],
+      "id": "ADCF82DBBE0A93FA06B622EE4FEE97B3434DDDA6",
+      "importIds": {
+        "gm_legacy": ["liyueLuxuriousChest/863"],
+        "yuanshen": ["27_863"]
+      },
+      "popupTitle": {
+        "en": "#14: Wuwang Hill Hidden Chest",
+        "zh": "璃月宝箱"
+      },
+      "popupContent": {
+        "en": "This Luxurious Chest is located nearby to the puzzle but is not connected to it. Drop down onto the cliff nearby the tree to find the chest tucked away in the corner.",
+        "zh": "这是一个璃月宝箱"
+      },
+      "popupMedia": "liyue/luxurious-chest/27_863",
+      "popupAttribution": "MasterEric"
+    },
+    {
+      "coordinates": [-49.63906, 34.275],
+      "id": "A06CE4D1C0C7319F0FF63C526299DFEEBB16505C",
+      "importIds": {
+        "gm_legacy": ["liyueLuxuriousChest/2004"]
+      },
+      "popupAttribution": "MasterEric",
+      "popupTitle": {
+        "en": "#16: Pearl Galley Stern"
+      },
+      "popupContent": {
+        "en": "This Luxurious Chest is located at the back of the ship. You can glide here from the nearby cliff or walk across with Kaeya, then climb up the back to get the chest without speaking to the crew."
+      },
+      "popupMedia": "liyue/luxurious-chest/2004"
+    },
+    {
+      "coordinates": [-41.06485, 17.18906],
+      "id": "669EB163FB752FB24EDEB6C93B02E61101E0CCE6",
+      "importIds": {
+        "gm_legacy": ["liyueLuxuriousChest/2005"]
+      },
+      "popupAttribution": "MasterEric",
+      "popupTitle": {
+        "en": "#17: Tianqiu Valley (Third Floor)"
+      },
+      "popupContent": {
+        "en": "This Luxurious Chest is located inside the Tianqiu Valley tower, on the third floor. You may find it while completing the World Quest in this area."
+      },
+      "popupMedia": "liyue/luxurious-chest/2005"
+    },
+    {
+      "coordinates": [-41.07266, 17.56407],
+      "id": "5980D733FBB4A713FD3EFBCB81EFD20C5E55C8EF",
+      "importIds": {
+        "gm_legacy": ["liyueLuxuriousChest/2006"]
+      },
+      "popupAttribution": "MasterEric",
+      "popupTitle": {
+        "en": "#18: Trails in Tianqiu A"
+      },
+      "popupContent": {
+        "en": "Three Luxurious Chests spawn after completing the 'Trails in Tianqiu' World Quest, started by activating the Ancient Tablet nearby and completing the puzzles."
+      },
+      "popupMedia": "liyue/luxurious-chest/2006"
+    },
+    {
+      "coordinates": [-41.15078, 17.50156],
+      "id": "076D106537CC61C45ACE9088306D8EB92A7A3DCB",
+      "importIds": {
+        "gm_legacy": ["liyueLuxuriousChest/2007"]
+      },
+      "popupAttribution": "MasterEric",
+      "popupTitle": {
+        "en": "#19: Trails in Tianqiu B"
+      },
+      "popupContent": {
+        "en": "Three Luxurious Chests spawn after completing the 'Trails in Tianqiu' World Quest, started by activating the Ancient Tablet nearby and completing the puzzles."
+      },
+      "popupMedia": "liyue/luxurious-chest/2007"
+    },
+    {
+      "coordinates": [-41.23672, 17.57187],
+      "id": "29E67AEAABD949279EF09DA5A8EA669B9E983EBA",
+      "importIds": {
+        "gm_legacy": ["liyueLuxuriousChest/2008"]
+      },
+      "popupAttribution": "MasterEric",
+      "popupTitle": {
+        "en": "#20: Trails in Tianqiu C"
+      },
+      "popupContent": {
+        "en": "Three Luxurious Chests spawn after completing the 'Trails in Tianqiu' World Quest, started by activating the Ancient Tablet nearby and completing the puzzles."
+      },
+      "popupMedia": "liyue/luxurious-chest/2008"
+    },
+    {
+      "coordinates": [-44.42812, 22.51719],
+      "id": "D325627422BF7662828C98A6ABFAED8E23FEA747",
+      "importIds": {
+        "gm_legacy": ["liyueLuxuriousChest/533"],
+        "yuanshen": ["27_533"]
+      },
+      "popupTitle": {
+        "en": "#21: Dunyu Ruins Ledge",
+        "zh": "璃月宝箱"
+      },
+      "popupContent": {
+        "en": "This Luxurious Chest is located in plain sight on this ledge at the Dunyu Ruins.",
+        "zh": "这是一个璃月宝箱"
+      },
+      "popupMedia": "liyue/luxurious-chest/27_533",
+      "popupAttribution": "MasterEric"
+    },
+    {
+      "coordinates": [-44.52578, 22.23984],
+      "id": "FCEBAD875A0FBFE9BC6700AF0F858A6497F6062B",
+      "importIds": {
+        "gm_legacy": ["liyueLuxuriousChest/2009"],
+        "yuanshen": ["27_1085"]
+      },
+      "popupAttribution": "MasterEric",
+      "popupTitle": {
+        "en": "#22: Dunyu Ruins (Nameless Treasure)"
+      },
+      "popupContent": {
+        "en": "This Luxurious Chest is accessed by guiding the three Seelies in this area to their Gardens. This chest contains one of three Nameless Treasures, which you can sell once you complete the set."
+      },
+      "popupMedia": "liyue/luxurious-chest/2009"
+    },
+    {
+      "coordinates": [-44.55313, 21.5875],
+      "id": "457F1484FA882873E146BDBDE6C4C1415D136EE8",
+      "importIds": {
+        "gm_legacy": ["liyueLuxuriousChest/539"],
+        "yuanshen": ["27_539"]
+      },
+      "popupTitle": {
+        "en": "#23: Dunyu Ruins (Second Floor)",
+        "zh": "璃月宝箱"
+      },
+      "popupContent": {
+        "en": "This Luxurious Chest is located in the room with the Seelie in the cave across from the Dunyu Ruins.",
+        "zh": "这是一个璃月宝箱"
+      },
+      "popupMedia": "liyue/luxurious-chest/27_539",
+      "popupAttribution": "MasterEric"
+    },
+    {
+      "coordinates": [-51.68979, 18.69689],
+      "id": "99BC4D95CA265C01E671FA6AFECB59AB92858B9C",
+      "importIds": {
+        "gm_legacy": ["liyueLuxuriousChest/565"],
+        "yuanshen": ["27_565"]
+      },
+      "popupTitle": {
+        "en": "#24: Qingxu Pool (Nameless Treasure)",
+        "zh": "璃月宝箱"
+      },
+      "popupContent": {
+        "en": "This Luxurious Chest is located by locating the Ancient Tablet here, then activating Geo on each of the five seals in the towers. This chest contains one of three Nameless Treasures, which you can sell once you complete the set.",
+        "zh": "这是一个璃月宝箱"
+      },
+      "popupMedia": "liyue/luxurious-chest/27_565",
+      "popupAttribution": "MasterEric"
+    },
+    {
+      "coordinates": [-34.11563, 17.22812],
+      "id": "54004410C0A38CED2632DDB715EBFB988A67272C",
+      "importIds": {
+        "gm_legacy": ["liyueLuxuriousChest/507"],
+        "yuanshen": ["27_507"]
+      },
+      "popupTitle": {
+        "en": "#25: Qingyun Peak Floating island",
+        "zh": "璃月宝箱"
+      },
+      "popupContent": {
+        "en": "This Luxurious Chest is located on an island far above Qingyun Peak, which is accessed by completing the Three Birds puzzle to create a wind gust. This Chest notably contains the recipe for the 5-star Warrior's Dish, the Adeptus' Temptation.",
+        "zh": "这是一个璃月宝箱"
+      },
+      "popupMedia": "liyue/luxurious-chest/507",
+      "popupAttribution": "MasterEric"
+    },
+    {
+      "coordinates": [-42.04869, 24.4597],
+      "id": "CEFF9BCDC62146EBC71894DD985B8A1A7C4D1B20",
+      "importIds": {
+        "gm_legacy": ["liyueLuxuriousChest/2010"]
+      },
+      "popupAttribution": "MasterEric",
+      "popupTitle": {
+        "en": "#26: Luhua Landscape"
+      },
+      "popupContent": {
+        "en": "This Luxurious Chest can be found in the ruins, and is accessed by completing the 'Luhua Landscape' World Quest by talking to Vermeer in this area."
+      },
+      "popupMedia": "liyue/luxurious-chest/2010"
+    },
+    {
+      "coordinates": [-38.225, 29.68125],
+      "id": "4C585B0F041FA7F46C712E39ACA613432E7E02D8",
+      "importIds": {
+        "gm_legacy": ["liyueLuxuriousChest/236"],
+        "yuanshen": ["27_236"]
+      },
+      "popupTitle": {
+        "en": "#27: Treasure Lost, Treasure found",
+        "zh": "璃月宝箱"
+      },
+      "popupContent": {
+        "en": "This Luxurious Chest can be found in the hole, and is unlocked by completing the 'Treasure Lost, Treasure Found' World Quest by talking to Soraya in this area.",
+        "zh": "这是一个璃月宝箱"
+      },
+      "popupMedia": "liyue/luxurious-chest/27_236",
+      "popupAttribution": "MasterEric"
+    },
+    {
+      "coordinates": [-48.3519, 20.26677],
+      "id": "79CF982097EB0E3ECDA4B7816A6551BFEB426911",
+      "importIds": {
+        "gm_legacy": ["liyueLuxuriousChest/2011"],
+        "yuanshen": ["27_1083"]
+      },
+      "popupAttribution": "MasterEric",
+      "popupTitle": {
+        "en": "#28: And This Treasure Goes To... (Nameless Treasure)"
+      },
+      "popupContent": {
+        "en": "This Luxurious Chest is located under this tree, and can be dug up once you complete the 'And This Treasure Goes To...' World Quest by exploring in this area. This chest contains one of three Nameless Treasures, which you can sell once you complete the set."
+      },
+      "popupMedia": "liyue/luxurious-chest/2011"
+    },
+    {
+      "coordinates": [-20.62344, 24.42344],
+      "id": "419C19421F184F73324FC9D96109D5C0EAA44C34",
+      "importIds": {
+        "gm_legacy": ["liyueLuxuriousChest/69"],
+        "yuanshen": ["27_69"]
+      },
+      "popupTitle": {
+        "en": "#29: The Chi of Guyun",
+        "zh": "璃月宝箱"
+      },
+      "popupContent": {
+        "en": "This Luxurious Chest is located in a cave (NOT ON TOP OF THE CLIFF) and can be accessed by completing 'The Chi of Guyun' World Quest by talking to Yan'er near the ruin in Bishui Plain.",
+        "zh": "支线任务的所有相关宝箱"
+      },
+      "popupMedia": "liyue/luxurious-chest/27_69",
+      "popupAttribution": "MasterEric"
+    },
+    {
+      "coordinates": [-39.33677, 21.64347],
+      "id": "DCFEA43060159CB4507D3D58BD3CC94429FD86C1",
+      "importIds": {
+        "gm_legacy": ["liyueLuxuriousChest/1106"],
+        "yuanshen": ["27_1106"]
+      },
+      "popupTitle": {
+        "en": "#30: Nine Pillars of Peace",
+        "zh": "璃月宝箱"
+      },
+      "popupContent": {
+        "en": "This Luxurious Chest can be found in the ruins that are opened by completing the Nine Pillars of Peace World Quest in this area, using the stones received as rewards for locating all the Geoculus in Liyue. There is a 5-star Royal Flower nearby.",
+        "zh": "任务宝箱"
+      },
+      "popupMedia": "liyue/luxurious-chest/27_1106",
+      "popupAttribution": "MasterEric"
+    }
+  ]
+}

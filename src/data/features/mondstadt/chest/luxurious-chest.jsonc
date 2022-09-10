@@ -1,0 +1,200 @@
+{
+  "format": 2,
+  "name": {
+    "en": "Luxurious Chest",
+    "ru": "Роскошный сундук",
+    "pt": "Baú Luxuoso"
+  },
+  "description": {
+    "en": "A gorgeous porcelain chest framed with gold. Contains powerful rewards.",
+    "ru": "Прекрасный фарфоровый сундук обрамленный золотом. Содержит мощную награду."
+  },
+  "enabled": true,
+  "cluster": "on",
+  "respawn": "none",
+  "icons": {
+    "filter": "luxurious-chest",
+    "base": {
+      "marker": true
+    },
+    "done": {
+      "marker": true
+    }
+  },
+  "data": [
+    {
+      "coordinates": [-19.37643, 39.97047],
+      "id": "47782B2C69B21577E155F51614FF3449498C227D",
+      "importIds": {
+        "gm_legacy": ["mondstadtLuxuriousChest/216"],
+        "yuanshen": ["26_216"]
+      },
+      "popupTitle": {
+        "en": "#1: Knight of Favonius Roof",
+        "ru": "#1: Крыша штаба Ордо Фавониус",
+        "zh": "蒙德宝箱"
+      },
+      "popupContent": {
+        "en": "This Luxurious Chest is located on the roof of the Knight of Favonius headquarters, within sight of the Teleporter.",
+        "ru": "Роскошный сундук расположен на крыше штаба Ордо Фавониус, в пределах видимости от телепорта.",
+        "zh": "这是一个华丽宝箱"
+      },
+      "popupMedia": "mondstadt/luxurious-chest/26_216",
+      "popupAttribution": "Yuanshen.site"
+    },
+    {
+      "coordinates": [-18.05347, 38.91439],
+      "id": "381789EBB94B1BDFA76C40866FCE7D338029602F",
+      "importIds": {
+        "gm_legacy": ["mondstadtLuxuriousChest/159"],
+        "yuanshen": ["26_159"]
+      },
+      "popupTitle": {
+        "en": "#2: Church Bell",
+        "ru": "#2: Церковный колокол",
+        "zh": "蒙德宝箱"
+      },
+      "popupContent": {
+        "en": "This Luxurious Chest is located on the roof of the Church, in the highest bell tower.",
+        "ru": "Роскошный сундук расположен на крыше церкви, в самой высокой башне с колоколом.",
+        "zh": "这是一个蒙德宝箱"
+      },
+      "popupMedia": "mondstadt/luxurious-chest/26_159",
+      "popupAttribution": "Yuanshen.site"
+    },
+    {
+      "coordinates": [-18.14141, 40.02514],
+      "id": "D33F417CFF5F257C4F1DC692A614A5D1669461E9",
+      "importIds": {
+        "gm_legacy": ["mondstadtLuxuriousChest/208"],
+        "yuanshen": ["26_208"]
+      },
+      "popupTitle": {
+        "en": "#3: Plaza Challenge",
+        "ru": "#3: Площадь Испытаний",
+        "zh": "蒙德宝箱"
+      },
+      "popupContent": {
+        "en": "This Luxurious Chest is hidden; jump onto the top of the railing, and follow the rings that appear without falling to reveal the chest.",
+        "ru": "Роскошный сундук скрыт; для его получения нужно пройти испытание. Необходимо залезть на ограждение и следовать за кольцами не падая, после этого в конце появится сундук.",
+        "zh": "广场小游戏宝箱"
+      },
+      "popupMedia": "mondstadt/luxurious-chest/26_208",
+      "popupAttribution": "Yuanshen.site"
+    },
+    {
+      "coordinates": [-11.95909, 46.98588],
+      "id": "E04FD870FA912D67B25596D65EAB2DB132534176",
+      "importIds": {
+        "gm_legacy": ["mondstadtLuxuriousChest/327"],
+        "yuanshen": ["26_327"]
+      },
+      "popupTitle": {
+        "en": "#5: Waterfall Pedestal",
+        "ru": "#5: Столб у водопада",
+        "zh": "蒙德宝箱"
+      },
+      "popupContent": {
+        "en": "This Luxurious Chest is located on a pedestal northeast of the Anemo Hypostasis arena.",
+        "ru": "Роскошный сундук расположен на столбе за водопадом, если идти на север от Анемо гипостазиса.",
+        "zh": "这是一个蒙德宝箱"
+      },
+      "popupMedia": "mondstadt/luxurious-chest/26_327",
+      "popupAttribution": "Yuanshen.site"
+    },
+    {
+      "coordinates": [-18.42031, 33.36484],
+      "id": "EB2D9A7267E07D82BE2BB928D80EC54A2C27D234",
+      "importIds": {
+        "gm_legacy": ["mondstadtLuxuriousChest/103"],
+        "yuanshen": ["26_103"]
+      },
+      "popupTitle": {
+        "en": "#6: Eye of the Storm Boss",
+        "ru": "#6: Босс Глаз Бури",
+        "zh": "蒙德宝箱"
+      },
+      "popupContent": {
+        "en": "This Luxurious Chest is near the edge of the cliff face, under a piece of ruin. It is locked by an Eye of the Storm, which you must defeat to open it.",
+        "ru": "Роскошный сундук вблизи края утёса, под частями руин. Он охраняется Глазом Бури, которого нужно победить для открытия сундука.",
+        "zh": "这是一个蒙德宝箱"
+      },
+      "popupMedia": "mondstadt/luxurious-chest/26_103",
+      "popupAttribution": "Yuanshen.site"
+    },
+    {
+      "coordinates": [-15.11172, 30.78281],
+      "id": "6B2D163408070369C5249348FD05BFBD8F1AF97C",
+      "importIds": {
+        "gm_legacy": ["mondstadtLuxuriousChest/2001"]
+      },
+      "popupAttribution": "Yuanshen.site",
+      "popupTitle": {
+        "en": "MIGRATED MARKER: #9: Stormterror's Lair Peak",
+        "ru": "#9: Логово Ужаса Бури"
+      },
+      "popupContent": {
+        "en": "This Luxurious Chest can be found by using the wind gust to glide up to the top of Stormterror's Lair.",
+        "ru": "Роскошный сундук может быть найден с помощью ветряного потока, для этого нужно долететь до верхушки Логова Ужаса Бури."
+      },
+      "popupMedia": ""
+    },
+    {
+      "coordinates": [-15.16878, 57.14004],
+      "id": "57A98595A8A018DEEEB0E4340F1A87C181ED5970",
+      "importIds": {
+        "gm_legacy": ["mondstadtLuxuriousChest/496"],
+        "yuanshen": ["26_496"]
+      },
+      "popupTitle": {
+        "en": "#11: Nameless Island",
+        "ru": "#11: Безымянный остров",
+        "zh": "蒙德宝箱"
+      },
+      "popupContent": {
+        "en": "This Luxurious Chest is located off the back side of the Nameless Island. Take care if you are low level as there are Ruin Guards nearby.",
+        "ru": "Роскошный сундук расположен с обратной стороны Безымянного острова. Будьте осторожны, если у вас низкий уровень персонажа, т.к. там поблизости Сраж Руин.",
+        "zh": "这是一个蒙德宝箱"
+      },
+      "popupMedia": "mondstadt/luxurious-chest/26_496",
+      "popupAttribution": "Yuanshen.site"
+    },
+    {
+      "coordinates": [-23.07151, 33.44589],
+      "id": "758ED4D6D66381956F47E51611CBD0FE2E5D31BD",
+      "importIds": {
+        "gm_legacy": ["mondstadtLuxuriousChest/124"],
+        "yuanshen": ["26_124"]
+      },
+      "popupTitle": {
+        "en": "#12: Triple Seelie",
+        "ru": "#12: Три феи",
+        "zh": "蒙德宝箱"
+      },
+      "popupContent": {
+        "en": "This Luxurious Chest is revealed after returning three Seelies to their gardens. This chest is not included in the Seelie category.",
+        "ru": "Роскошный сундук появляется после возвращение трёх Фей в их храм. Этот сундук не относится к категории Фей.",
+        "zh": "需要三个仙灵的仙灵宝箱"
+      },
+      "popupMedia": "mondstadt/luxurious-chest/26_124",
+      "popupAttribution": "Yuanshen.site"
+    },
+    {
+      "coordinates": [-28.46719, 48.50937],
+      "id": "92709E744FEB628A98606D576A51D413CC31B1AB",
+      "importIds": {
+        "gm_legacy": ["mondstadtLuxuriousChest/2002"]
+      },
+      "popupAttribution": "Yuanshen.site",
+      "popupTitle": {
+        "en": "#15: Dadaupa Gorge",
+        "ru": "#15: Ущелье Дадаупа"
+      },
+      "popupContent": {
+        "en": "This Luxurious Chest can be accessed by completing the 'Break the Sword Cemetery Seal' world quest from Dr. Livingstone.",
+        "ru": "Доступ к Роскошному сундук может быть получен после прохождения мирового квеста от Др. Ливингстон - Сломать печать кладбища мечей."
+      },
+      "popupMedia": "mondstadt/luxurious-chest/2002"
+    }
+  ]
+}

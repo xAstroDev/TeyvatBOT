@@ -1,0 +1,690 @@
+{
+  "data": [
+    {
+      "type": "Feature",
+      "properties": {
+        "label": {
+          "en": "Stormterror's Lair",
+          "pt": "Toca de Stormterror"
+        },
+        "region": "mondstadt"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-14.0375, 30.74375]
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-14.68203, 36.13047]
+      },
+      "type": "Feature",
+      "properties": {
+        "label": {
+          "en": "Brightcrown Canyon",
+          "pt": "Cânion da Coroa Brilhante"
+        },
+        "region": "mondstadt"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-20.58438, 36.61094]
+      },
+      "type": "Feature",
+      "properties": {
+        "label": {
+          "en": "Wolvendom",
+          "pt": "Reino dos Lobos"
+        },
+        "region": "mondstadt"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-24.31094, 36.39219]
+      },
+      "type": "Feature",
+      "properties": {
+        "label": {
+          "en": "Dawn Winery",
+          "pt": "Adega do Alvorecer"
+        },
+        "region": "mondstadt"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-23.06094, 41.32578]
+      },
+      "type": "Feature",
+      "properties": {
+        "label": {
+          "en": "Springvale",
+          "pt": "Vale Termal"
+        },
+        "region": "mondstadt"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-22.52188, 45.43906]
+      },
+      "type": "Feature",
+      "properties": {
+        "label": {
+          "en": "Windrise",
+          "pt": "Origem do Vento"
+        },
+        "region": "mondstadt"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-24.02522, 48.70188]
+      },
+      "type": "Feature",
+      "properties": {
+        "label": {
+          "en": "Falcon Coast",
+          "pt": "Costa do Falcão"
+        },
+        "region": "mondstadt"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-18.2622, 50.24761]
+      },
+      "type": "Feature",
+      "properties": {
+        "label": {
+          "en": "Thousand Winds Temple",
+          "pt": "Templo do Vento Milenar"
+        },
+        "region": "mondstadt"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-16.27188, 50.05625]
+      },
+      "type": "Feature",
+      "properties": {
+        "label": {
+          "en": "Starsnatch Cliff",
+          "pt": "Penhasco das Estrelas"
+        },
+        "region": "mondstadt"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-17.36172, 44.26719]
+      },
+      "type": "Feature",
+      "properties": {
+        "label": {
+          "en": "Whispering Woods",
+          "pt": "Bosque Sussurrante"
+        },
+        "region": "mondstadt"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-15.83047, 46.00547]
+      },
+      "type": "Feature",
+      "properties": {
+        "label": {
+          "en": "Starfell Lake",
+          "pt": "Lago Estelar"
+        },
+        "region": "mondstadt"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-13.76406, 45.30625]
+      },
+      "type": "Feature",
+      "properties": {
+        "label": {
+          "en": "Stormbearer Mountains",
+          "pt": "Montanhas do Precursor do Vento"
+        },
+        "region": "mondstadt"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-12.67422, 51.25938]
+      },
+      "type": "Feature",
+      "properties": {
+        "label": {
+          "en": "Stormbearer Point",
+          "pt": "Canto do Precursor do Vento"
+        },
+        "region": "mondstadt"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-28.48108, 48.24169]
+      },
+      "type": "Feature",
+      "properties": {
+        "label": {
+          "en": "Dadaupa Gorge",
+          "pt": "Vale de Dadaupa"
+        },
+        "region": "mondstadt"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-27.28784, 53.72176]
+      },
+      "type": "Feature",
+      "properties": {
+        "label": {
+          "en": "Cape Oath",
+          "pt": "Capa do Juramento"
+        },
+        "region": "mondstadt"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-25.74105, 59.75427]
+      },
+      "type": "Feature",
+      "properties": {
+        "label": {
+          "en": "Musk Reef",
+          "pt": "Recife de Musk"
+        },
+        "region": "mondstadt"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-18.20594, 40.79497]
+      },
+      "type": "Feature",
+      "properties": {
+        "label": {
+          "en": "Mondstadt",
+          "pt": "Mondstadt"
+        },
+        "region": "mondstadt"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-15.02396, 41.08223]
+      },
+      "type": "Feature",
+      "properties": {
+        "label": {
+          "en": "Cider Lake",
+          "pt": "Lago de Sidra"
+        },
+        "region": "mondstadt"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-26.60283, 28.056]
+      },
+      "type": "Feature",
+      "properties": {
+        "label": {
+          "en": "Wuwang Hill",
+          "pt": "Colina de Wuwang"
+        },
+        "region": "liyue"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-24.68591, 25.48169]
+      },
+      "type": "Feature",
+      "properties": {
+        "label": {
+          "en": "Qingce Village",
+          "pt": "Vila Qingce"
+        },
+        "region": "liyue"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-27.02268, 29.87348]
+      },
+      "type": "Feature",
+      "properties": {
+        "label": {
+          "en": "Stone Gate",
+          "pt": "Portal de Pedra"
+        },
+        "region": "liyue"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-29.49844, 33.67344]
+      },
+      "type": "Feature",
+      "properties": {
+        "label": {
+          "en": "Sal Terrae",
+          "pt": "Sal Terrae"
+        },
+        "region": "liyue"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-30.57656, 28.45469]
+      },
+      "type": "Feature",
+      "properties": {
+        "label": {
+          "en": "Dihua Marsh",
+          "pt": "Ilhota de Dihua"
+        },
+        "region": "liyue"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-33.89688, 28.79844]
+      },
+      "type": "Feature",
+      "properties": {
+        "label": {
+          "en": "Wangshu Inn",
+          "pt": "Albergue Wangshu"
+        },
+        "region": "liyue"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-34.70156, 34.99375]
+      },
+      "type": "Feature",
+      "properties": {
+        "label": {
+          "en": "Mingyun Village",
+          "pt": "Vila Mingyun"
+        },
+        "region": "liyue"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-37.6625, 34.4]
+      },
+      "type": "Feature",
+      "properties": {
+        "label": {
+          "en": "Yaoguang Shoal",
+          "pt": "Costa de Yaoguang"
+        },
+        "region": "liyue"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-36.81875, 29.36875]
+      },
+      "type": "Feature",
+      "properties": {
+        "label": {
+          "en": "Guili Plains",
+          "pt": "Planícies de Guili"
+        },
+        "region": "liyue"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-45.0375, 39.49375]
+      },
+      "type": "Feature",
+      "properties": {
+        "label": {
+          "en": "Guyun Stone Forest",
+          "pt": "Floresta de Pedra Guyun"
+        },
+        "region": "liyue"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-40.85, 25.775]
+      },
+      "type": "Feature",
+      "properties": {
+        "label": {
+          "en": "Luhua Pool",
+          "pt": "Lago de Luhua"
+        },
+        "region": "liyue"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-48.25625, 26.0875]
+      },
+      "type": "Feature",
+      "properties": {
+        "label": {
+          "en": "Mt. Tianheng",
+          "pt": "Monte Tianheng"
+        },
+        "region": "liyue"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-48.16959, 29.83481]
+      },
+      "type": "Feature",
+      "properties": {
+        "label": {
+          "en": "Liyue Harbor",
+          "pt": "Porto de Liyue"
+        },
+        "region": "liyue"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-44.74062, 22.57188]
+      },
+      "type": "Feature",
+      "properties": {
+        "label": {
+          "en": "Dunyu Ruins",
+          "pt": "Ruínas de Dunyu"
+        },
+        "region": "liyue"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-47.94375, 19.86875]
+      },
+      "type": "Feature",
+      "properties": {
+        "label": {
+          "en": "Lingju Pass",
+          "pt": "Passe de Lingju"
+        },
+        "region": "liyue"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-52.00625, 18.80625]
+      },
+      "type": "Feature",
+      "properties": {
+        "label": {
+          "en": "Qingxu Pool",
+          "pt": "Piscina de Qingxu"
+        },
+        "region": "liyue"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-50.77188, 15.11875]
+      },
+      "type": "Feature",
+      "properties": {
+        "label": {
+          "en": "Chasm",
+          "pt": "Abismo"
+        },
+        "region": "liyue"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-41.20938, 19.4]
+      },
+      "type": "Feature",
+      "properties": {
+        "label": {
+          "en": "Tianqiu Valley",
+          "pt": "Vale Tianqiu"
+        },
+        "region": "liyue"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-38.68984, 14.38828]
+      },
+      "type": "Feature",
+      "properties": {
+        "label": {
+          "en": "Nantianmen",
+          "pt": "Monte Nantianmen"
+        },
+        "region": "liyue"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-38.62917, 23.31065]
+      },
+      "type": "Feature",
+      "properties": {
+        "label": {
+          "en": "Cuijue Slope",
+          "pt": "Encosta Cuijue"
+        },
+        "region": "liyue"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-35.61292, 19.60386]
+      },
+      "type": "Feature",
+      "properties": {
+        "label": {
+          "en": "Jueyun Karst",
+          "pt": "Relevo de Jueyun"
+        },
+        "region": "liyue"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-34.14899, 17.05717]
+      },
+      "type": "Feature",
+      "properties": {
+        "label": {
+          "en": "Qingyun Peak",
+          "pt": "Pico Qingyun"
+        },
+        "region": "liyue"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-33.20156, 14.64609]
+      },
+      "type": "Feature",
+      "properties": {
+        "label": {
+          "en": "Huaguang Stone Forest",
+          "pt": "Floresta de Pedra Huaguang"
+        },
+        "region": "liyue"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-35.79922, 12.87656]
+      },
+      "type": "Feature",
+      "properties": {
+        "label": {
+          "en": "Mt. Hulao",
+          "pt": "Montanha Hulao"
+        },
+        "region": "liyue"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-30.93594, 15.80234]
+      },
+      "type": "Feature",
+      "properties": {
+        "label": {
+          "en": "Mt. Aozang",
+          "pt": "Montanha Aozang"
+        },
+        "region": "liyue"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-28.16068, 42.90524]
+      },
+      "type": "Feature",
+      "properties": {
+        "label": {
+          "en": "Snow-Covered Path",
+          "pt": "Caminho da Neve"
+        },
+        "region": "dragonspine"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-28.77939, 39.4139]
+      },
+      "type": "Feature",
+      "properties": {
+        "label": {
+          "en": "Wyrmrest Valley",
+          "pt": "Vale do Dragão Adormecido"
+        },
+        "region": "dragonspine"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-32.02767, 36.83959]
+      },
+      "type": "Feature",
+      "properties": {
+        "label": {
+          "en": "Entombed City - Outskirts",
+          "pt": "Cidade na Neve - Subúrbios"
+        },
+        "region": "dragonspine"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-30.80128, 42.55169]
+      },
+      "type": "Feature",
+      "properties": {
+        "label": {
+          "en": "Entombed City - Ancient Palace",
+          "pt": "Cidade na Neve - Palácio Antigo"
+        },
+        "region": "dragonspine"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-32.40332, 41.52417]
+      },
+      "type": "Feature",
+      "properties": {
+        "label": {
+          "en": "Skyfrost Nail",
+          "pt": "Ponta do Céu Frio"
+        },
+        "region": "dragonspine"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-33.94375, 40.82188]
+      },
+      "type": "Feature",
+      "properties": {
+        "label": {
+          "en": "Starglow Cavern",
+          "pt": "Caverna do Brilho Estelar"
+        },
+        "region": "dragonspine"
+      }
+    }
+  ]
+}

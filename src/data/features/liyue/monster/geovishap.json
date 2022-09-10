@@ -1,0 +1,22 @@
+{
+  "format": 2,
+  "name": {
+    "en": "Geovishap"
+  },
+  "description": {
+    "en": "An Elite Monster. A matured Geovishap which can utilize elemental attacks."
+  },
+  "enabled": false,
+  "cluster": "on",
+  "respawn": 86400,
+  "icons": {
+    "filter": "geovishap",
+    "base": {
+      "marker": true
+    },
+    "done": {
+      "marker": true
+    }
+  },
+  "data": []
+}

@@ -1,0 +1,159 @@
+{
+  "format": 2,
+  "name": {
+    "en": "Geo Sigil",
+    "pt": "Selo Geo"
+  },
+  "description": {
+    "en": "A sigil embedded in a cliff face, valued by certain jewellers."
+  },
+  "enabled": true,
+  "cluster": "on",
+  "respawn": "none",
+  "icons": {
+    "filter": "geo-sigil",
+    "base": {
+      "marker": true
+    },
+    "done": {
+      "marker": true
+    }
+  },
+  "data": [
+    {
+      "coordinates": [-46.84219, 19.93125],
+      "id": "2909FC42E556DF860E5826B482A90F93FF3CC1CD",
+      "importIds": {
+        "gm_legacy": ["liyueGeoSigil/1"]
+      },
+      "popupAttribution": "Unknown",
+      "popupContent": {
+        "en": "Find it as you climb the mountain"
+      },
+      "popupMedia": "",
+      "popupTitle": {
+        "en": "MIGRATED MARKER: E2AC88D"
+      }
+    },
+    {
+      "coordinates": [-49.52187, 23.38438],
+      "id": "837F6EB3F0F49A0A2C99E4A4554313352975C1A5",
+      "importIds": {
+        "gm_legacy": ["liyueGeoSigil/2"]
+      },
+      "popupAttribution": "Unknown",
+      "popupContent": {
+        "en": "As you climb the lower level of the mountain, should be able to see a tree across"
+      },
+      "popupMedia": "liyue/geo-sigil/2",
+      "popupTitle": {
+        "en": "MIGRATED MARKER: F591CC9"
+      }
+    },
+    {
+      "coordinates": [-35.225, 19.23984],
+      "id": "3C80039BB0F79ECDCDB11C6F07A3C04E0D0C142E",
+      "importIds": {
+        "gm_legacy": ["liyueGeoSigil/3"]
+      },
+      "popupAttribution": "Unknown",
+      "popupContent": {
+        "en": "As you climb next to the stairs."
+      },
+      "popupMedia": "liyue/geo-sigil/3",
+      "popupTitle": {
+        "en": "MIGRATED MARKER: 8CE357E"
+      }
+    },
+    {
+      "coordinates": [-41.9164, 28.42344],
+      "id": "D9C1162E12C5E94EAD42A263B6F196EE15C566B8",
+      "importIds": {
+        "gm_legacy": ["liyueGeoSigil/4"]
+      },
+      "popupAttribution": "Unknown",
+      "popupContent": {
+        "en": "At the mid level of the mountain"
+      },
+      "popupMedia": "liyue/geo-sigil/4",
+      "popupTitle": {
+        "en": "MIGRATED MARKER: 47436FF"
+      }
+    },
+    {
+      "coordinates": [-41.40078, 31.22031],
+      "id": "ADDF76399C7BA90A53C289A373668C1321D42A30",
+      "importIds": {
+        "gm_legacy": ["liyueGeoSigil/5"]
+      },
+      "popupAttribution": "Unknown",
+      "popupContent": {
+        "en": "On top of the mountain next to a rock"
+      },
+      "popupMedia": "liyue/geo-sigil/5",
+      "popupTitle": {
+        "en": "MIGRATED MARKER: 96160D1"
+      }
+    },
+    {
+      "coordinates": [-35.8461, 27.94297],
+      "id": "69B3C3B4435221DFAB9DB92A9953EAF529D2FAD2",
+      "importIds": {
+        "gm_legacy": ["liyueGeoSigil/6"]
+      },
+      "popupAttribution": "Unknown",
+      "popupContent": {
+        "en": "Hidden near the bushes on the ground"
+      },
+      "popupMedia": "liyue/geo-sigil/6",
+      "popupTitle": {
+        "en": "MIGRATED MARKER: B07C533"
+      }
+    },
+    {
+      "coordinates": [-36.43984, 27.74375],
+      "id": "554159D428EF3851E5B386657F583110A249AFFB",
+      "importIds": {
+        "gm_legacy": ["liyueGeoSigil/7"]
+      },
+      "popupAttribution": "Unknown",
+      "popupContent": {
+        "en": "On one of the two rocks that are in the water"
+      },
+      "popupMedia": "liyue/geo-sigil/7",
+      "popupTitle": {
+        "en": "MIGRATED MARKER: 6AA4A91"
+      }
+    },
+    {
+      "coordinates": [-34.1, 34.68906],
+      "id": "3673B43AF1683071BE6CA588AE0FDF634321AC87",
+      "importIds": {
+        "gm_legacy": ["liyueGeoSigil/8"]
+      },
+      "popupAttribution": "Unknown",
+      "popupContent": {
+        "en": "Climb up the mountain above the shed"
+      },
+      "popupMedia": "liyue/geo-sigil/8",
+      "popupTitle": {
+        "en": "MIGRATED MARKER: 094BCDA"
+      }
+    },
+    {
+      "coordinates": [-35.1625, 36.69687],
+      "id": "FD32A3C88DEA003FEAB726366B2EF25C12E7DD2B",
+      "importIds": {
+        "gm_legacy": ["liyueGeoSigil/9"]
+      },
+      "popupAttribution": "Unknown",
+      "popupContent": {
+        "en": "On the mountain on the right of the Domain of Forgery"
+      },
+      "popupMedia": "liyue/geo-sigil/9",
+      "popupTitle": {
+        "en": "MIGRATED MARKER: A01D18B"
+      }
+    }
+  ]
+}
