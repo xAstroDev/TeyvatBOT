@@ -1,7 +1,7 @@
 # Changelog
 
 <details>
-<summary>*Older Version*</summary>
+### <summary>Older Version</summary>
 <br>
 
 # 0.2.0 React Rework
