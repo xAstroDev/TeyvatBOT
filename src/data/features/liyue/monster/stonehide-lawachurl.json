@@ -1,0 +1,23 @@
+{
+  "format": 2,
+  "description": {
+    "en": "Powerful boss Hilichurls with a Geo carapace."
+  },
+  "enabled": false,
+  "cluster": "on",
+  "name": {
+    "en": "Stonehide Lawachurl",
+    "pt": "Rei Hilichurl"
+  },
+  "respawn": 86400,
+  "icons": {
+    "filter": "stonehide-lawachurl",
+    "base": {
+      "marker": true
+    },
+    "done": {
+      "marker": true
+    }
+  },
+  "data": []
+}

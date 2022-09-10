@@ -1,0 +1,23 @@
+{
+  "format": 2,
+  "description": {
+    "en": "Abundantly available, low-quality metal used for Enhancement Ore."
+  },
+  "enabled": false,
+  "cluster": "on",
+  "name": {
+    "en": "Iron Chunk",
+    "ru": "Обломок железа",
+    "pt": "Pedaço de Ferro"
+  },
+  "icons": {
+    "filter": "iron-chunk",
+    "base": {
+      "marker": true
+    },
+    "done": {
+      "marker": true
+    }
+  },
+  "data": []
+}

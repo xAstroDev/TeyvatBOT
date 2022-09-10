@@ -1,0 +1,25 @@
+{
+  "format": 2,
+  "description": {
+    "en": "Hilichurls who have learned to use bows to attack at range, sometimes with elemental powers. Drops Arrowheads.",
+    "ru": "Хиличурлы, которые атакуют на расстоянии с помощью арбалета, иногда используя стихии. Возможные награды: Наконечник стрелы."
+  },
+  "enabled": false,
+  "cluster": "on",
+  "name": {
+    "en": "Hilichurl Shooter",
+    "pt": "Arqueiro Hilichurl",
+    "ru": "Хиличурл-стрелок"
+  },
+  "respawn": 86400,
+  "icons": {
+    "filter": "hilichurl-shooter",
+    "base": {
+      "marker": true
+    },
+    "done": {
+      "marker": true
+    }
+  },
+  "data": []
+}

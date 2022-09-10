@@ -1,0 +1,58 @@
+{
+  "format": 2,
+  "name": {
+    "en": "Abyss Mage",
+    "zh": "深渊法师",
+    "ru": "Маг Бездны"
+  },
+  "description": {
+    "en": "The chaotic agents of the Abyss Order. Drops Ley Line Branches.",
+    "ru": "Существа Бездны, которые в некоторой степени могут использовать в бою силу элементов. Вомзожные награды: ветви Артерий Земли."
+  },
+  "enabled": true,
+  "cluster": "on",
+  "respawn": "none",
+  "icons": {
+    "filter": "pyro-abyss-mage",
+    "base": {
+      "marker": true
+    },
+    "done": {
+      "marker": true
+    }
+  },
+  "data": [
+    {
+      "coordinates": [-33.4751, 44.09337],
+      "id": "7E88C8D414B3D73DB4E2AD2C37D27897676538ED",
+      "importIds": {
+        "yuanshen": ["31_9"]
+      },
+      "popupAttribution": "Yuanshen.site"
+    },
+    {
+      "coordinates": [-33.49462, 44.10899],
+      "id": "78F8238E2C68A8FA36C6FB6ED596A704DB4C38F5",
+      "importIds": {
+        "yuanshen": ["31_10"]
+      },
+      "popupAttribution": "Yuanshen.site"
+    },
+    {
+      "coordinates": [-27.05512, 39.39385],
+      "id": "4752DC591FF6BCF31FCD4F43D2FCADEC2362A6D7",
+      "importIds": {
+        "yuanshen": ["31_11"]
+      },
+      "popupAttribution": "Yuanshen.site"
+    },
+    {
+      "coordinates": [-27.13322, 39.47981],
+      "id": "FD514B492BF85523D85CEC844EB63F958B9A9E72",
+      "importIds": {
+        "yuanshen": ["31_12"]
+      },
+      "popupAttribution": "Yuanshen.site"
+    }
+  ]
+}

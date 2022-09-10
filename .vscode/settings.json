@@ -1,0 +1,19 @@
+{
+  "git.ignoreLimitWarning": true,
+  "[javascript]": {
+    "editor.formatOnSave": true,
+    "editor.tabSize": 2
+  },
+  "[python]": {
+    "editor.formatOnSave": true,
+    "editor.tabSize": 2
+  },
+  "[ruby]": {
+    "editor.formatOnSave": false,
+    "editor.tabSize": 2
+  },
+  "files.watcherExclude": {
+    "**/.git/objects/**": true,
+    "**/node_modules/**": true
+  }
+}

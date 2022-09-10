@@ -1,0 +1,196 @@
+{
+  "format": 2,
+  "name": {
+    "en": "Shrine",
+    "ru": "Святилище",
+    "pt": "Santuário"
+  },
+  "description": {
+    "en": "An ancient Shrine of Depths containing a Luxurious Chest, opened only with a special key.",
+    "ru": "Древнее Святилище Глубин, содержит Роскошный Сундук, открывается с помощью специального ключа."
+  },
+  "enabled": true,
+  "cluster": "off",
+  "respawn": "none",
+  "icons": {
+    "filter": "mondstadt-shrine",
+    "base": {
+      "marker": true
+    },
+    "done": {
+      "marker": true
+    }
+  },
+  "data": [
+    {
+      "coordinates": [-12.77969, 44.7125],
+      "id": "F49352F6E706CE10B1198806018B9D156ED4CEC2",
+      "importIds": {
+        "gm_legacy": ["mondstadtShrine/1"]
+      },
+      "popupAttribution": "MasterEric",
+      "popupTitle": {
+        "en": "Shrine #1",
+        "ru": "Святилище #1"
+      },
+      "popupContent": {
+        "en": "This shrine is located past the hilichurl tower, nearby to the Anemo Hypostasis arena.",
+        "ru": "Это святилище расположено около башни хиличурлов, рядом с ареной Анемо гипостазиса."
+      },
+      "popupMedia": "mondstadt/shrine/1"
+    },
+    {
+      "coordinates": [-15.73281, 49.60313],
+      "id": "BEE4343849762143FB72332F6C33B9299D4AB075",
+      "importIds": {
+        "gm_legacy": ["mondstadtShrine/2"]
+      },
+      "popupAttribution": "MasterEric",
+      "popupTitle": {
+        "en": "Shrine #2",
+        "ru": "Святилище #2"
+      },
+      "popupContent": {
+        "en": "This shrine is located below Starsnatch Cliff.",
+        "ru": "Это святилище расположено снизу Утёса Звездолова."
+      },
+      "popupMedia": "mondstadt/shrine/2"
+    },
+    {
+      "coordinates": [-22.12344, 42.50156],
+      "id": "B7703E6D4957E6434C95E49CF78E7C31B62353EE",
+      "importIds": {
+        "gm_legacy": ["mondstadtShrine/3"]
+      },
+      "popupAttribution": "MasterEric",
+      "popupTitle": {
+        "en": "Shrine #3",
+        "ru": "Святилище #3"
+      },
+      "popupContent": {
+        "en": "This shrine is nestled within the cliff near Springvale.",
+        "ru": "Это святилище расположено под утёсом вблизи Спрингвейла."
+      },
+      "popupMedia": "mondstadt/shrine/3"
+    },
+    {
+      "coordinates": [-22.11563, 38.65781],
+      "id": "38F4CAE466F0E7A69D509D1D4BE054A30081C5BC",
+      "importIds": {
+        "gm_legacy": ["mondstadtShrine/4"]
+      },
+      "popupAttribution": "MasterEric",
+      "popupTitle": {
+        "en": "Shrine #4",
+        "ru": "Святилище #4"
+      },
+      "popupContent": {
+        "en": "This shrine is located in the middle of a field near Springvale, by the cliff with an Anemoculus under it.",
+        "ru": "Святилище расположено посреди поля вблизи Спригвейла, под утёсом, если идти на север от Статуи Анемо Архонта."
+      },
+      "popupMedia": "mondstadt/shrine/4"
+    },
+    {
+      "coordinates": [-24.95157, 44.54844],
+      "id": "92995AE3FDDDFCEA3D51E37C18F9230BA78BD27F",
+      "importIds": {
+        "gm_legacy": ["mondstadtShrine/5"]
+      },
+      "popupAttribution": "MasterEric",
+      "popupTitle": {
+        "en": "Shrine #5",
+        "ru": "Святилище #5"
+      },
+      "popupContent": {
+        "en": "This shrine is located by a cliff near a river gorge, south of the large tree by the Statue of the Seven.",
+        "ru": "Это святилище расположено на утёсе вблизи ущелья с рекой, на юге от огромного дерева, там же Статуя Анемо Архонта."
+      },
+      "popupMedia": ""
+    },
+    {
+      "coordinates": [-28.46719, 45.5875],
+      "id": "6EDD0F107840DA39FECE903387D525522D3786E6",
+      "importIds": {
+        "gm_legacy": ["mondstadtShrine/6"]
+      },
+      "popupAttribution": "MasterEric",
+      "popupTitle": {
+        "en": "Shrine #6",
+        "ru": "Святилище #6"
+      },
+      "popupContent": {
+        "en": "This shrine is located far up the cliffs near the world border.",
+        "ru": "Это святищиле расположено на утёсе вблизи Драконьего Хребта, можно долететь от Статуи Анемо Архонта на Драконьем Хребте."
+      },
+      "popupMedia": ""
+    },
+    {
+      "coordinates": [-26.21719, 47.86094],
+      "id": "4F308F2D00C1873F16197FCBCE529DD1207944C7",
+      "importIds": {
+        "gm_legacy": ["mondstadtShrine/7"]
+      },
+      "popupAttribution": "MasterEric",
+      "popupTitle": {
+        "en": "Shrine #7",
+        "ru": "Святилище #7"
+      },
+      "popupContent": {
+        "en": "This shrine is located up at the top of a cliff near Dadaupa Gorge.",
+        "ru": "Это святилище расположено наверху утёса вблизи Храма Льва и Ущелья Дадаупа."
+      },
+      "popupMedia": ""
+    },
+    {
+      "coordinates": [-20.45157, 34.98594],
+      "id": "17553C93CB02BAF98FCF52E1DAE3A4B4E89053D5",
+      "importIds": {
+        "gm_legacy": ["mondstadtShrine/8"]
+      },
+      "popupAttribution": "MasterEric",
+      "popupTitle": {
+        "en": "Shrine #8",
+        "ru": "Святилище #8"
+      },
+      "popupContent": {
+        "en": "This shrine is located in the plain to the north of Andrius' arena.",
+        "ru": "Это святилище расположено на равниве к северу от испытания Андриуса, в Вольфендроме."
+      },
+      "popupMedia": "mondstadt/shrine/8"
+    },
+    {
+      "coordinates": [-26.39688, 34.25156],
+      "id": "78051E478941939FAD5803C512F0D8C438DB8BB7",
+      "importIds": {
+        "gm_legacy": ["mondstadtShrine/9"]
+      },
+      "popupAttribution": "MasterEric",
+      "popupTitle": {
+        "en": "Shrine #9",
+        "ru": "Святилище #9"
+      },
+      "popupContent": {
+        "en": "This shrine is located across the water near the border to Liyue.",
+        "ru": "Это святилище расположено на утёсе, вблизи границы Ли Юэ."
+      },
+      "popupMedia": ""
+    },
+    {
+      "coordinates": [-14.09218, 37.74375],
+      "id": "840067420E52B672C644005725573F864C11C29F",
+      "importIds": {
+        "gm_legacy": ["mondstadtShrine/10"]
+      },
+      "popupAttribution": "MasterEric",
+      "popupTitle": {
+        "en": "Shrine #10",
+        "ru": "Святилище #10"
+      },
+      "popupContent": {
+        "en": "This shrine is located at the top of a far cliff to the east of Stormterror's lair.",
+        "ru": "Это святилище расположено на вершине дальнего утёса к востоку от Логова Ужаса Бури, можно дойти следуя на север от телепорта Каньона светлой короны."
+      },
+      "popupMedia": "mondstadt/shrine/10"
+    }
+  ]
+}

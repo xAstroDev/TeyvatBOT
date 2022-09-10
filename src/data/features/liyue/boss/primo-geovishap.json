@@ -1,0 +1,28 @@
+{
+  "format": 2,
+  "name": {
+    "en": "Primo Geovishap"
+  },
+  "description": {
+    "en": "An ancient and awesomely powerful Geovishap that has taken on the power of the elements. Drops random Character Level-Up Materials and Juvenile Jades."
+  },
+  "enabled": true,
+  "cluster": "off",
+  "respawn": "boss",
+  "icons": {
+    "filter": "primo-geovishap",
+    "base": {
+      "marker": true
+    },
+    "done": {
+      "marker": true
+    }
+  },
+  "data": [
+    {
+      "coordinates": [-40.73049, 16.57397],
+      "id": "70AC36D4F3455DBC3304C92558CCB59E729E1972",
+      "popupAttribution": "MasterEric"
+    }
+  ]
+}

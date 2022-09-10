@@ -1,0 +1,33 @@
+{
+  "format": 2,
+  "name": {
+    "en": "Pyro Regisvine",
+    "pt": "Árvore Queimada"
+  },
+  "description": {
+    "en": "A giant vine that has absorbed the ancient flame that rages within the ley lines. Drops Pyro Character Level-Up Materials and Artifacts."
+  },
+  "enabled": true,
+  "cluster": "off",
+  "respawn": 180,
+  "icons": {
+    "filter": "pyro-regisvine",
+    "base": {
+      "marker": true
+    },
+    "done": {
+      "marker": true
+    }
+  },
+  "data": [
+    {
+      "coordinates": [-41.24586, 22.13565],
+      "id": "3FA93DD061F9CF99A9DC5C434832376315ADBCE0",
+      "importIds": {
+        "gm_msfv2": ["9E2C6BACC0D97E91CE2390327AC1A8F7888F1103"],
+        "gm_legacy": ["liyuePyroRegisvine/1"]
+      },
+      "popupAttribution": "MasterEric"
+    }
+  ]
+}
