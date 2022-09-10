@@ -1,9 +1,8 @@
 # Changelog
 
 <details>
-### <summary>Older Version</summary>
+<summary>Older Versions</summary>
 <br>
-
 # 0.2.0 React Rework
 
 First major release of the rework, featuring a new interface developed in React.
