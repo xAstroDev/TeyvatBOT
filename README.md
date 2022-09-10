@@ -38,7 +38,7 @@
 
 * * *
 
-## What is Teyvat.moe?
+## What is TeyvatBOT?
 
 Teyvat.moe is a free interactive web app for [Genshin Impact](https://genshin.mihoyo.com/), powered by NextJS, [LeafletJS](https://leafletjs.com/reference-1.7.1.html), and community contributions.
 
