@@ -15,6 +15,7 @@
 <b>|</b>
   <br/><br/>
 ![GitHub branch checks state](https://img.shields.io/github/checks-status/xAstroDev/TeyvatBOT/master)
+
 <a href="https://xAstroDev.github.io/TeyvatBOT/"><img src="https://img.shields.io/badge/Build-Passing-brightgreen" alt="Build"/></a>
 <a href="https://github.com/Teyvat-Moe/Teyvat.moe/blob/master/LICENSE.md"><img src="https://img.shields.io/badge/license-GPLv3-green.svg" alt="Software License"/></a>
 <a href="https://discord.gg/"><img src="https://img.shields.io/discord/807068732567453726?label=discord&logo=discord&logoColor=738adb" alt="Discord Server"/></a>
