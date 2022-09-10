@@ -12,13 +12,15 @@
 <a href="https://github.com/xAstroDev/TeyvatBOT/wiki">Wiki</a>
 <b>|</b>
 <a href="https://github.com/xAstroDev/TeyvatBOT/blob/master/CHANGELOG.md">Changelog</a>
-
+<b>|</b>
   <br/><br/>
 ![GitHub branch checks state](https://img.shields.io/github/checks-status/xAstroDev/TeyvatBOT/master)
 <a href="https://xAstroDev.github.io/TeyvatBOT/"><img src="https://img.shields.io/badge/Build-Passing-brightgreen" alt="Build"/></a>
 <a href="https://github.com/Teyvat-Moe/Teyvat.moe/blob/master/LICENSE.md"><img src="https://img.shields.io/badge/license-GPLv3-green.svg" alt="Software License"/></a>
 <a href="https://discord.gg/"><img src="https://img.shields.io/discord/807068732567453726?label=discord&logo=discord&logoColor=738adb" alt="Discord Server"/></a>
-<a href="https://github.com/xAstroDev/TeyvatBOT/wiki/Contributing"><img src="https://img.shields.io/badge/Contribution-Welcome-brightgreen" alt="s Welcome"/></a>
+<a href="https://github.com/xAstroDev/TeyvatBOT/wiki/Contributing"><img src="https://img.shields.io/badge/Contribution-Welcome-brightgreen" alt="Contribution Welcome"/></a>
+<a herf="https://github.com/xAstroDev/TeyvatBOT/pulls"><img src="https://img.shields.io/badge/PRs-Welcome-brightgreen" alt="PRs"/></a>
+
   <br/><br/>
 <b><a href="https://poeditor.com/projects/view?id=394831">Translation</a></b>
   <br/>
