@@ -1,17 +1,17 @@
-# WELCOME TO 
+# WELCOME TO **TeyvatBOT**
 
-<p align='center'><img src="https://raw.githubusercontent.com/Teyvat-Moe/teyvat.moe/master/assets/Social.png"></p>
+<p align='center'><img src="https://i.pinimg.com/736x/28/29/ea/2829ea0945a0977f887a805f88e9c6f1.jpg"></p>
 
 * * *
 
 <p align='center'>
-<a href="https://xastrodev.github.io/astrogg/"><b>TeyvatBOT</b></a>
+<a href="https://xastrodev.github.io/TeyvatBOT/"><b>TeyvatBOT</b></a>
 <b>|</b>
-<a href="https://xastrodev.github.io/astrogg/"><b>Beta Site</b></a>
+<a href="https://xastrodev.github.io/TeyvatBOT/"><b>Beta Site</b></a>
 <b>|</b>
-<a href="https://github.com/Teyvat-Moe/Teyvat.moe/wiki">Wiki</a>
+<a href="https://github.com/xAstroDev/TeyvatBOT/wiki">Wiki</a>
 <b>|</b>
-<a href="https://github.com/Teyvat-Moe/Teyvat.moe/blob/master/CHANGELOG.md">Changelog</a>
+<a href="https://github.com/xAstroDev/TeyvatBOT/blob/master/CHANGELOG.md">Changelog</a>
 
   <br/><br/>
 <a href="https://travis-ci.com/github/Teyvat-Moe/Teyvat.moe"><img src="https://api.travis-ci.com/Teyvat-Moe/Teyvat.moe.svg?branch=master" alt="TravisCI"/></a>
