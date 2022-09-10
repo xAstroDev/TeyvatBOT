@@ -1,5 +1,9 @@
 # Changelog
 
+<details>
+<summary>*Older Version*</summary>
+<br>
+
 # 0.2.0 React Rework
 
 First major release of the rework, featuring a new interface developed in React.
@@ -1223,12 +1227,11 @@ The long-postponed feature is finally here!
 -   Redid how the Redux state was structured and how preferences are retrieved.
 -   Replaced localization engine with react-i18n for improved performance.
 -   Memoized lots of components to prevent re-renders.
+</details>
 
-# 1.0.0 Teyvat.moe
+# 1.0.0 BugFix
 
-- Migrated website domain.
-- Old site (https://genshinmap.github.io/) is now a stub for redirection and data migration.
-- A bunch of other features and performance improvements that were previously only on the beta site are now public. Scroll through the changelogs for v0.12 and v0.13 for more details.
+- A bunch of features and performance improvements that were previously only on the beta site are now public. Scroll through the changelogs for v0.12 and v0.13 for more details.
 
 # 1.0.1 GenshinMap Migrator
 
