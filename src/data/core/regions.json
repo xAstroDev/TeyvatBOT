@@ -1,0 +1,143 @@
+{
+  "mondstadt": {
+    "name": {
+      "_code": "2379846137",
+      "en": "Mondstadt",
+      "ja": "モンド城",
+      "ru": "Мондштадт",
+      "zh": "蒙德城",
+      "zh-tw": "蒙德",
+      "de": "Mondstadt",
+      "es": "Mondstadt",
+      "fr": "Cité de Mondstadt",
+      "id": "Mondstadt",
+      "ko": "몬드성",
+      "pt": "Mondstadt",
+      "th": "Mondstadt",
+      "vi": "Thành Mondstadt"
+    },
+    "enabled": true,
+    "color": "#408867"
+  },
+  "liyue": {
+    "name": {
+      "_code": "2343126805",
+      "en": "Liyue",
+      "ja": "璃月",
+      "ru": "Ли Юэ",
+      "zh": "璃月",
+      "zh-tw": "璃月",
+      "de": "Liyue",
+      "es": "Liyue",
+      "fr": "Liyue",
+      "id": "Liyue",
+      "ko": "리월",
+      "pt": "Liyue",
+      "th": "Liyue",
+      "vi": "Liyue"
+    },
+    "enabled": true,
+    "color": "#A28339"
+  },
+  "dragonspine": {
+    "name": {
+      "_code": "2794992439",
+      "de": "Der Drachengrat",
+      "en": "Dragonspine",
+      "fr": "Monts Dosdragon",
+      "ja": "ドラゴンスパイン",
+      "pt": "Espinha do Dragão",
+      "ru": "Драконий хребет",
+      "zh": "龙脊雪山",
+      "zh-tw": "龍脊雪山",
+      "es": "Espinadragón",
+      "id": "Dragonspine",
+      "ko": "드래곤 스파인",
+      "th": "Dragonspine",
+      "vi": "Long Tích Tuyết Sơn"
+    },
+    "enabled": true,
+    "color": "#394984"
+  },
+  "archipelago": {
+    "name": {
+      "_code": "514439353",
+      "en": "Golden Apple Archipelago",
+      "zh": "金苹果群岛",
+      "de": "Goldapfelarchipel",
+      "es": "Archipiélago Manzana Dorada",
+      "fr": "Archipel de la pomme dorée",
+      "id": "Golden Apple Archipelago",
+      "ja": "金リンゴ群島",
+      "ko": "금사과 제도",
+      "pt": "Arquipélago de Maçã Dourada",
+      "ru": "Архипелаг Золотого Яблока",
+      "th": "Golden Apple Archipelago",
+      "vi": "Quần Đảo Táo Vàng"
+    },
+    "enabled": true,
+    "color": "#257C85"
+  },
+  "inazuma": {
+    "name": {
+      "_code": "751451623",
+      "en": "Inazuma",
+      "ja": "稲妻",
+      "ru": "Инадзума",
+      "zh": "稻妻",
+      "zh-tw": "稻妻",
+      "de": "Inazuma",
+      "es": "Inazuma",
+      "fr": "Inazuma",
+      "id": "Inazuma",
+      "ko": "이나즈마",
+      "pt": "Inazuma",
+      "th": "Inazuma",
+      "vi": "Inazuma"
+    },
+    "enabled": false,
+    "color": "#663F5C"
+  },
+  "sumeru": {
+    "name": {
+      "en": "Sumeru",
+      "ja": "スメール",
+      "ru": "Сумеру",
+      "zh": "须弥"
+    },
+    "enabled": false,
+    "color": "#2A5220"
+  },
+  "fontaine": {
+    "name": {
+      "en": "Fontaine",
+      "ja": "フォンテーヌ",
+      "ru": "Фонтейн",
+      "zh": "枫丹"
+    },
+    "enabled": false,
+    "color": "#295B6C"
+  },
+  "natlan": {
+    "name": {
+      "de": "Netlan",
+      "en": "Natlan",
+      "ja": "ナタ",
+      "ru": "Натлан",
+      "zh": "穆纳塔"
+    },
+    "enabled": false,
+    "color": "#408867"
+  },
+  "snezhnaya": {
+    "name": {
+      "en": "Snezhnaya",
+      "ja": "スネージナヤ",
+      "ru": "Снежная",
+      "zh": "至冬",
+      "zh-tw": "至冬"
+    },
+    "enabled": false,
+    "color": "#257C85"
+  }
+}

@@ -1,0 +1,56 @@
+{
+  "format": 2,
+  "name": {
+    "_code": "4043227537",
+    "zh": "秘境",
+    "de": "Sphäre",
+    "en": "Domain",
+    "es": "Dominio",
+    "fr": "Donjon",
+    "id": "Domain",
+    "ja": "秘境",
+    "ko": "비경",
+    "pt": "Domínio",
+    "ru": "Подземелье",
+    "th": "ดันเจี้ยน",
+    "vi": "Bí Cảnh"
+  },
+  "description": {
+    "en": "Complete the challenges to earn Artifact, Weapon Ascension, or Talent Level-Up rewards."
+  },
+  "enabled": true,
+  "cluster": "off",
+  "respawn": "none",
+  "icons": {
+    "filter": "domain",
+    "base": {
+      "marker": false,
+      "key": "domain",
+      "iconSize": [36, 36],
+      "shadowSize": [50, 64],
+      "iconAnchor": [18, 27],
+      "shadowAnchor": [0, 62],
+      "popupAnchor": [0, -27]
+    },
+    "done": {
+      "marker": false,
+      "key": "domain",
+      "iconSize": [36, 36],
+      "shadowSize": [50, 64],
+      "iconAnchor": [18, 27],
+      "shadowAnchor": [0, 62],
+      "popupAnchor": [0, -27]
+    }
+  },
+  "data": [
+    {
+      "coordinates": [-31.96138, 40.78392],
+      "id": "C29ED2244FF28ED05E5AB775B01AB7E094D15397",
+      "importIds": {
+        "gm_legacy": ["dragonspineDomain/1"]
+      },
+      "tags": ["artifacts"],
+      "popupAttribution": "MasterEric"
+    }
+  ]
+}

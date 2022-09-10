@@ -1,0 +1,104 @@
+{
+  "format": 2,
+  "name": {
+    "_code": "2483588484",
+    "zh": "苹果",
+    "de": "Apfel",
+    "en": "Apple",
+    "es": "Manzana",
+    "fr": "Pomme",
+    "id": "Apple",
+    "ja": "リンゴ",
+    "ko": "사과",
+    "pt": "Maçã",
+    "ru": "Яблоко",
+    "th": "Apple",
+    "vi": "Táo"
+  },
+  "description": {
+    "_code": "3827952949",
+    "zh": "爽脆可口的酸甜果实，无论生食或是酿酒都很是美味。",
+    "de": "Ein süßlich-saurer Apfel. Ob roh oder als Obstwein ein Genuss.",
+    "en": "Crisp and fragrant. Delicious raw or made into wine.",
+    "es": "Crujiente y aromática. Deliciosa en crudo o para hacer vino.",
+    "fr": "Fruit croquant et acidulé. Il peut être consommé tel quel ou transformé en cidre.",
+    "id": "Renyah saat digigit, rasanya manis dan sedikit asam, cocok untuk dimakan langsung atau dibuat menjadi cider.",
+    "ja": "サッパリした酸味と甘みの果物。そのままでも酒漬けにしても美味しい。",
+    "ko": "새콤달콤하고 아삭아삭한 과일. 생으로 먹든 술로 담가 먹든 모두 맛있다",
+    "pt": "Crocante e saborosa. Deliciosa tanto crua quanto feita ao vinho.",
+    "ru": "Ароматное и хрустящее. Обычно их едят сырыми или делают из них сидр.",
+    "th": "ผลไม้ที่ทั้งกรอบและหอม รสชาติเยี่ยมไม่ว่าจะทานสดหรือ หมักเป็นไวน์",
+    "vi": "Trái cây giòn ngọt, ăn sống hay ủ rượu đều rất ngon."
+  },
+  "tags": ["cooking-ingredient"],
+  "enabled": true,
+  "cluster": "on",
+  "respawn": "none",
+  "icons": {
+    "filter": "apple",
+    "base": {
+      "marker": true
+    },
+    "done": {
+      "marker": true
+    }
+  },
+  "data": [
+    {
+      "coordinates": [-24.41593, 23.97862],
+      "id": "FDD01E47A8399CC343F2A6DE343375AEB6944FE8",
+      "importIds": {
+        "yuanshen": ["110_1"]
+      },
+      "popupAttribution": "Yuanshen.site"
+    },
+    {
+      "coordinates": [-24.41593, 24.00206],
+      "id": "62A96A31B598EBCC82E16C41E8CBD1D31CF5DAF8",
+      "importIds": {
+        "yuanshen": ["110_2"]
+      },
+      "popupAttribution": "Yuanshen.site"
+    },
+    {
+      "coordinates": [-46.12212, 21.40001],
+      "id": "FB20453A0270BFB7D2DB251DC1BCF8C5921DDD55",
+      "importIds": {
+        "yuanshen": ["110_3"]
+      },
+      "popupAttribution": "Yuanshen.site"
+    },
+    {
+      "coordinates": [-36.14688, 28.97552],
+      "id": "43F5C6D6B16F6D14547C0AD814E6F811BE8897D0",
+      "importIds": {
+        "yuanshen": ["110_4"]
+      },
+      "popupAttribution": "Yuanshen.site"
+    },
+    {
+      "coordinates": [-36.13776, 28.94558],
+      "id": "BE8DF48BB356467EEDBD6F28102057EC9F16EB79",
+      "importIds": {
+        "yuanshen": ["110_5"]
+      },
+      "popupAttribution": "Yuanshen.site"
+    },
+    {
+      "coordinates": [-28.24107, 27.88624],
+      "id": "126974CD994CB02DA8E9B82199729BE0CEF5A377",
+      "importIds": {
+        "yuanshen": ["110_6"]
+      },
+      "popupAttribution": "Yuanshen.site"
+    },
+    {
+      "coordinates": [-23.00364, 23.26849],
+      "id": "1290BE397429978CC01029294FB8432EA2784089",
+      "importIds": {
+        "yuanshen": ["110_7"]
+      },
+      "popupAttribution": "Yuanshen.site"
+    }
+  ]
+}

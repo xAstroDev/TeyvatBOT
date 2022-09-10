@@ -1,0 +1,277 @@
+{
+  "format": 2,
+  "name": {
+    "_code": "113319715",
+    "zh": "愚人众先遣队",
+    "de": "Fatui-Plänkler",
+    "en": "Fatui Skirmisher",
+    "es": "Soldado Fatui",
+    "fr": "Tirailleur Fatui",
+    "id": "Fatui Skirmisher",
+    "ja": "ファデュイ先遣隊",
+    "ko": "우인단 선발대",
+    "pt": "Soldado Fatui",
+    "ru": "Застрельщик Фатуи",
+    "th": "Fatui Skirmisher",
+    "vi": "Đội tiên phong Fatui"
+  },
+  "description": {
+    "_code": "1364422791",
+    "zh": "愚人众战争机器中的士兵。\\n「先遣队」之名意味着生死不问，深入祖国以外的土地完成前期任务，为未来的某些行动夯实基础。\\n不同于少数精锐的债务处理人与萤术士，先遣队的单兵实力与装备较为薄弱。\\n为了完成任务，为了减少人员与物资的损耗，先遣队的战术更讲究团队协作。",
+    "de": "Ein Fatuus in einer Kriegsmaschine.\\nFür diese Plänkler ist das Überleben ungewiss. Ihr Ziel ist es, Aufträge in fremdem Territorium auszuführen, um die Grundsteine für künftige Unternehmungen ihrer Heimat zu legen.\\nAnders als einige besondere Elitesoldaten wie Schuldeneintreiber und Cicin-Zauberinnen haben Plänkler keine so große Stärke und gute Ausrüstung.\\nUm ihre Aufträge dennoch zu erfüllen und den Verschleiß an Mensch und Material einzudämmen, sind Plänkler eher für den Kampf im Verband vorgesehen.",
+    "en": "A soldier encased within a Fatui war machine.\\nThese skirmishers do not question if they shall live or die as they advance into nations far from home to complete advance missions and lay the groundwork for operations to come.\\nUnlike the elite Mages and Agents, Fatui Skirmishers are soldiers of lesser individual might.\\nTo complete their tasks and reduce losses in men and materiel, their tactics are thus more reliant on teamwork.",
+    "es": "Un soldado en una máquina de guerra Fatui.\\nEstos soldados no se cuestionan si vivirán o morirán; solo caminan hacia naciones lejanas para completar misiones y sentar las bases para operaciones futuras.\\nA diferencia de los Recaudadores y las Magas de Cicin, los soldados Fatui son más débiles individualmente.\\nPara completar sus misiones y reducir las pérdidas humanas y de material, sus tácticas dependen más del trabajo en equipo.",
+    "fr": "Un soldat doté d'une machine de guerre Fatui.\\nLes Tirailleurs ont peu d'égard pour leur propre vie quand ils partent en missions avancées dans des terres lointaines et préparent le terrain pour des opérations futures.\\nContrairement aux Mages électroluciole et aux Usuriers, les Tirailleurs Fatui sont des soldats de moindre puissance individuelle.\\nPour accomplir leurs tâches et réduire les pertes en hommes et en matériel, leurs tactiques reposent davantage sur le travail d'équipe.",
+    "id": "Prajurit yang terbungkus dalam mesin perang Fatui.\\nPara Fatui Skirmisher ini tidak mempersoalkan apakah mereka masih bisa hidup atau mati setelah mereka pergi ke negara-negara yang jauh dari negara asalnya untuk menyelesaikan misi sebelumnya dan membangun persiapan untuk operasi mereka yang akan datang.\\nBerbeda dengan Mage dan Agent, Fatui Skirmisher adalah prajurit dengan kekuatan individual yang lebih lemah.\\nKarena itu, mereka lebih bergantung pada kerjasama tim untuk menyelesaikan misi dan mengurangi kehilangan sumber daya.",
+    "ja": "ファデュイの戦争兵器に所属する兵士。\\n「先遣隊」は、今後の行動の基盤を築くために、生死を問わず異国へ赴き先行任務を果たす。\\n少数精鋭のデッドエージェントや蛍術師と違い、先遣隊の兵士は実力も装備も比較的に弱い。\\n任務で人員と物資の消耗を最小限にするため、先遣隊はチームワークを重視する。",
+    "ko": "우인단 전쟁 병기 중의 병사.\\n「선발대」의 이름은 생사를 묻지 않고 조국을 떠나 낯선 땅을 밟으며 선행 임무를 완수해 미래에 작전을 완만하게 수행할 수 있는 기초를 다지는 것을 의미한다.\\n소수 정예인 채무처리인과 치친 술사와는 달리 선발대는 개인 능력과 장비가 조금 부족하다.\\n임무를 성공적으로 완수하고 인원과 물자가 소모되는 걸 최대한 방지하기 위해 팀워크를 더 중요시한다",
+    "pt": "Um soldado dentro de uma máquina de guerra Fatui.\\nEsses soldados não questionam se viverão ou morerrão enquanto avançam para nações longe de casa para completar missões avançadas e estabelecer as bases para as operações que virão.\\nAo contrário dos Magos e Agentes, os Soldados Fatui são soldados de menor poder individual.\\nPara completar suas tarefas e reduzir as perdas em homens e materiais, suas táticas são mais dependentes do trabalho em equipe.",
+    "ru": "Солдаты военной машины Фатуи. Они получили своё имя за то, что, не жалея своей жизни, первыми отправляются на задания вдали от родины, создавая фундамент для будущих операций. В отличие от элитных агентов Фатуи или магов цицинов, застрельщики не очень сильны по отдельности. Чтобы выполнить задание и избежать потерь, они полагаются на командную работу.",
+    "th": "ทหารที่ปกคลุมร่างกายด้วยเครื่องจักรสงครามของ Fatui\\nชื่อของ Skirmisher นั้นหมายถึงการเพิกเฉยต่อความเป็นตาย แทรกซึมเข้าไปในพื้นที่ต่างแดน เพื่อทำภารกิจให้สำเร็จและวางรากฐานที่มั่นคง สำหรับการดำเนินการบางอย่างในอนาคต\\nแตกต่างจาก Mage และ Agent ที่เป็นพวกหัวกะทิ ลำพังกำลังรบและอุปกรณ์ของ Skirmisher นั้นค่อนข้างจะอ่อนแอ\\nเพื่อที่จะทำภารกิจให้สำเร็จ และลดความสูญเสียในหมู่สมาชิกและทรัพยากรแล้ว Skirmisher จึงมักจะใช้กลยุทธ์การต่อสู้แบบเป็นทีมเป็นหลัก",
+    "vi": "Binh sĩ trong cỗ máy chiến tranh của Fatui.\\nCái tên \"Đội tiên phong\" có nghĩa là không màng sống chết, xâm nhập vào những vùng đất lạ để hoàn thành nhiệm vụ tiền kỳ, làm nền tảng cho những hành động sau này.\\nKhác với người xử lý nợ và thuật sĩ Cicin ưu tú, thực lực và trang bị của đội tiên phong có phần yếu kém.\\nĐể hoàn thành nhiệm vụ và giảm với tổn thất về vật tư cũng như con người, chiến thuật của đội tiên phong chú trọng đến sự hợp tác chiến đấu."
+  },
+  "tags": ["character-weapon-material"],
+  "enabled": true,
+  "cluster": "on",
+  "respawn": 86400,
+  "icons": {
+    "filter": "fatui-skirmisher",
+    "base": {
+      "marker": true
+    },
+    "done": {
+      "marker": true
+    }
+  },
+  "data": [
+    {
+      "coordinates": [-53.34219, 21.67343],
+      "id": "70586FB1514C2FBC4F79CF34C4D23D9358A80D0B",
+      "importIds": {
+        "gm_legacy": ["liyueFatuiSkirmisher/1"],
+        "yuanshen": ["38_1"]
+      },
+      "popupAttribution": "Yuanshen.site"
+    },
+    {
+      "coordinates": [-50.96328, 25.86875],
+      "id": "049BD89614212BBEAB8D99D405AF4A5DD9656862",
+      "importIds": {
+        "gm_legacy": ["liyueFatuiSkirmisher/2"],
+        "yuanshen": ["38_2"]
+      },
+      "popupAttribution": "Yuanshen.site"
+    },
+    {
+      "coordinates": [-44.86563, 21.85703],
+      "id": "58059D82FAE721EE7F472F3815D28E476B52BA88",
+      "importIds": {
+        "gm_legacy": ["liyueFatuiSkirmisher/3"],
+        "yuanshen": ["38_3"]
+      },
+      "popupAttribution": "Yuanshen.site"
+    },
+    {
+      "coordinates": [-50.98697, 25.91811],
+      "id": "814108AE07007AE00DE8548E5591B27BA51684E6",
+      "importIds": {
+        "gm_legacy": ["liyueFatuiSkirmisher/6"],
+        "yuanshen": ["38_6"]
+      },
+      "popupAttribution": "Yuanshen.site"
+    },
+    {
+      "coordinates": [-44.53753, 23.08747],
+      "id": "46F6D9C0412D4490D4348405B6EC68FF7261329F",
+      "importIds": {
+        "gm_legacy": ["liyueFatuiSkirmisher/7"],
+        "yuanshen": ["38_7"]
+      },
+      "popupAttribution": "Yuanshen.site"
+    },
+    {
+      "coordinates": [-45.12734, 22.59922],
+      "id": "4F3C22D4499E56C3E586145B4836E92540686FD4",
+      "importIds": {
+        "gm_legacy": ["liyueFatuiSkirmisher/10"],
+        "yuanshen": ["38_10"]
+      },
+      "popupAttribution": "Yuanshen.site"
+    },
+    {
+      "coordinates": [-48.25532, 20.1728],
+      "id": "A1A325578C829FE40BF92C646C9E14B7BCEC6BAF",
+      "importIds": {
+        "gm_legacy": ["liyueFatuiSkirmisher/11"],
+        "yuanshen": ["38_11"]
+      },
+      "popupAttribution": "Yuanshen.site"
+    },
+    {
+      "coordinates": [-45.31763, 20.99496],
+      "id": "8D6C0BAD9C9D323DAB9EA0530FBB8D266F05C043",
+      "importIds": {
+        "gm_legacy": ["liyueFatuiSkirmisher/13"],
+        "yuanshen": ["38_13"]
+      },
+      "popupAttribution": "Yuanshen.site"
+    },
+    {
+      "coordinates": [-44.30154, 20.13335],
+      "id": "D7D2F49C1A226C74EE9403F5E86EDAC9FF70AC57",
+      "importIds": {
+        "gm_legacy": ["liyueFatuiSkirmisher/14"],
+        "yuanshen": ["38_14"]
+      },
+      "popupAttribution": "Yuanshen.site"
+    },
+    {
+      "coordinates": [-41.15412, 19.23533],
+      "id": "280EC247E456C02BDAEE07A3DB4975C99FE520AB",
+      "importIds": {
+        "gm_legacy": ["liyueFatuiSkirmisher/15", "liyueFatuiSkirmisher/25"],
+        "yuanshen": ["38_15"]
+      },
+      "popupMedia": "liyue/fatui-skirmisher/25",
+      "popupAttribution": "Yuanshen.site"
+    },
+    {
+      "coordinates": [-41.23222, 18.84088],
+      "id": "D1F511EB50D810CEDEF7417A9DCF56BE28CA575F",
+      "importIds": {
+        "gm_legacy": ["liyueFatuiSkirmisher/16"],
+        "yuanshen": ["38_16"]
+      },
+      "popupAttribution": "Yuanshen.site"
+    },
+    {
+      "coordinates": [-24.81875, 32.75937],
+      "id": "148B46D01A36133AD02F1E9C725C95367123EFD4",
+      "importIds": {
+        "gm_legacy": ["liyueFatuiSkirmisher/17"],
+        "yuanshen": ["38_17"]
+      },
+      "popupAttribution": "Yuanshen.site"
+    },
+    {
+      "coordinates": [-37.55085, 23.17152],
+      "id": "0E3D0D250C3242F3CD1AB8FB51EF962142ED7B34",
+      "importIds": {
+        "gm_legacy": ["liyueFatuiSkirmisher/18"],
+        "yuanshen": ["38_18"]
+      },
+      "popupAttribution": "Yuanshen.site"
+    },
+    {
+      "coordinates": [-37.77174, 22.29333],
+      "id": "9A7D26C864F96778F8EE279A60E38DAC548FD6A8",
+      "importIds": {
+        "gm_legacy": ["liyueFatuiSkirmisher/19"],
+        "yuanshen": ["38_19"]
+      },
+      "popupAttribution": "Yuanshen.site"
+    },
+    {
+      "coordinates": [-32.93939, 25.26561],
+      "id": "9CB14FA13D7AA7AE9C4DFFB89E7333B22074F8C9",
+      "importIds": {
+        "gm_legacy": ["liyueFatuiSkirmisher/20"],
+        "yuanshen": ["38_20"]
+      },
+      "popupAttribution": "Yuanshen.site"
+    },
+    {
+      "coordinates": [-28.83751, 22.51654],
+      "id": "0FECF478B1C6E8E5AD9E4F2E32F25AC0B6950B49",
+      "importIds": {
+        "gm_legacy": ["liyueFatuiSkirmisher/21"],
+        "yuanshen": ["38_21"]
+      },
+      "popupAttribution": "Yuanshen.site"
+    },
+    {
+      "coordinates": [-34.09532, 34.46132],
+      "id": "5BF4FC7055CCA02617D4ABED47D53DE55B9CA3AC",
+      "importIds": {
+        "gm_legacy": ["liyueFatuiSkirmisher/22"],
+        "yuanshen": ["38_22"]
+      },
+      "popupAttribution": "Yuanshen.site"
+    },
+    {
+      "coordinates": [-33.65017, 34.24652],
+      "id": "8DC62BDCF37805C538341ADB71BFD3EAA2E78102",
+      "importIds": {
+        "gm_legacy": ["liyueFatuiSkirmisher/23"],
+        "yuanshen": ["38_23"]
+      },
+      "popupAttribution": "Yuanshen.site"
+    },
+    {
+      "coordinates": [-45.27838, 20.42083],
+      "id": "72105B26EAB0832FFD9BE2FBB1F46EC22FB30530",
+      "importIds": {
+        "yuanshen": ["38_12"],
+        "gm_legacy": ["liyueFatuiSkirmisher/12"]
+      },
+      "popupAttribution": "Yuanshen.site"
+    },
+    {
+      "coordinates": [-38.28229, 22.06145],
+      "id": "50F2E954F678F4C6B5D4A4468E36892C88559C92",
+      "importIds": {
+        "yuanshen": ["38_24"]
+      },
+      "popupAttribution": "Yuanshen.site"
+    },
+    {
+      "coordinates": [-38.26232, 21.99927],
+      "id": "D618DBCF75BFEFE03503B99E2F35AAAD33DB3B26",
+      "importIds": {
+        "yuanshen": ["38_25"]
+      },
+      "popupAttribution": "Yuanshen.site"
+    },
+    {
+      "coordinates": [-38.28966, 21.99535],
+      "id": "53E1B76770F15C20F9A5A478BF56736C9ADFE3E0",
+      "importIds": {
+        "yuanshen": ["38_26"],
+        "gm_legacy": ["liyueFatuiSkirmisher/24"]
+      },
+      "popupAttribution": "Yuanshen.site"
+    },
+    {
+      "coordinates": [-48.45417, 20.20599],
+      "id": "80C3850D1A581F0270A5A463BE2105E5CB3139EF",
+      "importIds": {
+        "yuanshen": ["38_27"]
+      },
+      "popupAttribution": "Yuanshen.site"
+    },
+    {
+      "coordinates": [-48.38646, 20.26328],
+      "id": "4FAA32CA745A5C8AA80599B2C6245353EAF9D3DE",
+      "importIds": {
+        "yuanshen": ["38_28"]
+      },
+      "popupAttribution": "Yuanshen.site"
+    },
+    {
+      "coordinates": [-33.70154, 34.22159],
+      "id": "6A5FF4ECB26A91AF96DBDFBB883D939DCF0FEA96",
+      "importIds": {
+        "yuanshen": ["38_29"]
+      },
+      "popupAttribution": "Yuanshen.site"
+    },
+    {
+      "coordinates": [-33.72796, 34.20914],
+      "id": "59F909F4219C159009DBBE1C3FE85AB3CE2989FE",
+      "importIds": {
+        "yuanshen": ["38_30"]
+      },
+      "popupAttribution": "Yuanshen.site"
+    }
+  ]
+}

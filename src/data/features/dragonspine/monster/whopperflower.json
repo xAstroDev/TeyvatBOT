@@ -1,0 +1,176 @@
+{
+  "format": 2,
+  "name": {
+    "_code": "562652100",
+    "zh": "骗骗花",
+    "de": "Vaniloqua",
+    "en": "Whopperflower",
+    "es": "Megaflora",
+    "fr": "Fleur mensongère",
+    "id": "Whopperflower",
+    "ja": "トリックフラワー",
+    "ko": "구라구라꽃",
+    "pt": "Flor Gigante",
+    "ru": "Попрыгунья",
+    "th": "Whopperflower",
+    "vi": "Hoa Lừa Dối"
+  },
+  "description": {
+    "_code": "1140585421",
+    "zh": "神出鬼没的拟态植物魔物，会利用冰元素战斗。\\n有时会隐藏在地表下，捕猎浑然不觉的猎物。如果有足够的年月、养分与环境，或许能扎根某处，长成巨大的急冻树…",
+    "de": "Eine nachahmende Pflanze, die plötzlich auftaucht und verschwindet und die Kryo-Kraft im Kampf anwenden kann.\\nManchmal verstecken sie sich unter der Erdoberfläche und schnappen so ihre Beute. Mit genügend Zeit, Nahrung und geeigneter Umgebung können sie zu gewaltigen Fluxeisbäumen anwachsen.",
+    "en": "A mimetic plant monster that appears out of nowhere and uses Cryo in combat.\\nThese plants lurk under the surface and ambush unsuspecting prey. With the passage of years, sufficient nutrition, and the right environment, it could even take root somewhere and grow into a giant Cryo Regisvine...",
+    "es": "Una planta-monstruo mimética que puede aparecer de la nada y usar el elemento Cryo en combate.\\nEstas plantas acechan en el subsuelo y tienden emboscadas a sus presas cuando las atrapan desprevenidas. Con el paso del tiempo, suficientes nutrientes y un entorno adecuado, podrían echar raíces y convertirse en un Regisvid Cryo gigante.",
+    "fr": "Un monstre végétal mimétique qui apparaît de nulle part et utilise l'élément Cryo au combat.\\nCes plantes se cachent sous la surface et embusquent les proies sans méfiance. Avec le temps, une nutrition suffisante et le bon environnement, elles peuvent prendre racine et se transformer en Arbre congelé géant...",
+    "id": "Monster tanaman yang dapat tiba-tiba muncul dan menggunakan kamuflase, dapat menggunakan elemen Cryo saat melawan musuhnya.\\nTanaman ini bisa bersembunyi di permukaan tanah dan menyerang mangsa yang tidak menyadari keberadaannya. Bila tanaman ini dapat hidup cukup lama, mendapatkan nutrisi yang cukup dan lingkungan yang tepat, mungkin tanaman ini bisa tumbuh menjadi sebuah Cryo Regisvine raksasa.",
+    "ja": "神出鬼没な擬態植物の魔物。氷元素を利用して戦う。\\n土の中に隠れて獲物を獲る習性がある。時間と養分さえ足りれば、巨大な急凍樹になる可能性もある…",
+    "ko": "신출귀몰하는 식물 형태의 마물. 얼음 원소를 이용해 전투한다.\\n땅속에 모습을 숨기다가 아무것도 모르는 사냥감을 덮친다. 만약 충분한 세월, 양분, 환경이 충족된다면 어딘가에 뿌리를 내리고 얼음 나무로 자랄 수 있을지도 모른다…",
+    "pt": "Um monstro planta mimético que aparece do nada e usa Cryo em combate.\\nEssas plantas se escondem sob a superfície e emboscam presas desavisadas. Com o passar dos anos, nutrição suficiente e o ambiente certo, ele poderia até mesmo criar raízes em algum lugar e se transformar em um gigante Regisvine Cryo...",
+    "ru": "Миметическое растение-монстр, которое появляется из ниоткуда и использует элемент Крио в бою.\\nЭти растения прячутся под поверхностью земли и устраивают засаду на ничего не подозревающую добычу. По прошествии лет, при достаточном питании и благоприятной окружающей среде, они могут пустить корни и превратиться в гигантский Крио папоротник...",
+    "th": "มอนสเตอร์รูปแบบพืชที่มักจะโผล่ออกมาและหายตัวไปอย่างรวดเร็ว ซึ่งใช้ธาตุน้ำแข็งในการต่อสู้\\nบางครั้งก็จะหลบซ่อนอยู่ใต้ผืนดิน และคอยซุ่มโจมตีเหยื่อ ภายใต้การเจริญเติบโตที่ยาวนาน, การได้รับสารอาหารที่ครบถ้วน และสภาพแวดล้อมที่พอเหมาะแล้ว บางครั้งก็จะสามารถแทงรากไปยังที่ไหนซักแห่ง และเติบโตกลายเป็น Cryo Regisvine ขนาดยักษ์ได้...",
+    "vi": "Ma vật giống với thực vật, xuất quỷ nhập thần, dùng nguyên tố Băng để chiến đấu.\\nCó lúc sẽ ẩn dưới mặt đất, bắt những con thú ngơ ngác. Nếu đủ tuổi, dinh dưỡng và điều kiện, chúng sẽ cắm rễ ở nơi nào đó, lớn thành Cây Cấp Đông..."
+  },
+  "tags": ["character-weapon-material"],
+  "enabled": true,
+  "cluster": "on",
+  "respawn": 86400,
+  "icons": {
+    "filter": "cryo-whopperflower",
+    "base": {
+      "marker": true
+    },
+    "done": {
+      "marker": true
+    }
+  },
+  "data": [
+    {
+      "coordinates": [-33.33253, 38.65731],
+      "id": "52A68C4037814D4974E663CF4B77A548E07F287A",
+      "importIds": {
+        "yuanshen": ["35_23"]
+      },
+      "popupAttribution": "Yuanshen.site"
+    },
+    {
+      "coordinates": [-27.94726, 42.3873],
+      "id": "6FD8C6D3D0DDB595619D3E93917AEB49D3505FAA",
+      "importIds": {
+        "yuanshen": ["35_24"]
+      },
+      "popupAttribution": "Yuanshen.site"
+    },
+    {
+      "coordinates": [-33.05096, 40.82101],
+      "id": "51C0338D9DEC66DB75FDF3FD2AAC710BA27EC0C3",
+      "importIds": {
+        "yuanshen": ["35_25"]
+      },
+      "popupAttribution": "Yuanshen.site"
+    },
+    {
+      "coordinates": [-35.98672, 41.89738],
+      "id": "FCB9347A3988C832DEF0E1E628DFB724651A7721",
+      "importIds": {
+        "yuanshen": ["35_26"]
+      },
+      "popupAttribution": "Yuanshen.site"
+    },
+    {
+      "coordinates": [-36.00886, 41.87915],
+      "id": "5A52A4E3B21AA6330C5DF1B5686BB6BE69F20D1D",
+      "importIds": {
+        "yuanshen": ["35_27"]
+      },
+      "popupAttribution": "Yuanshen.site"
+    },
+    {
+      "coordinates": [-35.98281, 41.85311],
+      "id": "92F98DF82B87ADB99DB25ED7516B0865C3462B01",
+      "importIds": {
+        "yuanshen": ["35_28"]
+      },
+      "popupAttribution": "Yuanshen.site"
+    },
+    {
+      "coordinates": [-32.43117, 37.89397],
+      "id": "559B285CCB8746DD76A13A5138F9467B3F6F9FAE",
+      "importIds": {
+        "yuanshen": ["35_29"]
+      },
+      "popupAttribution": "Yuanshen.site"
+    },
+    {
+      "coordinates": [-32.42291, 37.92995],
+      "id": "AA4AF6C9619BC567333E3141158DD3984B635689",
+      "importIds": {
+        "yuanshen": ["35_30"]
+      },
+      "popupAttribution": "Yuanshen.site"
+    },
+    {
+      "coordinates": [-32.42124, 36.99412],
+      "id": "8AF1C20F1722C241FAAFB13178F711AB212CB213",
+      "importIds": {
+        "yuanshen": ["35_31"]
+      },
+      "popupAttribution": "Yuanshen.site"
+    },
+    {
+      "coordinates": [-28.79966, 41.81219],
+      "id": "6A48681EAE0FB33F1B7DC6AC0EBCF34796706A19",
+      "importIds": {
+        "yuanshen": ["35_32"]
+      },
+      "popupAttribution": "Yuanshen.site"
+    },
+    {
+      "coordinates": [-29.28386, 44.23003],
+      "id": "E362315980DD97706F249466E65B48C9BC16E88C",
+      "importIds": {
+        "yuanshen": ["35_33"]
+      },
+      "popupAttribution": "Yuanshen.site"
+    },
+    {
+      "coordinates": [-27.9042, 41.62708],
+      "id": "9B545C401A59782232A949C2358BE4E10BF294D4",
+      "importIds": {
+        "yuanshen": ["35_34"]
+      },
+      "popupAttribution": "Yuanshen.site"
+    },
+    {
+      "coordinates": [-27.92682, 41.60703],
+      "id": "0EBF641CD078793A4EF5AEE3BB3426A21F3362E8",
+      "importIds": {
+        "yuanshen": ["35_35"]
+      },
+      "popupAttribution": "Yuanshen.site"
+    },
+    {
+      "coordinates": [-30.71422, 39.61788],
+      "id": "0E450057C82BB29B887B314F865716B43B042802",
+      "importIds": {
+        "yuanshen": ["35_37"]
+      },
+      "popupAttribution": "Yuanshen.site"
+    },
+    {
+      "coordinates": [-30.21198, 43.33951],
+      "id": "B6273AE95136F5F06B51600CB5129C51ECE3521C",
+      "importIds": {
+        "yuanshen": ["35_38"]
+      },
+      "popupAttribution": "Yuanshen.site"
+    },
+    {
+      "coordinates": [-27.20156, 39.89869],
+      "id": "AAC734B78943FF89DDF391660077CDC8A261CF70",
+      "importIds": {
+        "yuanshen": ["35_39"]
+      },
+      "popupAttribution": "Yuanshen.site"
+    }
+  ]
+}

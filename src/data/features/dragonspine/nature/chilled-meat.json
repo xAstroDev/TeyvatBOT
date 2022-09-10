@@ -1,0 +1,172 @@
+{
+  "format": 2,
+  "name": {
+    "_code": "2121103228",
+    "zh": "「冷鲜肉」",
+    "de": "„Kaltes Gourmetfleisch“",
+    "en": "Chilled Meat",
+    "es": "Carne congelada",
+    "fr": "Viande congelée",
+    "id": "Chilled Meat",
+    "ja": "「冷製鮮肉」",
+    "ko": "「냉동 생고기」",
+    "pt": "Carne Fresca Fria",
+    "ru": "Цельномороженое мясо",
+    "th": "\"Chilled Meat\"",
+    "vi": "Thịt Tươi Lạnh"
+  },
+  "description": {
+    "_code": "1162855413",
+    "zh": "稀有的鲜美肉类。\\n据记载在数百年前已经灭绝的走豕品种，因为龙脊雪山的极端天候而被保存了下来。对于提瓦特的老饕们而言，是福音般神圣的极佳食材。",
+    "de": "Ein sehr seltenes, delikates Fleisch.\\nEs kommt von einer Spezies, die angeblich bereits seit Hunderten von Jahren ausgestorben ist und hat sich dank des extrem kalten Wetters auf dem Drachengrat so gut erhalten. Für viele Feinschmecker aus allen Teilen Teyvats ist dieses Fleisch der Heilige Gral unter den Fleischsorten.",
+    "en": "Rare, fresh meat.\\nThis species of boar is recorded to have gone extinct several hundred years ago and has been preserved by the extreme temperatures on Dragonspine. For the gourmets of Teyvat, this is an ingredient of unspeakable sacrosanctness.",
+    "es": "Un tipo de carne fresca muy poco común.\\nSegún los registros escritos, proviene de una especie ya extinta parecida al jabalí. Su carne ha podido conservarse hasta la actualidad gracias al clima extremo de Espinadragón. Es considerado un ingrediente prácticamente celestial por los amantes de la gastronomía de Teyvat.",
+    "fr": "Morceau de viande aussi rare que délicieux.\\nD'après les annales, cette viande provient d'un type de sanglier disparu depuis plusieurs siècles ; les conditions climatiques extrêmes des Monts Dosdragon ont permis sa conservation. Aux yeux des amateurs de bonne chère de Mondstadt, il s'agit pour ainsi dire d'un mets sans égal.",
+    "id": "Jenis daging yang lezat dan langka.\\nBerdasarkan catatan yang ada, daging ini berasal dari boar yang sudah punah ratusan tahun lalu dan terawetkan oleh cuaca yang sangat dingin di Dragonspine. Bagi para penikmat makanan di Teyvat, daging ini adalah makanan yang sangat dipuja-puja.",
+    "ja": "珍しい鮮肉類。\\n数百年前に絶滅した品種で、ドラゴンスパインの気候により保存された。テイワットの美食家にとって、信仰の対象に等しい極上の食材。",
+    "ko": "희귀하고 신선한 육류.\\n기록에 의하면 수백 년 전에 이미 멸종된 멧돼지 품종이라고 하지만 드래곤 스파인의 극단적인 기후 덕분에 지금까지 보존됐다고 한다. 티바트의 미식가들에게 아주 신성한 최고의 식자재다",
+    "pt": "Um tipo de carne fresca deliciosa incomum.\\nEssa espécie de javali foi extinta há muito tempo e foi preservada pela temperaturas extremas da Espinha do Dragão. Para os amantes da gastronomia de Teyvat, isso é considerado um ingrediente sagrado.",
+    "ru": "Очень редкое и невероятно вкусное мясо кабана, которого хроники объявили вымершим ещё сотни лет назад. Мясо сохранилось благодаря суровому климату Драконьего хребта, и чревоугодники Тейвата поклоняются ему, словно божеству.",
+    "th": "เนื้อที่หายากและอร่อย \\nหมูป่าสายพันธุ์นี้ได้รับการบันทึกว่าสูญพันธุ์ไปเมื่อหลายร้อยปีก่อน แต่ได้รับการรักษาไว้โดยอุณหภูมิที่เย็นจัดบนเทือกเขา Dragonspine สำหรับนักชิมของ Teyvat แล้ว นี่คือวัตถุดิบอันศักดิ์สิทธิ์ที่ไม่อาจบรรยายได้",
+    "vi": "Loại thịt tươi ngon hiếm có.\\nTheo ghi chép, đây là giống lợn tuyệt chủng mấy trăm năm trước được bảo tồn nhờ thời tiết khắc nghiệt ở Long Tích Tuyết Sơn. Đối với những người sành ăn ở Teyvat, nó là một món ăn thần thánh tuyệt vời."
+  },
+  "tags": ["cooking-ingredient"],
+  "enabled": true,
+  "cluster": "on",
+  "respawn": "none",
+  "icons": {
+    "filter": "chilled-meat",
+    "base": {
+      "marker": true
+    },
+    "done": {
+      "marker": true
+    }
+  },
+  "data": [
+    {
+      "coordinates": [-35.58697, 44.28802],
+      "id": "124BEB679738FD40A53D9F2C6FBAFF4076EBA9E4",
+      "importIds": {
+        "yuanshen": ["112_1"]
+      },
+      "popupAttribution": "Yuanshen.site"
+    },
+    {
+      "coordinates": [-34.81485, 44.70728],
+      "id": "05BE00ECCBB96CC3DE1643BA8E4691005B4D7A93",
+      "importIds": {
+        "yuanshen": ["112_2"]
+      },
+      "popupAttribution": "Yuanshen.site"
+    },
+    {
+      "coordinates": [-35.54309, 44.30588],
+      "id": "2AA5D3ECC6966D92C0472A5CCBB80D3C98C57403",
+      "importIds": {
+        "yuanshen": ["112_3"]
+      },
+      "popupAttribution": "Yuanshen.site"
+    },
+    {
+      "coordinates": [-33.59219, 45.0862],
+      "id": "55D5D11C6EC152D8AB02178C58A4E0F8AB7CB26C",
+      "importIds": {
+        "yuanshen": ["112_4"]
+      },
+      "popupAttribution": "Yuanshen.site"
+    },
+    {
+      "coordinates": [-34.0551, 45.18435],
+      "id": "C22C5B5B992BDC538AD7CE8C389BB8CD56B2E814",
+      "importIds": {
+        "yuanshen": ["112_5"]
+      },
+      "popupAttribution": "Yuanshen.site"
+    },
+    {
+      "coordinates": [-31.58177, 43.94948],
+      "id": "82ED9C459D2AE7A15E212CE0900CE990CCC4CC5E",
+      "importIds": {
+        "yuanshen": ["112_8"]
+      },
+      "popupAttribution": "Yuanshen.site"
+    },
+    {
+      "coordinates": [-32.07135, 43.9026],
+      "id": "291DAE70A47635F3E3E47C71650BF572916E0155",
+      "importIds": {
+        "yuanshen": ["112_9"]
+      },
+      "popupContent": {
+        "en": "Three lullabies in an ancient tongue, for the court of the Snowboar King.",
+        "zh": "击杀冻住的野猪可获得2块冷鲜肉"
+      },
+      "popupAttribution": "Yuanshen.site"
+    },
+    {
+      "coordinates": [-32.1625, 43.85703],
+      "id": "B90FCAD93B95956A3D8A099DE88D1404765A715B",
+      "importIds": {
+        "yuanshen": ["112_10"]
+      },
+      "popupContent": {
+        "en": "Three lullabies in an ancient tongue, for the court of the Snowboar King.",
+        "zh": "击杀冻住的野猪可获得2块冷鲜肉"
+      },
+      "popupAttribution": "Yuanshen.site"
+    },
+    {
+      "coordinates": [-32.29269, 43.90521],
+      "id": "2DB5F0F47AAD12453B670DD2822641F9E6A15149",
+      "importIds": {
+        "yuanshen": ["112_11"]
+      },
+      "popupContent": {
+        "en": "Three lullabies in an ancient tongue, for the court of the Snowboar King.",
+        "zh": "击杀冻住的野猪可获得2块冷鲜肉"
+      },
+      "popupAttribution": "Yuanshen.site"
+    },
+    {
+      "coordinates": [-32.96587, 45.10705],
+      "id": "4AF3A940E5DF99737E2B774074909F8DB76E46E6",
+      "importIds": {
+        "yuanshen": ["112_12"]
+      },
+      "popupAttribution": "Yuanshen.site"
+    },
+    {
+      "coordinates": [-32.98021, 45.1526],
+      "id": "4519A30EACD152A5AD311A760C9ACF8499228A2C",
+      "importIds": {
+        "yuanshen": ["112_13"]
+      },
+      "popupAttribution": "Yuanshen.site"
+    },
+    {
+      "coordinates": [-35.58114, 42.62056],
+      "id": "57FC1264922199A9595DF49C1540B188CA8A8FFF",
+      "importIds": {
+        "yuanshen": ["112_14"]
+      },
+      "popupAttribution": "Yuanshen.site"
+    },
+    {
+      "coordinates": [-34.97052, 42.9031],
+      "id": "EE18357AD1F6C06BA8DC6A20E4B3B04FD6F9831D",
+      "importIds": {
+        "yuanshen": ["112_15"]
+      },
+      "popupAttribution": "Yuanshen.site"
+    },
+    {
+      "coordinates": [-31.74035, 39.27503],
+      "id": "C9F310C9B54476B9513C476652363EA78A224752",
+      "importIds": {
+        "yuanshen": ["112_16"]
+      },
+      "popupAttribution": "Yuanshen.site"
+    }
+  ]
+}

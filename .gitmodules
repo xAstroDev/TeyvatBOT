@@ -1,0 +1,21 @@
+[submodule "packages/react-leaflet"]
+	path = packages/react-leaflet
+	url = https://github.com/MasterEric/react-leaflet/
+[submodule "packages/leaflet.markercluster"]
+	path = packages/leaflet.markercluster
+	url = https://github.com/MasterEric/leaflet.markercluster/
+[submodule "packages/leaflet.textpath"]
+	path = packages/leaflet.textpath
+	url = https://github.com/MasterEric/Leaflet.TextPath
+[submodule "packages/leaflet"]
+	path = packages/leaflet
+	url = https://github.com/MasterEric/Leaflet
+[submodule "packages/react-leaflet-textpath"]
+	path = packages/react-leaflet-textpath
+	url = https://github.com/mastereric/react-leaflet-textpath
+[submodule "scripts/DimbreathData"]
+	path = scripts/DimbreathData
+	url = https://github.com/Dimbreath/GenshinData
+[submodule "packages/Leaflet.Editable"]
+	path = packages/Leaflet.Editable
+	url = https://github.com/MasterEric/Leaflet.Editable

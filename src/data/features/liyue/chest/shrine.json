@@ -1,0 +1,151 @@
+{
+  "format": 2,
+  "name": {
+    "_code": "556053919",
+    "zh": "地灵龛",
+    "de": "Schreine der Tiefe",
+    "en": "Shrines of Depths",
+    "es": "Santuario de las Profundidades",
+    "fr": "Sanctuaire des profondeurs",
+    "id": "Shrine of Depths",
+    "ja": "地霊壇",
+    "ko": "지령 감실",
+    "pt": "Santuário das Profundezas",
+    "ru": "Усыпальницы глубин",
+    "th": "วิหารแห่งห้วงลึก",
+    "vi": "Hòm Địa Linh"
+  },
+  "description": {
+    "_code": "3735470486",
+    "zh": "矗立在大地上的远古神龛，其中封印着珍贵的贡礼。\\n据说，在秘境中，可以取得开启地灵龛的钥匙。",
+    "de": "Im Innern dieser antiken Schreine, die überall im Land stehen, sind kostbare Schätze verborgen.\\nAnbeglich sollen die Schlüssel zu Schreinen der Tiefe in Sphären zu finden sein.",
+    "en": "Precious offerings are sealed within these ancient shrines erected on Teyvat's surface. Keys to the Shrines of Depths can be found in some Domains.",
+    "es": "Valiosas ofrendas están resguardadas dentro de estos antiguos santuarios erigidos en la superficie de Teyvat.\\nPuedes encontrar las llaves de los Santuarios de las Profundidades en algunos Dominios.",
+    "fr": "De précieuses offrandes sont scellées à l'intérieur de certains sanctuaires à travers Teyvat.\\nLes clés pour les ouvrir peuvent être obtenues dans certains donjons.",
+    "id": "Persembahan yang berharga disegel di dalam kuil-kuil kuno yang didirikan di permukaan Teyvat ini.\\nKonon, kunci untuk membuka Shrines of Depths dapat ditemukan di beberapa Domain.",
+    "ja": "大地にそびえ立つ上古の地霊壇。中には貴重な貢ぎ物が封印されている。\\n噂によると、秘境の中で、地霊壇を開けるための鍵が獲得できるらしい。",
+    "ko": "대지에 우뚝 솟아 있는 오래된 감실엔 진귀한 공물이 봉인돼있습니다.\\n비경에서 지령 감실의 열쇠를 획득할 수 있다고 합니다",
+    "pt": "Ofertas preciosas são seladas dentro desses antigos santuários erguidos na superfície de Teyvat.\\nAs chaves dos Santuários das Profundezas podem ser encontradas em alguns Domínios.",
+    "ru": "Драгоценные подношения запечатаны внутри этих древних святынь, возведённых по всему Тейвату. Ключи к Усыпальницам глубин можно найти в некоторых подземельях.",
+    "th": "ศาลเจ้าโบราณที่ตั้งตระหง่านอยู่บนผืนโลก ได้ผนึกบรรณาการอันล้ำค่าไว้ข้างใน\\nกล่าวกันว่า สามารถพบกุญแจที่ใช้คลายผนึกได้ในดันเจี้ยน",
+    "vi": "Ngôi miếu cổ đứng sừng sững trên mặt đất với những đồ tiến cống quý giá được phong ấn bên trong.\\nNghe nói, trong Bí Cảnh có thể lấy được chìa khoá để mở Hòm Địa Linh."
+  },
+  "enabled": true,
+  "cluster": "on",
+  "respawn": "none",
+  "icons": {
+    "filter": "liyue-shrine",
+    "base": {
+      "marker": true
+    },
+    "done": {
+      "marker": true
+    }
+  },
+  "data": [
+    {
+      "coordinates": [-26.7875, 31.29844],
+      "id": "5070284612C7461E12C3E90F662537A159792D30",
+      "importIds": {
+        "gm_legacy": ["liyueShrine/1"],
+        "yuanshen": ["3_1"]
+      },
+      "popupAttribution": "Yuanshen.site",
+      "popupMedia": "liyue/shrine/3_1"
+    },
+    {
+      "coordinates": [-25.46719, 26.65],
+      "id": "330203108B5BDA4788091B0DB306DFE359887BA1",
+      "importIds": {
+        "gm_legacy": ["liyueShrine/2"],
+        "yuanshen": ["3_2"]
+      },
+      "popupAttribution": "Yuanshen.site",
+      "popupMedia": "liyue/shrine/3_2"
+    },
+    {
+      "coordinates": [-32.1625, 35.34531],
+      "id": "AB05F619EE3BEDFA68EFB71CEB2F776D06FE1848",
+      "importIds": {
+        "gm_legacy": ["liyueShrine/3"],
+        "yuanshen": ["3_3"]
+      },
+      "popupAttribution": "Yuanshen.site",
+      "popupMedia": "liyue/shrine/3_3"
+    },
+    {
+      "coordinates": [-27.63125, 18.53281],
+      "id": "4EE200B925C0B7318A3B0095374603B0386D9C6F",
+      "importIds": {
+        "gm_legacy": ["liyueShrine/4"],
+        "yuanshen": ["3_4"]
+      },
+      "popupAttribution": "Yuanshen.site",
+      "popupMedia": "liyue/shrine/3_4"
+    },
+    {
+      "coordinates": [-30.10781, 18.53281],
+      "id": "C4FB8336D0255C02D22054EB016E942FA3332017",
+      "importIds": {
+        "gm_legacy": ["liyueShrine/5"],
+        "yuanshen": ["3_5"]
+      },
+      "popupAttribution": "Yuanshen.site",
+      "popupMedia": "liyue/shrine/3_5"
+    },
+    {
+      "coordinates": [-31.82656, 17.48594],
+      "id": "50F234EDBA97691E9C6C476656BBE9DD62CCEB1B",
+      "importIds": {
+        "gm_legacy": ["liyueShrine/6"],
+        "yuanshen": ["3_6"]
+      },
+      "popupAttribution": "Yuanshen.site",
+      "popupMedia": "liyue/shrine/3_6"
+    },
+    {
+      "coordinates": [-38.0375, 15.75156],
+      "id": "00079874501427932744C4010E9107CDF79FC8ED",
+      "importIds": {
+        "gm_legacy": ["liyueShrine/7"],
+        "yuanshen": ["3_7"]
+      },
+      "popupAttribution": "Yuanshen.site",
+      "popupMedia": "liyue/shrine/3_7"
+    },
+    {
+      "coordinates": [-43.27188, 20.87656],
+      "id": "6AA9876C0FA7180310A0DD567740D346D3A00D6B",
+      "importIds": {
+        "gm_legacy": ["liyueShrine/8"],
+        "yuanshen": ["3_8"]
+      },
+      "popupAttribution": "Yuanshen.site",
+      "popupMedia": "liyue/shrine/3_8"
+    },
+    {
+      "coordinates": [-49.4125, 22.79844],
+      "id": "A64337A7F365CE9C230B169A1004018D4B3BF527",
+      "importIds": {
+        "gm_legacy": ["liyueShrine/9"],
+        "yuanshen": ["3_9"]
+      },
+      "popupContent": {
+        "en": "The Shrine of Depths is by a pond in an underground cave.",
+        "zh": "这是一个地灵龛，从下边水流进入洞穴"
+      },
+      "popupAttribution": "Yuanshen.site",
+      "popupMedia": "liyue/shrine/3_9"
+    },
+    {
+      "coordinates": [-49.06875, 39.24375],
+      "id": "6424F2069707F4A559158EE5DB039B368D677018",
+      "importIds": {
+        "gm_legacy": ["liyueShrine/10"],
+        "yuanshen": ["3_10"]
+      },
+      "popupAttribution": "Yuanshen.site",
+      "popupMedia": "liyue/shrine/3_10"
+    }
+  ]
+}

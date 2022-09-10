@@ -1,0 +1,433 @@
+{
+  "format": 2,
+  "name": {
+    "_code": "3793925636",
+    "zh": "丘丘萨满",
+    "de": "Samachurl",
+    "en": "Samachurl",
+    "es": "Samachurl",
+    "fr": "Brutoshaman",
+    "id": "Samachurl",
+    "ja": "ヒルチャールシャーマン",
+    "ko": "츄츄 샤먼",
+    "pt": "Samachurl",
+    "ru": "Шамачурл",
+    "th": "Samachurl",
+    "vi": "Phù Thủy Hilichurl"
+  },
+  "description": {
+    "_code": "1539792548",
+    "zh": "嘟嘟囔囔的老年丘丘人，岩元素的倾听者。\\n在元素掌控方面颇富天资的丘丘人，其能力往往会在年老时达到顶峰。同千古的顽岩相比，即使最年老的丘丘人也不过孩童，但记忆与经验引导它们获得了操使岩石的权能。",
+    "de": "Ein runzliger, murmelnder Hilichurl, der auf die Geo-Kraft hört.\\nHilichurle, deren Gabe darin liegt, die Elemente zu steuern, erreichen ihren Zenit oft erst in den letzten Lebensjahren. Für die ewigen Berge sind diese alten Hilichurle nicht mehr als Kinder, doch in ihrem langen Leben haben sie gelernt, Fels und Stein zu beherrschen.",
+    "en": "A wizened, mumbling hilichurl, one that listens to the strength of Geo.\\nHilichurls especially gifted in commanding the elements who often reach the zenith of their skill in their twilight years. To the persevering mountains, these old hilichurls are but children, but their memories and experiences have guided them towards gaining power over rock and stone.",
+    "es": "Un Hilichurl anciano que utiliza el elemento Geo y siempre está mascullando entre dientes.\\nLa capacidad de los Hilichurls para controlar los elementos suele alcanzar su punto máximo en la vejez. Incluso los Hilichurls más viejos son solo infantes si comparan su edad con la de las rocas, pero los recuerdos y la experiencia les han permitido adquirir el poder de manipularlas.",
+    "fr": "Un vieux Brutocollinus marmonnant, sensible à la force de l'élément Géo.\\nLes Brutocollinus ayant une affinité particulière avec les éléments ont tendance à atteindre l'apogée de leurs capacités au crépuscule de leur vie. Au regard des montagnes éternelles, ces vieux Brutocollinus ne sont que des enfants, mais leurs souvenirs et leurs expériences les ont guidés sur la voie de la maîtrise de la roche.",
+    "id": "Hilichurl yang keriput dan sering komat-kamit, pendengar kekuatan Geo.\\nHilichurl yang sangat berbakat menguasai elemen ini sering kali akan mencapai puncak kesaktiannya kala memasuki usia senja. Dibandingkan dengan gunung batu yang kokoh, Hilichurl tua ini tak ubahnya seperti anak kecil saja. Namun, ingatan dan pengalaman mereka memampukannya untuk mendapatkan kekuatan dari gunung dan batu itu.",
+    "ja": "ブツブツとよく独り言を言う年老いたヒルチャール、岩元素の詠唱者。\\n元素コントロールに長けるヒルチャールは、年を取ると力がピークに達する傾向がある。千古の盤石と比較すると、最年長のヒルチャールでも子供でしかないが、記憶と経験が岩元素を操る力を導き出した。",
+    "ko": "구시렁대는 연로한 츄츄족. 바위 원소의 경청자다.\\n원소 통제에 타고난 재능이 있으며, 나이가 들수록 능력이 점점 강해진다. 가장 연로한 츄츄족도 천고의 바위에 비하면 하룻강아지지만 기억과 경험은 그들에게 암석을 조종하는 능력을 주었다",
+    "pt": "Um Hilichurl feiticeiro e murmurante, que ouve o poder do Geo.\\nHilichurls, que são especialmente dotados no comando dos elementos, muitas vezes alcançarão o ápice de sua habilidade em sua velhice. Para as montanhas perseverantes, estes velhos Hilichurls são apenas crianças, mas suas memórias e experiências os guiaram para ganhar poder sobre a rocha e a pedra.",
+    "ru": "Умудрённый опытом бормочущий хиличурл, познавший тайны Гео элемента.\\nХиличурлы, способные контролировать элементы, наиболее сильны на закате своих лет. В сравнении с тысячелетними горами эти старые хиличурлы всего лишь дети, но их опыт и воспоминания позволили им обуздать силу скал и камней.",
+    "th": "Hilichurl เฒ่าซึ่งมักจะพึมพำ ผู้รับฟังเสียงเรียกแห่งหินผา\\nHilichurl ผู้มีความสามารถในการควบคุมธาตุ ซึ่งความสามารถของพวกมันนั้น มีแนวโน้มที่จะขึ้นสู่จุดสูงสุดในวัยชรา เมื่อเทียบกันกับหินผาอันหนักแน่นและเก่าแก่แล้ว ถึงแม้จะเป็น Hilichurl ที่แก่เฒ่า ก็ยังเหมือนเป็นเพียงแค่เด็กอมมือเท่านั้น แต่ความทรงจำและประสบการณ์ก็ทำให้พวกมันได้รับพลังที่สามารถควบคุมหินได้",
+    "vi": "Hilichurl lải nhải liên hồi, người lắng nghe nguyên tố Nham.\\nHilichurl có tư chất về mặt khống chế nguyên tố, năng lực này thường đạt đỉnh điểm khi về già. So với nham thạch ngàn năm, cho dù là Hilichurl già nhất thì cũng là đứa trẻ mà thôi, nhưng ký ức và kinh nghiệm đã dẫn dắt chúng có được quyền năng điều khiển nham thạch."
+  },
+  "tags": ["character-weapon-material"],
+  "enabled": true,
+  "cluster": "on",
+  "respawn": 86400,
+  "icons": {
+    "filter": "samachurl",
+    "base": {
+      "marker": true
+    },
+    "done": {
+      "marker": true
+    }
+  },
+  "data": [
+    {
+      "coordinates": [-32.76292, 30.57499],
+      "id": "5D0E78EDD04A284BB21713B2FD2CF68095CA0E24",
+      "importIds": {
+        "gm_legacy": ["liyueSamachurl/1"],
+        "yuanshen": ["96_1"]
+      },
+      "popupAttribution": "MasterEric"
+    },
+    {
+      "coordinates": [-26.225, 20.28672],
+      "id": "FB4E2121B3C228D5AB5C9E227A551800B91A9E1F",
+      "importIds": {
+        "yuanshen": ["96_2"]
+      },
+      "popupAttribution": "Yuanshen.site"
+    },
+    {
+      "coordinates": [-30.41196, 20.77396],
+      "id": "D4058E10CC0B44A6766AB78C8F44AD81F635D3B2",
+      "importIds": {
+        "yuanshen": ["96_3"]
+      },
+      "popupAttribution": "Yuanshen.site"
+    },
+    {
+      "coordinates": [-29.53664, 22.34005],
+      "id": "638F6427043092B41710F2C8FCF528A60ADD5334",
+      "importIds": {
+        "yuanshen": ["96_4"]
+      },
+      "popupAttribution": "Yuanshen.site"
+    },
+    {
+      "coordinates": [-30.21281, 23.3014],
+      "id": "CA56F5664C2AFC0C885E23140BC6EE253868458B",
+      "importIds": {
+        "yuanshen": ["96_5"]
+      },
+      "popupAttribution": "Yuanshen.site"
+    },
+    {
+      "coordinates": [-26.0641, 27.24279],
+      "id": "E9AF23B14795408AEAAAC994AF487F873DE28AC9",
+      "importIds": {
+        "yuanshen": ["96_6"]
+      },
+      "popupAttribution": "Yuanshen.site"
+    },
+    {
+      "coordinates": [-26.11099, 26.1805],
+      "id": "7340E620F0A588F3CA86AED12B06DC091ED4D442",
+      "importIds": {
+        "yuanshen": ["96_7"]
+      },
+      "popupAttribution": "Yuanshen.site"
+    },
+    {
+      "coordinates": [-26.23717, 29.15366],
+      "id": "05EF6AE569153295EC04A26C5765A67932D697C0",
+      "importIds": {
+        "yuanshen": ["96_8"]
+      },
+      "popupAttribution": "Yuanshen.site"
+    },
+    {
+      "coordinates": [-26.09953, 32.33679],
+      "id": "46B787DD76DFC8B307B41230E380EFC8FD1EB6FD",
+      "importIds": {
+        "yuanshen": ["96_9"]
+      },
+      "popupAttribution": "Yuanshen.site"
+    },
+    {
+      "coordinates": [-26.10735, 32.02045],
+      "id": "9F7362937AF2EB4DAF26811B849FF7FFFCFD6683",
+      "importIds": {
+        "yuanshen": ["96_10"]
+      },
+      "popupAttribution": "Yuanshen.site"
+    },
+    {
+      "coordinates": [-26.19723, 31.92672],
+      "id": "480C75C925BA24DEF2443138CE5818867EA0A034",
+      "importIds": {
+        "yuanshen": ["96_11"]
+      },
+      "popupAttribution": "Yuanshen.site"
+    },
+    {
+      "coordinates": [-30.95547, 27.4306],
+      "id": "47B38FB9EBDA307C29A39DB071B1DAA50AD3A04C",
+      "importIds": {
+        "yuanshen": ["96_12"]
+      },
+      "popupAttribution": "Yuanshen.site"
+    },
+    {
+      "coordinates": [-30.47092, 28.57881],
+      "id": "47FA9F1AC2C81C3A7DE66A49410A930DBDF4D267",
+      "importIds": {
+        "yuanshen": ["96_13"]
+      },
+      "popupAttribution": "Yuanshen.site"
+    },
+    {
+      "coordinates": [-31.54547, 30.01613],
+      "id": "98933E8229E1E4D96C183508B0EC8F5B56357E1B",
+      "importIds": {
+        "yuanshen": ["96_14"]
+      },
+      "popupAttribution": "Yuanshen.site"
+    },
+    {
+      "coordinates": [-32.45156, 32.12658],
+      "id": "5A0D3F2297240B6347C9D8ED3EED96BB0FA57578",
+      "importIds": {
+        "yuanshen": ["96_15"]
+      },
+      "popupAttribution": "Yuanshen.site"
+    },
+    {
+      "coordinates": [-32.59528, 33.93071],
+      "id": "4F690B9F105DBA63AEFE48E1A807EEA0D97A0476",
+      "importIds": {
+        "yuanshen": ["96_16"]
+      },
+      "popupAttribution": "Yuanshen.site"
+    },
+    {
+      "coordinates": [-35.66584, 34.54783],
+      "id": "31234FB4D0904127539D59916F2DE62873917B9D",
+      "importIds": {
+        "yuanshen": ["96_17"]
+      },
+      "popupAttribution": "Yuanshen.site"
+    },
+    {
+      "coordinates": [-35.40407, 36.86398],
+      "id": "6202D307D0FCE9E97AB7BD7F1C33BF1E52ECCC53",
+      "importIds": {
+        "yuanshen": ["96_18"]
+      },
+      "popupAttribution": "Yuanshen.site"
+    },
+    {
+      "coordinates": [-36.88115, 36.37579],
+      "id": "85EA28A1A12C9F8E6D57513A4C144EB705C29D6C",
+      "importIds": {
+        "yuanshen": ["96_19"]
+      },
+      "popupAttribution": "Yuanshen.site"
+    },
+    {
+      "coordinates": [-43.87706, 42.48921],
+      "id": "C7DA86DD5B58B78912887C6579969B227FC40D08",
+      "importIds": {
+        "yuanshen": ["96_20"]
+      },
+      "popupAttribution": "Yuanshen.site"
+    },
+    {
+      "coordinates": [-43.83798, 42.43453],
+      "id": "58689121068AA69207817FD587F54A287727024E",
+      "importIds": {
+        "yuanshen": ["96_21"]
+      },
+      "popupAttribution": "Yuanshen.site"
+    },
+    {
+      "coordinates": [-44.26357, 41.34121],
+      "id": "E78296BEDB5543A27D84688E8CA3ED46FBC79529",
+      "importIds": {
+        "yuanshen": ["96_22"]
+      },
+      "popupAttribution": "Yuanshen.site"
+    },
+    {
+      "coordinates": [-44.36929, 41.7315],
+      "id": "1CF908405079D9AE9EFF2B89D622684DF31709F1",
+      "importIds": {
+        "yuanshen": ["96_23"]
+      },
+      "popupAttribution": "Yuanshen.site"
+    },
+    {
+      "coordinates": [-35.95495, 27.16889],
+      "id": "4A7FAB497343ED19A697B2FEB05E845ABBF7AF87",
+      "importIds": {
+        "yuanshen": ["96_24"]
+      },
+      "popupAttribution": "Yuanshen.site"
+    },
+    {
+      "coordinates": [-35.75957, 28.55533],
+      "id": "8B6FBEDCA2CC83F740D601A3129D236500F7DA98",
+      "importIds": {
+        "yuanshen": ["96_25"]
+      },
+      "popupAttribution": "Yuanshen.site"
+    },
+    {
+      "coordinates": [-35.18499, 29.80165],
+      "id": "41BCEDDF513F49B72C25AEBCD12D8164BC5007CA",
+      "importIds": {
+        "yuanshen": ["96_26"]
+      },
+      "popupAttribution": "Yuanshen.site"
+    },
+    {
+      "coordinates": [-36.64648, 29.74302],
+      "id": "9E656C6060EFDA868AE9D67A36370D64A55CBB87",
+      "importIds": {
+        "yuanshen": ["96_27"]
+      },
+      "popupAttribution": "Yuanshen.site"
+    },
+    {
+      "coordinates": [-37.91195, 28.93467],
+      "id": "268827EE7E28E950EF6828829BDF81903851986D",
+      "importIds": {
+        "yuanshen": ["96_28"]
+      },
+      "popupAttribution": "Yuanshen.site"
+    },
+    {
+      "coordinates": [-37.72809, 27.32512],
+      "id": "BA917425F56D363AD83447C6C179450459A7A9E0",
+      "importIds": {
+        "yuanshen": ["96_29"]
+      },
+      "popupAttribution": "Yuanshen.site"
+    },
+    {
+      "coordinates": [-40.58337, 31.60605],
+      "id": "C05E1FC4378462DF3D532B0F2699A1083B9665F4",
+      "importIds": {
+        "yuanshen": ["96_30"]
+      },
+      "popupAttribution": "Yuanshen.site"
+    },
+    {
+      "coordinates": [-46.392, 26.10625],
+      "id": "D411824383CE3044B53BCE19C5F093FB79FEDF50",
+      "importIds": {
+        "yuanshen": ["96_31"]
+      },
+      "popupAttribution": "Yuanshen.site"
+    },
+    {
+      "coordinates": [-48.64592, 25.7782],
+      "id": "E21EFBBC4FB07FBC207EE8D467859D00A3414D64",
+      "importIds": {
+        "yuanshen": ["96_32"]
+      },
+      "popupAttribution": "Yuanshen.site"
+    },
+    {
+      "coordinates": [-48.9429, 26.37964],
+      "id": "BD965C306BB47A9A840711A4D693B17A3A393292",
+      "importIds": {
+        "yuanshen": ["96_33"]
+      },
+      "popupAttribution": "Yuanshen.site"
+    },
+    {
+      "coordinates": [-50.00175, 18.46967],
+      "id": "F276183C271B4D49F908EA6F1641C3921F4BE9A4",
+      "importIds": {
+        "yuanshen": ["96_34"]
+      },
+      "popupAttribution": "Yuanshen.site"
+    },
+    {
+      "coordinates": [-33.97181, 24.42669],
+      "id": "C8B95B4E268E12A941D96BA6106D104EB2603F05",
+      "importIds": {
+        "yuanshen": ["96_35"]
+      },
+      "popupAttribution": "Yuanshen.site"
+    },
+    {
+      "coordinates": [-38.97965, 25.67665],
+      "id": "086E46C7CCE8EC535D4E7A39C89AF8840E1D283D",
+      "importIds": {
+        "yuanshen": ["96_36"]
+      },
+      "popupAttribution": "Yuanshen.site"
+    },
+    {
+      "coordinates": [-38.69049, 26.31324],
+      "id": "14116A2F284327972171506DBA3595AB5A6F2BBD",
+      "importIds": {
+        "yuanshen": ["96_37"]
+      },
+      "popupAttribution": "Yuanshen.site"
+    },
+    {
+      "coordinates": [-39.33915, 23.12205],
+      "id": "BA8B44A35A8AF1395C63C0BC52A91599E6281654",
+      "importIds": {
+        "yuanshen": ["96_38"]
+      },
+      "popupAttribution": "Yuanshen.site"
+    },
+    {
+      "coordinates": [-39.81952, 22.32902],
+      "id": "CA3794A06349B0BFA5FDB75881E77E335C3D53C3",
+      "importIds": {
+        "yuanshen": ["96_39"]
+      },
+      "popupAttribution": "Yuanshen.site"
+    },
+    {
+      "coordinates": [-40.28421, 21.91108],
+      "id": "CCC441F2F8880929A6CB363FA39570F6BC5C988C",
+      "importIds": {
+        "yuanshen": ["96_40"]
+      },
+      "popupAttribution": "Yuanshen.site"
+    },
+    {
+      "coordinates": [-39.75295, 19.94223],
+      "id": "D41CD2FA468B6F8361A5D5BF630F76885B3A3C78",
+      "importIds": {
+        "yuanshen": ["96_41"]
+      },
+      "popupAttribution": "Yuanshen.site"
+    },
+    {
+      "coordinates": [-37.59607, 19.75865],
+      "id": "AB598FD41287C4075E97936F6C77EED44663218D",
+      "importIds": {
+        "yuanshen": ["96_42"]
+      },
+      "popupAttribution": "Yuanshen.site"
+    },
+    {
+      "coordinates": [-38.94834, 19.16889],
+      "id": "3A83CCAC6CD3A71AA24DFAEC5172FD757052F2A3",
+      "importIds": {
+        "yuanshen": ["96_43"]
+      },
+      "popupAttribution": "Yuanshen.site"
+    },
+    {
+      "coordinates": [-41.18663, 22.89152],
+      "id": "6A8BB9A99033A932A090917221B9193ECED3D620",
+      "importIds": {
+        "yuanshen": ["96_44"]
+      },
+      "popupAttribution": "Yuanshen.site"
+    },
+    {
+      "coordinates": [-38.79585, 16.20038],
+      "id": "B567B2AC31B233E97715E46C4134F51C09C2D3B2",
+      "importIds": {
+        "yuanshen": ["96_45"]
+      },
+      "popupAttribution": "Yuanshen.site"
+    },
+    {
+      "coordinates": [-36.88972, 15.64148],
+      "id": "3862CC42CA064E10B010D372549BBB655D2F69B6",
+      "importIds": {
+        "yuanshen": ["96_46"]
+      },
+      "popupAttribution": "Yuanshen.site"
+    },
+    {
+      "coordinates": [-32.62012, 19.17262],
+      "id": "573D14E9CCBB9221A7D92A9603AB391D762AF69C",
+      "importIds": {
+        "yuanshen": ["96_47"]
+      },
+      "popupAttribution": "Yuanshen.site"
+    },
+    {
+      "coordinates": [-34.11261, 19.4305],
+      "id": "A1CE7E963ABF5C1AA05C1A1A97BCB2BF8FD5A59F",
+      "importIds": {
+        "yuanshen": ["96_48"]
+      },
+      "popupAttribution": "Yuanshen.site"
+    }
+  ]
+}
