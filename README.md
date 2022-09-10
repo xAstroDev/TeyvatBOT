@@ -14,7 +14,7 @@
 <a href="https://github.com/xAstroDev/TeyvatBOT/blob/master/CHANGELOG.md">Changelog</a>
 
   <br/><br/>
-<a href="https://travis-ci.com/github/Teyvat-Moe/Teyvat.moe"><img src="https://api.travis-ci.com/Teyvat-Moe/Teyvat.moe.svg?branch=master" alt="TravisCI"/></a>
+![AppVeyor](https://img.shields.io/appveyor/build/xAstroDev/TeyvatBOT)
 <a href="https://beta.teyvat.moe"><img src="https://img.shields.io/netlify/e37c5eca-62e5-480d-922b-301ab8c4994a?label=beta%20build" alt="Netlify"/></a>
 <a href="https://github.com/Teyvat-Moe/Teyvat.moe/blob/master/LICENSE.md"><img src="https://img.shields.io/badge/license-GPLv3-green.svg" alt="Software License"/></a>
 <a href="https://discord.gg/"><img src="https://img.shields.io/discord/807068732567453726?label=discord&logo=discord&logoColor=738adb" alt="Discord Server"/></a>
