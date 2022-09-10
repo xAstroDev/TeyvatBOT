@@ -17,7 +17,7 @@
 <a href="https://travis-ci.com/github/Teyvat-Moe/Teyvat.moe"><img src="https://api.travis-ci.com/Teyvat-Moe/Teyvat.moe.svg?branch=master" alt="TravisCI"/></a>
 <a href="https://beta.teyvat.moe"><img src="https://img.shields.io/netlify/e37c5eca-62e5-480d-922b-301ab8c4994a?label=beta%20build" alt="Netlify"/></a>
 <a href="https://github.com/Teyvat-Moe/Teyvat.moe/blob/master/LICENSE.md"><img src="https://img.shields.io/badge/license-GPLv3-green.svg" alt="Software License"/></a>
-<a href="https://discord.gg/dF6VTFr9jK"><img src="https://img.shields.io/discord/807068732567453726?label=discord&logo=discord&logoColor=738adb" alt="Discord Server"/></a>
+<a href="https://discord.gg/"><img src="https://img.shields.io/discord/807068732567453726?label=discord&logo=discord&logoColor=738adb" alt="Discord Server"/></a>
 <a href="https://github.com/Teyvat-Moe/Teyvat.moe/wiki/Contributing"><img src="https://img.shields.io/badge/PRs-welcome-brightgreen.svg" alt="PRs Welcome"/></a>
   <br/><br/>
 <b><a href="https://poeditor.com/projects/view?id=394831">Translation</a></b>
