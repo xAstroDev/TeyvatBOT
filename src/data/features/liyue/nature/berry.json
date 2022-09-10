@@ -1,0 +1,170 @@
+{
+  "format": 2,
+  "description": {
+    "en": "Small brightly-colored fruit used in Recipes."
+  },
+  "enabled": true,
+  "cluster": "on",
+  "respawn": "none",
+  "name": {
+    "en": "Berry",
+    "pt": "Baga",
+    "zh": "树莓",
+    "ru": "Ягода"
+  },
+  "icons": {
+    "filter": "berry",
+    "base": {
+      "marker": true
+    },
+    "done": {
+      "marker": true
+    }
+  },
+  "data": [
+    {
+      "coordinates": [-44.37344, 37.79584],
+      "id": "774E40D7B32F1DF72FCF8F2ED7CC5FD9BD2C975F",
+      "importIds": {
+        "yuanshen": ["92_1"]
+      },
+      "popupAttribution": "Yuanshen.site"
+    },
+    {
+      "coordinates": [-46.16335, 39.83379],
+      "id": "1A4B142A49F927F255FE481C7636B223873831BA",
+      "importIds": {
+        "yuanshen": ["92_2"]
+      },
+      "popupAttribution": "Yuanshen.site"
+    },
+    {
+      "coordinates": [-35.70064, 30.55275],
+      "id": "FAAD6AC7F365A8919F861C6BF6CF66F8412090D8",
+      "importIds": {
+        "yuanshen": ["92_3"]
+      },
+      "popupAttribution": "Yuanshen.site"
+    },
+    {
+      "coordinates": [-25.28775, 28.25988],
+      "id": "1763440EEFC3FC93A02F89104725DA5AF1D8D9BA",
+      "importIds": {
+        "yuanshen": ["92_4"]
+      },
+      "popupAttribution": "Yuanshen.site"
+    },
+    {
+      "coordinates": [-27.81164, 25.08014],
+      "id": "D96763EF35E275F1A5CBBDC908B3C36D81E2A6F4",
+      "importIds": {
+        "yuanshen": ["92_5"]
+      },
+      "popupAttribution": "Yuanshen.site"
+    },
+    {
+      "coordinates": [-40.36087, 23.31842],
+      "id": "7F6A4A8A426FA9B1FBA7A11A3B77438FA349E571",
+      "importIds": {
+        "yuanshen": ["92_6"]
+      },
+      "popupAttribution": "Yuanshen.site"
+    },
+    {
+      "coordinates": [-35.64819, 29.99245],
+      "id": "E9DF269683808DFCB56633FFFF5FB0E6E4C7F8E6",
+      "importIds": {
+        "yuanshen": ["92_7"]
+      },
+      "popupAttribution": "Yuanshen.site"
+    },
+    {
+      "coordinates": [-47.25885, 24.09792],
+      "id": "F3E0930EBAE4A6E0E25AD8615740C8B21B4EFAE8",
+      "importIds": {
+        "yuanshen": ["92_8"]
+      },
+      "popupAttribution": "Yuanshen.site"
+    },
+    {
+      "coordinates": [-35.04011, 29.41562],
+      "id": "5E8A471FFED521C0972EE471D38C41BB16B0EF94",
+      "importIds": {
+        "yuanshen": ["92_9"]
+      },
+      "popupAttribution": "Yuanshen.site"
+    },
+    {
+      "coordinates": [-27.36433, 29.01068],
+      "id": "213DADF29D3BC6163B75E1D9D88BACA4D0AF38B1",
+      "importIds": {
+        "yuanshen": ["92_10"]
+      },
+      "popupAttribution": "Yuanshen.site"
+    },
+    {
+      "coordinates": [-25.26796, 24.2789],
+      "id": "34ADB953D43395D7E173F9C05D875376A9B02BDE",
+      "importIds": {
+        "yuanshen": ["92_11"]
+      },
+      "popupAttribution": "Yuanshen.site"
+    },
+    {
+      "coordinates": [-22.36433, 25.78672],
+      "id": "45A5B8F0B6EF54E123E6D74414DA422F07393C42",
+      "importIds": {
+        "yuanshen": ["92_12"]
+      },
+      "popupAttribution": "Yuanshen.site"
+    },
+    {
+      "coordinates": [-24.17927, 25.08269],
+      "id": "46758887758FE642E232D23028453F8304B295A7",
+      "importIds": {
+        "yuanshen": ["92_13"]
+      },
+      "popupAttribution": "Yuanshen.site"
+    },
+    {
+      "coordinates": [-24.4487, 25.14519],
+      "id": "7F26B2A52A687E9853B446F69DD9E990FA6D7C78",
+      "importIds": {
+        "yuanshen": ["92_14"]
+      },
+      "popupAttribution": "Yuanshen.site"
+    },
+    {
+      "coordinates": [-33.71588, 32.32188],
+      "id": "FEE2973D2A15242D3C2F75F415CD023A3315A1FC",
+      "importIds": {
+        "yuanshen": ["92_15"]
+      },
+      "popupAttribution": "Yuanshen.site"
+    },
+    {
+      "coordinates": [-40.49323, 22.48073],
+      "id": "360F1AE1C50B43CEF9BFA2B20A32A9466AD41013",
+      "importIds": {
+        "yuanshen": ["92_16"]
+      },
+      "popupAttribution": "Yuanshen.site"
+    },
+    {
+      "coordinates": [-35.02578, 34.28933],
+      "id": "0693ED71CECED374F7E95DC8A51DB5B1B35824D7",
+      "importIds": {
+        "yuanshen": ["92_17"]
+      },
+      "popupAttribution": "Yuanshen.site"
+    },
+    {
+      "coordinates": [-51.59479, 21.37656],
+      "id": "4F921E8305AE7EB08CD88C52F4B6B26214E45FA1",
+      "importIds": {
+        "yuanshen": ["92_18"]
+      },
+      "popupAttribution": "Yuanshen.site"
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "format": 2,
+  "description": {
+    "en": "A healthy and nutritious vegetable that is sweet to the taste. Used in various recipes."
+  },
+  "enabled": false,
+  "cluster": "on",
+  "respawn": "none",
+  "name": {
+    "en": "Carrot",
+    "ru": "Морковь",
+    "pt": "Cenoura"
+  },
+  "icons": {
+    "filter": "carrot",
+    "base": {
+      "marker": true
+    },
+    "done": {
+      "marker": true
+    }
+  },
+  "data": []
+}

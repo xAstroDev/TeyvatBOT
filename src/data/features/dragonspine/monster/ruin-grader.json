@@ -1,0 +1,32 @@
+{
+  "format": 2,
+  "name": {
+    "en": "Ruin Grader",
+    "zh": "遗迹重机"
+  },
+  "description": {
+    "en": "A giant alien war machine, said to be remnants from a lost ancient nation. Drops Chaos Device."
+  },
+  "enabled": true,
+  "cluster": "on",
+  "respawn": 86400,
+  "icons": {
+    "filter": "ruin-grader",
+    "base": {
+      "marker": true
+    },
+    "done": {
+      "marker": true
+    }
+  },
+  "data": [
+    {
+      "coordinates": [-37.24413, 44.64484],
+      "id": "0B0E1E54586589906221720F3FC2450634F6D68F",
+      "importIds": {
+        "yuanshen": ["29_7"]
+      },
+      "popupAttribution": "Yuanshen.site"
+    }
+  ]
+}

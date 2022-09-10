@@ -1,0 +1,33 @@
+{
+  "format": 2,
+  "name": {
+    "en": "Oceanid",
+    "pt": "Oceanid"
+  },
+  "description": {
+    "en": "A life-form created from condensed Hydro elements of incredible purity. Drops Hydro Character Level-Up Materials and Artifacts."
+  },
+  "enabled": true,
+  "cluster": "off",
+  "respawn": 180,
+  "icons": {
+    "filter": "oceanid",
+    "base": {
+      "marker": true
+    },
+    "done": {
+      "marker": true
+    }
+  },
+  "data": [
+    {
+      "coordinates": [-24.21838, 29.12398],
+      "id": "495085330633C3761B5DBFA4EE12569C61D344A2",
+      "importIds": {
+        "gm_msfv2": ["4EE619DAD4186B13A85CEB2A63424D28077B47D3"],
+        "gm_legacy": ["liyueOceanid/1"]
+      },
+      "popupAttribution": "MasterEric"
+    }
+  ]
+}
