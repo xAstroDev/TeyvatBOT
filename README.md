@@ -14,7 +14,8 @@
 <a href="https://github.com/xAstroDev/TeyvatBOT/blob/master/CHANGELOG.md">Changelog</a>
 <b>|</b>
   <br/><br/>
-
+## HELP IS NEEDED!
+Currently We Have Not Found A Way To Implement V3.0 Map If You Can Implement it Please Fork The Repo Then Emplement The Map To All Branches Then Open a Pull Request! Thanks For Your Support!
 ![GitHub branch checks state](https://img.shields.io/github/checks-status/xAstroDev/TeyvatBOT/master)
 <a href="https://xAstroDev.github.io/TeyvatBOT/"><img src="https://img.shields.io/badge/Build-Passing-brightgreen" alt="Build"/></a>
 <a href="https://github.com/Teyvat-Moe/Teyvat.moe/blob/master/LICENSE.md"><img src="https://img.shields.io/badge/license-GPLv3-green.svg" alt="Software License"/></a>
