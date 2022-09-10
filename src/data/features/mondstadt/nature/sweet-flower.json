@@ -1,0 +1,41 @@
+{
+  "name": { "en": "Sweet Flower" },
+  "cluster": false,
+  "icons": {
+    "filter": "sweet-flower",
+    "base": {
+      "marker": true
+    },
+    "done": {
+      "marker": true
+    }
+  },
+  "data": [
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-17.1500672698, 72.162994167]
+      },
+      "type": "Feature",
+      "properties": {
+        "popupTitle": { "en": "" },
+        "popupContent": { "en": "" },
+        "popupMedia": ""
+      },
+      "id": 1
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-17.0086039159, 72.2009170235]
+      },
+      "type": "Feature",
+      "properties": {
+        "popupTitle": { "en": "" },
+        "popupContent": { "en": "" },
+        "popupMedia": ""
+      },
+      "id": 2
+    }
+  ]
+}

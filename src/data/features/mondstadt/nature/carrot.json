@@ -1,0 +1,14 @@
+{
+  "name": { "en": "Carrot" },
+  "cluster": false,
+  "icons": {
+    "filter": "carrot",
+    "base": {
+      "marker": true
+    },
+    "done": {
+      "marker": true
+    }
+  },
+  "data": []
+}

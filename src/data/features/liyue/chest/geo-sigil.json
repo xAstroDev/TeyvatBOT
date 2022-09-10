@@ -1,0 +1,14 @@
+{
+  "name": { "en": "Geo Sigil" },
+  "cluster": true,
+  "icons": {
+    "filter": "geo-sigil",
+    "base": {
+      "marker": true
+    },
+    "done": {
+      "marker": true
+    }
+  },
+  "data": []
+}

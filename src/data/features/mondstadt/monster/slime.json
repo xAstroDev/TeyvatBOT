@@ -1,0 +1,16 @@
+{
+  "name": { "en": "Slime" },
+  "cluster": true,
+  "respawn": 86400,
+  "icons": {
+    "filter": "slime",
+    "base": {
+      "marker": true
+    },
+    "done": {
+      "marker": true,
+      "key": "slime"
+    }
+  },
+  "data": []
+}

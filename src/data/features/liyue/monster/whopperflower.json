@@ -1,0 +1,640 @@
+{
+  "name": { "en": "Whopperflower" },
+  "cluster": false,
+  "respawn": 86400,
+  "icons": {
+    "filter": "whopperflower",
+    "base": {
+      "marker": true
+    },
+    "done": {
+      "marker": true
+    }
+  },
+  "data": [
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-49.6071503611, 40.2868652343]
+      },
+      "type": "Feature",
+      "properties": {
+        "popupTitle": { "en": "" },
+        "popupContent": { "en": "" },
+        "popupMedia": ""
+      },
+      "id": 1
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-49.6711829815, 40.2813720703]
+      },
+      "type": "Feature",
+      "properties": {
+        "popupTitle": { "en": "" },
+        "popupContent": { "en": "" },
+        "popupMedia": ""
+      },
+      "id": 2
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-50.0147992347, 42.802734375]
+      },
+      "type": "Feature",
+      "properties": {
+        "popupTitle": { "en": "" },
+        "popupContent": { "en": "" },
+        "popupMedia": ""
+      },
+      "id": 3
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-54.4253219124, 36.3702392578]
+      },
+      "type": "Feature",
+      "properties": {
+        "popupTitle": { "en": "" },
+        "popupContent": { "en": "" },
+        "popupMedia": ""
+      },
+      "id": 4
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-54.4644089414, 36.4073027729]
+      },
+      "type": "Feature",
+      "properties": {
+        "popupTitle": { "en": "" },
+        "popupContent": { "en": "" },
+        "popupMedia": ""
+      },
+      "id": 5
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-56.4806953901, 31.9757080078]
+      },
+      "type": "Feature",
+      "properties": {
+        "popupTitle": { "en": "" },
+        "popupContent": { "en": "" },
+        "popupMedia": ""
+      },
+      "id": 6
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-51.2630458143, 33.898074974]
+      },
+      "type": "Feature",
+      "properties": {
+        "popupTitle": { "en": "" },
+        "popupContent": { "en": "" },
+        "popupMedia": ""
+      },
+      "id": 7
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-50.6320421888, 32.6239013671]
+      },
+      "type": "Feature",
+      "properties": {
+        "popupTitle": { "en": "" },
+        "popupContent": { "en": "" },
+        "popupMedia": ""
+      },
+      "id": 8
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-44.1773955233, 18.472738408]
+      },
+      "type": "Feature",
+      "properties": {
+        "popupTitle": { "en": "" },
+        "popupContent": { "en": "" },
+        "popupMedia": ""
+      },
+      "id": 9
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-55.7138313694, 25.7566879973]
+      },
+      "type": "Feature",
+      "properties": {
+        "popupTitle": { "en": "" },
+        "popupContent": { "en": "" },
+        "popupMedia": ""
+      },
+      "id": 10
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-49.0758756513, 28.4819282019]
+      },
+      "type": "Feature",
+      "properties": {
+        "popupTitle": { "en": "" },
+        "popupContent": { "en": "" },
+        "popupMedia": ""
+      },
+      "id": 11
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-49.491225922, 32.3593048515]
+      },
+      "type": "Feature",
+      "properties": {
+        "popupTitle": { "en": "" },
+        "popupContent": { "en": "" },
+        "popupMedia": ""
+      },
+      "id": 12
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-49.394825976, 32.1670819159]
+      },
+      "type": "Feature",
+      "properties": {
+        "popupTitle": { "en": "" },
+        "popupContent": { "en": "" },
+        "popupMedia": ""
+      },
+      "id": 13
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-49.6727978392, 30.931363044]
+      },
+      "type": "Feature",
+      "properties": {
+        "popupTitle": { "en": "" },
+        "popupContent": { "en": "" },
+        "popupMedia": ""
+      },
+      "id": 14
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-50.7445989019, 28.5423065585]
+      },
+      "type": "Feature",
+      "properties": {
+        "popupTitle": { "en": "" },
+        "popupContent": { "en": "" },
+        "popupMedia": ""
+      },
+      "id": 15
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-44.9975235306, 35.8046993638]
+      },
+      "type": "Feature",
+      "properties": {
+        "popupTitle": { "en": "" },
+        "popupContent": { "en": "" },
+        "popupMedia": ""
+      },
+      "id": 16
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-46.4813028471, 31.3209996268]
+      },
+      "type": "Feature",
+      "properties": {
+        "popupTitle": { "en": "" },
+        "popupContent": { "en": "" },
+        "popupMedia": ""
+      },
+      "id": 17
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-46.1359075393, 30.1785867705]
+      },
+      "type": "Feature",
+      "properties": {
+        "popupTitle": { "en": "" },
+        "popupContent": { "en": "" },
+        "popupMedia": ""
+      },
+      "id": 18
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-46.2043566791, 28.1520078207]
+      },
+      "type": "Feature",
+      "properties": {
+        "popupTitle": { "en": "" },
+        "popupContent": { "en": "" },
+        "popupMedia": ""
+      },
+      "id": 19
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-45.350309597, 24.3349598391]
+      },
+      "type": "Feature",
+      "properties": {
+        "popupTitle": { "en": "" },
+        "popupContent": { "en": "" },
+        "popupMedia": ""
+      },
+      "id": 20
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-46.0101808402, 22.7186377333]
+      },
+      "type": "Feature",
+      "properties": {
+        "popupTitle": { "en": "" },
+        "popupContent": { "en": "" },
+        "popupMedia": ""
+      },
+      "id": 21
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-44.7721664887, 21.9381785217]
+      },
+      "type": "Feature",
+      "properties": {
+        "popupTitle": { "en": "" },
+        "popupContent": { "en": "" },
+        "popupMedia": ""
+      },
+      "id": 22
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-42.7370208569, 21.6419613742]
+      },
+      "type": "Feature",
+      "properties": {
+        "popupTitle": { "en": "" },
+        "popupContent": { "en": "" },
+        "popupMedia": ""
+      },
+      "id": 23
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-41.4656200548, 23.2129814518]
+      },
+      "type": "Feature",
+      "properties": {
+        "popupTitle": { "en": "" },
+        "popupContent": { "en": "" },
+        "popupMedia": ""
+      },
+      "id": 24
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-40.8455419636, 24.536783222]
+      },
+      "type": "Feature",
+      "properties": {
+        "popupTitle": { "en": "" },
+        "popupContent": { "en": "" },
+        "popupMedia": ""
+      },
+      "id": 25
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-40.4758898618, 34.5954168934]
+      },
+      "type": "Feature",
+      "properties": {
+        "popupTitle": { "en": "" },
+        "popupContent": { "en": "" },
+        "popupMedia": ""
+      },
+      "id": 26
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-40.6469286703, 34.0846530931]
+      },
+      "type": "Feature",
+      "properties": {
+        "popupTitle": { "en": "" },
+        "popupContent": { "en": "" },
+        "popupMedia": ""
+      },
+      "id": 27
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-41.4380497594, 34.6558211746]
+      },
+      "type": "Feature",
+      "properties": {
+        "popupTitle": { "en": "" },
+        "popupContent": { "en": "" },
+        "popupMedia": ""
+      },
+      "id": 28
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-56.426877657, 29.4802160862]
+      },
+      "type": "Feature",
+      "properties": {
+        "popupTitle": { "en": "" },
+        "popupContent": { "en": "" },
+        "popupMedia": ""
+      },
+      "id": 29
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-49.9747302198, 45.8179651156]
+      },
+      "type": "Feature",
+      "properties": {
+        "popupTitle": { "en": "" },
+        "popupContent": { "en": "" },
+        "popupMedia": ""
+      },
+      "id": 30
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-47.3850041937, 48.9917868505]
+      },
+      "type": "Feature",
+      "properties": {
+        "popupTitle": { "en": "" },
+        "popupContent": { "en": "" },
+        "popupMedia": ""
+      },
+      "id": 31
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-45.1996119487, 47.8005036964]
+      },
+      "type": "Feature",
+      "properties": {
+        "popupTitle": { "en": "" },
+        "popupContent": { "en": "" },
+        "popupMedia": ""
+      },
+      "id": 32
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-35.657330535, 46.6040363118]
+      },
+      "type": "Feature",
+      "properties": {
+        "popupTitle": { "en": "" },
+        "popupContent": { "en": "" },
+        "popupMedia": ""
+      },
+      "id": 33
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-33.7179000044, 43.5840529369]
+      },
+      "type": "Feature",
+      "properties": {
+        "popupTitle": { "en": "" },
+        "popupContent": { "en": "" },
+        "popupMedia": ""
+      },
+      "id": 34
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-34.8883898546, 26.4975986699]
+      },
+      "type": "Feature",
+      "properties": {
+        "popupTitle": { "en": "" },
+        "popupContent": { "en": "" },
+        "popupMedia": ""
+      },
+      "id": 36
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-36.2949987578, 28.0467551902]
+      },
+      "type": "Feature",
+      "properties": {
+        "popupTitle": { "en": "" },
+        "popupContent": { "en": "" },
+        "popupMedia": ""
+      },
+      "id": 37
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-37.2017753783, 27.7722168879]
+      },
+      "type": "Feature",
+      "properties": {
+        "popupTitle": { "en": "" },
+        "popupContent": { "en": "" },
+        "popupMedia": ""
+      },
+      "id": 38
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-39.2388733001, 30.3541725065]
+      },
+      "type": "Feature",
+      "properties": {
+        "popupTitle": { "en": "" },
+        "popupContent": { "en": "" },
+        "popupMedia": ""
+      },
+      "id": 39
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-38.5675188386, 31.793163293]
+      },
+      "type": "Feature",
+      "properties": {
+        "popupTitle": { "en": "" },
+        "popupContent": { "en": "" },
+        "popupMedia": ""
+      },
+      "id": 40
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-48.0838749919, 44.0429958457]
+      },
+      "type": "Feature",
+      "properties": {
+        "popupTitle": { "en": "" },
+        "popupContent": { "en": "" },
+        "popupMedia": ""
+      },
+      "id": 41
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-32.7525918988, 44.8507178023]
+      },
+      "type": "Feature",
+      "properties": {
+        "popupTitle": { "en": "" },
+        "popupContent": { "en": "" },
+        "popupMedia": ""
+      },
+      "id": 42
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-35.3467051867, 38.07751257]
+      },
+      "type": "Feature",
+      "properties": {
+        "popupTitle": { "en": "" },
+        "popupContent": { "en": "" },
+        "popupMedia": ""
+      },
+      "id": 43
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-37.5071835539, 36.8581835347]
+      },
+      "type": "Feature",
+      "properties": {
+        "popupTitle": { "en": "" },
+        "popupContent": { "en": "" },
+        "popupMedia": ""
+      },
+      "id": 44
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-37.5071835539, 36.8581835347]
+      },
+      "type": "Feature",
+      "properties": {
+        "popupTitle": { "en": "" },
+        "popupContent": { "en": "" },
+        "popupMedia": ""
+      },
+      "id": 45
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-54.3368246566, -29.443359375]
+      },
+      "type": "Feature",
+      "properties": {
+        "popupTitle": { "en": "" },
+        "popupContent": { "en": "" },
+        "popupMedia": ""
+      },
+      "id": 46
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-54.9303109098, 55.6732318158]
+      },
+      "type": "Feature",
+      "properties": {
+        "popupTitle": { "en": "" },
+        "popupContent": { "en": "" },
+        "popupMedia": ""
+      },
+      "id": 47
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-54.0448115277, 59.3959476036]
+      },
+      "type": "Feature",
+      "properties": {
+        "popupTitle": { "en": "" },
+        "popupContent": { "en": "" },
+        "popupMedia": ""
+      },
+      "id": 48
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-37.5707052423, 29.7894287109]
+      },
+      "type": "Feature",
+      "properties": {
+        "popupTitle": { "en": "" },
+        "popupContent": { "en": "" },
+        "popupMedia": ""
+      },
+      "id": 49
+    }
+  ]
+}

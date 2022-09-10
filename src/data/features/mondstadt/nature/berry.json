@@ -1,0 +1,14 @@
+{
+  "name": { "en": "Berry" },
+  "cluster": false,
+  "icons": {
+    "filter": "berry",
+    "base": {
+      "marker": true
+    },
+    "done": {
+      "marker": true
+    }
+  },
+  "data": []
+}

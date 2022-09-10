@@ -1,0 +1,224 @@
+{
+  "name": {
+    "en": "Loach Pearl"
+  },
+  "cluster": true,
+  "respawn": 172800,
+  "icons": {
+    "filter": "loach-pearl",
+    "base": {
+      "marker": true,
+      "key": "loach-pearl"
+    },
+    "done": {
+      "marker": true,
+      "key": "loach-pearl"
+    }
+  },
+  "data": [
+    {
+      "id": 1,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-40.4385858670433, 41.84692382812501]
+      },
+      "type": "Feature",
+      "properties": {
+        "popupTitle": {
+          "en": "Dihua Marsh Island #1"
+        },
+        "popupContent": {
+          "en": "You can find a group of four Loaches on this island. They look like pink lizards and give Loach Pearls when you grab them."
+        },
+        "popupMedia": "liyue/loach-pearl/1"
+      }
+    },
+    {
+      "id": 2,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-40.46366632458767, 41.8194580078125]
+      },
+      "type": "Feature",
+      "properties": {
+        "popupTitle": {
+          "en": "Dihua Marsh Island #2"
+        },
+        "popupContent": {
+          "en": "You can find a group of four Loaches on this island. They look like pink lizards and give Loach Pearls when you grab them."
+        },
+        "popupMedia": "liyue/loach-pearl/1"
+      }
+    },
+    {
+      "id": 3,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-40.43440488077009, 41.90734863281251]
+      },
+      "type": "Feature",
+      "properties": {
+        "popupTitle": {
+          "en": "Dihua Marsh Island #3"
+        },
+        "popupContent": {
+          "en": "You can find a group of four Loaches on this island. They look like pink lizards and give Loach Pearls when you grab them."
+        },
+        "popupMedia": "liyue/loach-pearl/1"
+      }
+    },
+    {
+      "id": 4,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-40.45948689837196, 41.87438964843751]
+      },
+      "type": "Feature",
+      "properties": {
+        "popupTitle": {
+          "en": "Dihua Marsh Island #4"
+        },
+        "popupContent": {
+          "en": "You can find a group of four Loaches on this island. They look like pink lizards and give Loach Pearls when you grab them."
+        },
+        "popupMedia": "liyue/loach-pearl/1"
+      }
+    },
+    {
+      "id": 5,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-40.39676430557204, 42.04467773437501]
+      },
+      "type": "Feature",
+      "properties": {
+        "popupTitle": {
+          "en": "Dihua Marsh Island Camp"
+        },
+        "popupContent": {
+          "en": "You can find a Loach on this island in the middle of a group of Hillichurls."
+        },
+        "popupMedia": ""
+      }
+    },
+    {
+      "id": 6,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-40.68896903762434, 40.10559082031251]
+      },
+      "type": "Feature",
+      "properties": {
+        "popupTitle": {
+          "en": ""
+        },
+        "popupContent": {
+          "en": "A Golden Loach can be found here by the rock where the Hillichurl is training to shoot."
+        },
+        "popupMedia": ""
+      }
+    },
+    {
+      "id": 7,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-40.283716270542605, 40.44616699218751]
+      },
+      "type": "Feature",
+      "properties": {
+        "popupTitle": {
+          "en": "A"
+        },
+        "popupContent": {
+          "en": "Three Golden Loaches can be found among the reeds here."
+        },
+        "popupMedia": "liyue/loach-pearl/7"
+      }
+    },
+    {
+      "id": 8,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-40.12849105685408, 40.45166015625]
+      },
+      "type": "Feature",
+      "properties": {
+        "popupTitle": {
+          "en": "B"
+        },
+        "popupContent": {
+          "en": "Three Golden Loaches can be found among the reeds here."
+        },
+        "popupMedia": "liyue/loach-pearl/7"
+      }
+    },
+    {
+      "id": 9,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-40.09908414736845, 40.59448242187501]
+      },
+      "type": "Feature",
+      "properties": {
+        "popupTitle": {
+          "en": "C"
+        },
+        "popupContent": {
+          "en": "Three Golden Loaches can be found among the reeds here."
+        },
+        "popupMedia": "liyue/loach-pearl/7"
+      }
+    },
+    {
+      "id": 10,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-39.70718665682655, 41.08337402343751]
+      },
+      "type": "Feature",
+      "properties": {
+        "popupTitle": {
+          "en": ""
+        },
+        "popupContent": {
+          "en": ""
+        },
+        "popupMedia": ""
+      }
+    },
+    {
+      "id": 11,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-39.26203141523747, 40.23193359375001]
+      },
+      "type": "Feature",
+      "properties": {
+        "popupTitle": {
+          "en": ""
+        },
+        "popupContent": {
+          "en": "A Golden Loach can be found by this pond."
+        },
+        "popupMedia": ""
+      }
+    },
+    {
+      "id": 12,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-38.414862450649444, 41.99523925781251]
+      },
+      "type": "Feature",
+      "properties": {
+        "popupTitle": {
+          "en": ""
+        },
+        "popupContent": {
+          "en": "A Golden Loach can be found north at the cape."
+        },
+        "popupMedia": "liyue/loach-pearl/12"
+      }
+    }
+  ]
+}

@@ -1,0 +1,68 @@
+{
+  "name": { "en": "Fatui Electro Cicin Mage" },
+  "cluster": false,
+  "respawn": 86400,
+  "icons": {
+    "filter": "fatui-electro-cicin-mage",
+    "base": {
+      "marker": true
+    },
+    "done": {
+      "marker": true
+    }
+  },
+  "data": [
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-20.4887732871, 51.0095128428]
+      },
+      "type": "Feature",
+      "properties": {
+        "popupTitle": { "en": "" },
+        "popupContent": { "en": "" },
+        "popupMedia": ""
+      },
+      "id": 1
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-30.8126510202, 56.7224121093]
+      },
+      "type": "Feature",
+      "properties": {
+        "popupTitle": { "en": "" },
+        "popupContent": { "en": "" },
+        "popupMedia": ""
+      },
+      "id": 2
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-35.995795141, 61.9848665218]
+      },
+      "type": "Feature",
+      "properties": {
+        "popupTitle": { "en": "" },
+        "popupContent": { "en": "" },
+        "popupMedia": ""
+      },
+      "id": 3
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-16.8781469947, 70.6256071109]
+      },
+      "type": "Feature",
+      "properties": {
+        "popupTitle": { "en": "" },
+        "popupContent": { "en": "" },
+        "popupMedia": ""
+      },
+      "id": 4
+    }
+  ]
+}

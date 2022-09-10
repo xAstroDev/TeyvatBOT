@@ -1,0 +1,29 @@
+{
+  "name": { "en": "Samachurl" },
+  "cluster": false,
+  "respawn": 86400,
+  "icons": {
+    "filter": "samachurl",
+    "base": {
+      "marker": true
+    },
+    "done": {
+      "marker": true
+    }
+  },
+  "data": [
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-41.6799231042, 42.7851390489]
+      },
+      "type": "Feature",
+      "properties": {
+        "popupTitle": { "en": "" },
+        "popupContent": { "en": "" },
+        "popupMedia": ""
+      },
+      "id": 1
+    }
+  ]
+}

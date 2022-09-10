@@ -1,0 +1,14 @@
+{
+  "name": { "en": "Fish" },
+  "cluster": false,
+  "icons": {
+    "filter": "fish",
+    "base": {
+      "marker": true
+    },
+    "done": {
+      "marker": true
+    }
+  },
+  "data": []
+}

@@ -1,0 +1,34 @@
+{
+  "name": { "en": "Andrius (Lupus Boreas)" },
+  "cluster": false,
+  "icons": {
+    "filter": "andrius",
+    "base": {
+      "marker": true,
+      "key": "andrius"
+    },
+    "done": {
+      "marker": true,
+      "key": "andrius"
+    }
+  },
+  "data": [
+    {
+      "id": 1,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-29.52567042617583, 48.57055664062501]
+      },
+      "type": "Feature",
+      "properties": {
+        "popupTitle": {
+          "en": "Andrius"
+        },
+        "popupContent": {
+          "en": ""
+        },
+        "popupMedia": ""
+      }
+    }
+  ]
+}

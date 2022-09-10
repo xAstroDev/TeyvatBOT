@@ -1,0 +1,14 @@
+{
+  "name": { "en": "Lizard Tail" },
+  "cluster": false,
+  "icons": {
+    "filter": "lizard-tail",
+    "base": {
+      "marker": true
+    },
+    "done": {
+      "marker": true
+    }
+  },
+  "data": []
+}

@@ -1,0 +1,14 @@
+{
+  "name": { "en": "Radish" },
+  "cluster": false,
+  "icons": {
+    "filter": "radish",
+    "base": {
+      "marker": true
+    },
+    "done": {
+      "marker": true
+    }
+  },
+  "data": []
+}

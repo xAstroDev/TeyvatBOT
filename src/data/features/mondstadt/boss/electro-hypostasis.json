@@ -1,0 +1,35 @@
+{
+  "name": { "en": "Electro Hypostasis" },
+  "cluster": false,
+  "respawn": 180,
+  "icons": {
+    "filter": "electro-hypostasis",
+    "base": {
+      "marker": true,
+      "key": "electro-hypostasis"
+    },
+    "done": {
+      "marker": true,
+      "key": "electro-hypostasis"
+    }
+  },
+  "data": [
+    {
+      "id": 1,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-37.74465712069938, 73.42163085937501]
+      },
+      "type": "Feature",
+      "properties": {
+        "popupTitle": {
+          "en": "Electro Hypostasis"
+        },
+        "popupContent": {
+          "en": ""
+        },
+        "popupMedia": ""
+      }
+    }
+  ]
+}

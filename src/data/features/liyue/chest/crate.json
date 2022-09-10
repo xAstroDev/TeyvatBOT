@@ -1,0 +1,14 @@
+{
+  "name": { "en": "Crate" },
+  "cluster": true,
+  "icons": {
+    "filter": "liyue-crate",
+    "base": {
+      "marker": true
+    },
+    "done": {
+      "marker": true
+    }
+  },
+  "data": []
+}
