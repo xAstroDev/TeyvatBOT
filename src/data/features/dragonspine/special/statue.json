@@ -1,0 +1,55 @@
+{
+  "format": 2,
+  "name": {
+    "_code": "2481562954",
+    "zh": "七天神像",
+    "de": "Statue der Sieben",
+    "en": "Statue of The Seven",
+    "es": "Estatua de Los Siete",
+    "fr": "Statue des Sept",
+    "id": "Patung The Seven",
+    "ja": "七天神像",
+    "ko": "일곱신상",
+    "pt": "Estátua dos Sete",
+    "ru": "Статуя семи Архонтов",
+    "th": "Statue of The Seven",
+    "vi": "Thất Thiên Thần Tượng"
+  },
+  "description": {
+    "en": "Teleport here to receive healing or redeem elemental Oculi for rewards."
+  },
+  "enabled": true,
+  "cluster": "off",
+  "respawn": "none",
+  "icons": {
+    "filter": "dragonspine-statue",
+    "base": {
+      "marker": false,
+      "key": "statue",
+      "iconSize": [30, 46],
+      "shadowSize": [50, 64],
+      "iconAnchor": [15, 40],
+      "shadowAnchor": [0, 62],
+      "popupAnchor": [0, -35]
+    },
+    "done": {
+      "marker": false,
+      "key": "statue",
+      "iconSize": [30, 46],
+      "shadowSize": [50, 64],
+      "iconAnchor": [15, 40],
+      "shadowAnchor": [0, 62],
+      "popupAnchor": [0, -35]
+    }
+  },
+  "data": [
+    {
+      "coordinates": [-30.50573, 42.85276],
+      "id": "71677AB218A4FA8B10736C65AC8DDF21AE62C28E",
+      "importIds": {
+        "gm_legacy": ["dragonspineStatue/1"]
+      },
+      "popupAttribution": "MasterEric"
+    }
+  ]
+}

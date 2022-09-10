@@ -1,0 +1,88 @@
+{
+  "format": 2,
+  "name": {
+    "_code": "1137755308",
+    "zh": "白萝卜",
+    "de": "Rettich",
+    "en": "Radish",
+    "es": "Rábano",
+    "fr": "Radis",
+    "id": "Radish",
+    "ja": "ダイコン",
+    "ko": "흰 무",
+    "pt": "Rabanete Branco",
+    "ru": "Редис",
+    "th": "Radish",
+    "vi": "Củ Cải Trắng"
+  },
+  "description": {
+    "_code": "2503153389",
+    "zh": "纤维分明的草本植物。易于种植与收获的作物，富含纤维与营养。",
+    "de": "Eine sehr fasrige Wurzel. Sie ist sehr einfach anzubauen und zu ernten. Außerdem ist sie reich an Ballast- und Nährstoffen.",
+    "en": "Rich in fiber and nutrients. Easy to grow and harvest.",
+    "es": "Rico en fibra y nutrientes, y muy fácil de cultivar y cosechar.",
+    "fr": "Un légume riche en fibres et en nutriments. Facile à cultiver et à récolter.",
+    "id": "Sayuran yang kaya akan nutrisi dan serat. Mudah untuk ditanam dan dipanen.",
+    "ja": "食べ物繊維のはっきりした草本植物。栽培も収穫も容易な作物、食べ物繊維と栄養に富んでいる。",
+    "ko": "섬유질이 풍부한 초본식물. 쉽게 재배할 수 있으며, 섬유질과 영양가가 풍부하다",
+    "pt": "Rico em fibras e nutrientes. Fácil de plantar e colher.",
+    "ru": "Растение, богатое клетчаткой. Легко культивируется.",
+    "th": "พืชหัวที่สามารถเพาะปลูก และเก็บเกี่ยวได้ง่าย อุดมไปด้วย เส้นใยและสารอาหาร",
+    "vi": "Là thực vật có nhiều dinh dưỡng. Dễ trồng và thu hoạch, có hàm lượng vitamin cao."
+  },
+  "tags": ["cooking-ingredient"],
+  "enabled": false,
+  "cluster": "on",
+  "respawn": "none",
+  "icons": {
+    "filter": "radish",
+    "base": {
+      "marker": true
+    },
+    "done": {
+      "marker": true
+    }
+  },
+  "data": [
+    {
+      "coordinates": [-27.4268, 30.89609],
+      "id": "BEEBDED9EEAC7DA72D9220F64B52AD1B05AB05F0",
+      "importIds": {
+        "yuanshen": ["82_1"]
+      },
+      "popupAttribution": "Yuanshen.site"
+    },
+    {
+      "coordinates": [-27.43722, 30.92604],
+      "id": "08333BD910DED6C396832CD6EA7590DC43D96515",
+      "importIds": {
+        "yuanshen": ["82_2"]
+      },
+      "popupAttribution": "Yuanshen.site"
+    },
+    {
+      "coordinates": [-27.39293, 30.9026],
+      "id": "E7650434B0A4F734E8DAD1C9C011781939578B89",
+      "importIds": {
+        "yuanshen": ["82_3"]
+      },
+      "popupAttribution": "Yuanshen.site"
+    },
+    {
+      "coordinates": [-27.39425, 30.92603],
+      "id": "83DF6524FA1B9F8BB691C069553C3E0A949AD239",
+      "importIds": {
+        "yuanshen": ["82_4"]
+      },
+      "popupAttribution": "Yuanshen.site"
+    },
+    {
+      "coordinates": [-42.21978, 21.0289],
+      "id": "5DA83E7560AA3B3722973AE2781C25A9B9CA9700",
+      "importIds": {
+        "yuanshen": ["82_5"]
+      },
+      "popupAttribution": "Yuanshen.site"
+    }
+  ]
+}

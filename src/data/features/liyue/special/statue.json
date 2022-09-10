@@ -1,0 +1,126 @@
+{
+  "format": 2,
+  "name": {
+    "_code": "2481562954",
+    "zh": "七天神像",
+    "de": "Statue der Sieben",
+    "en": "Statue of The Seven",
+    "es": "Estatua de Los Siete",
+    "fr": "Statue des Sept",
+    "id": "Patung The Seven",
+    "ja": "七天神像",
+    "ko": "일곱신상",
+    "pt": "Estátua dos Sete",
+    "ru": "Статуя семи Архонтов",
+    "th": "Statue of The Seven",
+    "vi": "Thất Thiên Thần Tượng"
+  },
+  "description": {
+    "en": "Teleport here to receive healing or redeem elemental Oculi for rewards."
+  },
+  "enabled": true,
+  "cluster": "off",
+  "respawn": "none",
+  "icons": {
+    "filter": "liyue-statue",
+    "base": {
+      "marker": false,
+      "key": "statue",
+      "iconSize": [30, 46],
+      "shadowSize": [50, 64],
+      "iconAnchor": [15, 40],
+      "shadowAnchor": [0, 62],
+      "popupAnchor": [0, -35]
+    },
+    "done": {
+      "marker": false,
+      "key": "statue",
+      "iconSize": [30, 46],
+      "shadowSize": [50, 64],
+      "iconAnchor": [15, 40],
+      "shadowAnchor": [0, 62],
+      "popupAnchor": [0, -35]
+    }
+  },
+  "data": [
+    {
+      "coordinates": [-29.5438, 29.51342],
+      "id": "56534BF659C239AB3934168429B5AAF668743388",
+      "importIds": {
+        "gm_legacy": ["liyueStatue/1"],
+        "gm_msfv2": ["9789C19D36E624F635551FCCF77A9B3BB5148939"]
+      },
+      "popupAttribution": "MasterEric",
+      "popupTitle": {
+        "en": "Statue of The Seven - Geo"
+      },
+      "popupContent": {
+        "en": "Bishui Plain, Liyue"
+      },
+      "popupMedia": "liyue/statue/dihua-marsh"
+    },
+    {
+      "coordinates": [-36.24062, 34.82969],
+      "id": "A65937D2F76279D8A627A23483B0C2B6FF05648A",
+      "importIds": {
+        "gm_legacy": ["liyueStatue/2"]
+      },
+      "popupAttribution": "MasterEric",
+      "popupTitle": {
+        "en": "Statue of The Seven - Geo"
+      },
+      "popupContent": {
+        "en": "Qiongji Estuary, Liyue"
+      },
+      "popupMedia": "liyue/statue/mingyun-village"
+    },
+    {
+      "coordinates": [-34.85539, 16.73854],
+      "id": "504776168D6BF41BF42F2DCF8A8C5472E9E9CE3B",
+      "importIds": {
+        "gm_msfv2": ["030F100F49C1F0851DB0F8F7C0EA354B4FBC15DA"],
+        "gm_legacy": ["liyueStatue/3"]
+      },
+      "popupAttribution": "MasterEric",
+      "popupTitle": {
+        "en": "Statue of The Seven - Geo"
+      },
+      "popupContent": {
+        "en": "Minlin, Liyue"
+      },
+      "popupMedia": "liyue/statue/qingyun-peak"
+    },
+    {
+      "coordinates": [-42.92911, 29.4637],
+      "id": "E77D5BF945A0B0AFF50B52CE1EC9893076443AFD",
+      "importIds": {
+        "gm_legacy": ["liyueStatue/4"],
+        "gm_msfv2": ["23CD8F996C369A4D13A7B9CB869B9336EB73F3B7"]
+      },
+      "popupAttribution": "MasterEric",
+      "popupTitle": {
+        "en": "Statue of The Seven - Geo"
+      },
+      "popupContent": {
+        "en": "Sea of Clouds, Liyue"
+      },
+      "popupMedia": "liyue/statue/guili-plains"
+    },
+    {
+      "coordinates": [-46.45636, 21.82087],
+      "id": "CE8030098FF92EF9CFDECFCA8FC7AAF8DEAE73E1",
+      "importIds": {
+        "gm_legacy": ["liyueStatue/5"],
+        "gm_msfv2": ["0E43E08F06389116229DC6321F32C99F1F8A7F5B"]
+      },
+      "popupAttribution": "MasterEric",
+      "popupTitle": {
+        "en": "Statue of The Seven - Geo"
+      },
+      "popupContent": {
+        "en": "Lisha, Liyue"
+      },
+      "popupMedia": "liyue/statue/dunyu-ruins"
+    }
+  ]
+}

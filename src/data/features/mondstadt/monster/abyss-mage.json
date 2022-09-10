@@ -1,0 +1,155 @@
+{
+  "format": 2,
+  "name": {
+    "_code": "711253388",
+    "zh": "深渊法师",
+    "de": "Abgrundmagier",
+    "en": "Abyss Mage",
+    "es": "Mago del Abismo",
+    "fr": "Mage de l'Abîme",
+    "id": "Abyss Mage",
+    "ja": "アビスの魔術師",
+    "ko": "심연 메이지",
+    "pt": "Feiticeiro do Abismo",
+    "ru": "Маг Бездны",
+    "th": "Abyss Mage",
+    "vi": "Pháp Sư Vực Sâu"
+  },
+  "description": {
+    "_code": "3160129879",
+    "zh": "一定程度上能驾驭元素进行战斗的深渊魔物。\\n出于某种不为人知的缘由，深渊法师精通丘丘人的笨拙语言，能驾驭它们的心智。据说深渊法师略通如今几乎无人可解的失落古语，并利用这种语言的力量行使魔法…",
+    "de": "Ein magisches Wesen aus dem Abgrund, das in gewissem Maße Pyro-Kräfte für den Kampf anwenden kann.\\nAus einem den Menschen unerfindlichen Grund kennen Abgrundmagier die primitive Sprache der Hilichurle und können ihr Handeln kontrollieren. Abgrundmagier sollen auch eine altertümliche Sprache, die heute kaum ein Mensch mehr versteht, äußerst gut beherrschen. Diese verwenden sie, um ihre Zauber zu wirken.",
+    "en": "Abyss creatures who can command the power of the elements in combat to a certain extent.\\nFor unknown reasons, Abyss Mages are able to communicate with the hilichurls, thus enabling them to manipulate their minds easily. They say Abyss Mages utter a long-forgotten language from which they draw magical power.",
+    "fr": "Créatures de l'Abîme qui ont un certain contrôle sur les éléments en combat.\\nPour une raison inconnue, les mages de l'Abîme sont capables de communiquer avec les Brutocollinus, ce qui leur permet d'en prendre le contrôle et de les plier à leur volonté. On prétend que les mages de l'Abîme manient une langue ancienne depuis longtemps oubliée et qu'ils en tirent leur pouvoir magique.",
+    "id": "Makhluk abyss yang dapat menguasai kekuatan elemen dalam pertempuran sampai batas tertentu.\\nUntuk alasan yang tidak diketahui, abyss mage mampu berkomunikasi dengan Hilichurl, dan dapat memanipulasi pikiran mereka dengan mudahnya. Abyss mage mengucapkan bahasa yang telah lama hilang , dan dengan itulah mereka menciptakan kekuatan sihirnya.",
+    "ja": "一定程度で元素を操るアビスの魔物。\\n原因は誰も知らないが、アビスの魔術師は、ヒルチャールの言語に精通し、彼らの心を操ることができる。アビスの魔術師は、今まで誰も解けなかった失われた言葉を解明し、その言葉の力を使って魔法を働かせたという。",
+    "ko": "원소의 힘으로 싸우는 심연 마물.\\n어떤 이유에서 인지 심연 메이지는 츄츄족의 언어에 정통하고 그들의 정신을 지배할 수 있다. 심연 메이지는 이젠 알아보는 사람이 거의 없는 잃어버린 고대어를 대충 알고 있다고 한다. 그리고 고대어의 힘으로 마법을 부린다",
+    "pt": "Criaturas abissais que podem comandar o poder dos elementos em combate até certo ponto.\\nPor razões desconhecidas, os Feiticeiros do Abismo são capazes de se comunicar com os Hilichurls, permitindo-lhes assim manipular facilmente suas mentes. Dizem que os Feiticeiros do Abismo proferem uma linguagem antiga esquecida, da qual são capazes de extrair poder mágico.",
+    "ru": "Существа Бездны, которые в некоторой степени могут использовать в бою силу элементов.\\nПо необъяснимой причине маги Бездны могут общаться с хиличурлами, и таким образом легко подчинять их волю. Говорят, что они владеют давно забытым языком Бездны и черпают из него свои магические силы...",
+    "th": "มอนสเตอร์ Abyss ที่สามารถควบคุมธาตุได้ในระดับหนึ่งเพื่อใช้ในการต่อสู้\\nโดยไม่ทราบสาเหตุ ดูเหมือนว่าพวก Abyss mage นั้นจะมีความเชี่ยวชาญในการใช้ภาษาแปลก ๆ ของพวก Hilichurl และสามารถควบคุมพวกมันได้ ว่ากันว่าพวก Abyss mage นั้นเข้าใจในภาษาโบราณที่สูญหายไปและใช้พลังของมันในการร่ายเวทย์...",
+    "vi": "Ma vật Vực Sâu ở mức độ nhất định có thể điều khiển nguyên tố chiến đấu.\\nBằng một lý do nào đó, pháp sư Vực Sâu có thể tinh thông ngôn ngữ nguệch ngoạc của Hilichurl, từ đó có thể điều khiển tâm trí của chúng. Nghe nói Pháp Sư Vực Sâu tinh thông ngôn ngữ thất truyền cổ xưa mà con người ngày nay không thể lý giải được, chúng đã lợi dụng sức mạnh này để thi triển ma pháp..."
+  },
+  "tags": ["weapon-ascension-material", "artifacts"],
+  "enabled": true,
+  "cluster": "on",
+  "respawn": 86400,
+  "icons": {
+    "filter": "pyro-abyss-mage",
+    "base": {
+      "marker": true
+    },
+    "done": {
+      "marker": true
+    }
+  },
+  "data": [
+    {
+      "coordinates": [-19.4634, 48.60294],
+      "id": "8F64214F0BF92D193B24D4ED66B193E61FBA3D82",
+      "importIds": {
+        "yuanshen": ["31_1"],
+        "gm_legacy": ["liyueAbyssMage/1"]
+      },
+      "popupAttribution": "Yuanshen.site"
+    },
+    {
+      "coordinates": [-26.17194, 45.15365],
+      "id": "C3009F27FF003CC03AA782C37F5339CC5C3C2CF7",
+      "importIds": {
+        "yuanshen": ["31_2"],
+        "gm_legacy": ["liyueAbyssMage/2"]
+      },
+      "popupAttribution": "Yuanshen.site"
+    },
+    {
+      "coordinates": [-28.6039, 46.45859],
+      "id": "E4BB3807B7B457CD9E1E247132D8F216911C5D3E",
+      "importIds": {
+        "yuanshen": ["31_3"],
+        "gm_legacy": ["liyueAbyssMage/3"]
+      },
+      "popupAttribution": "Yuanshen.site"
+    },
+    {
+      "coordinates": [-12.81044, 33.18812],
+      "id": "81B8C62AC5023904654D33985911351543DE5A2C",
+      "importIds": {
+        "yuanshen": ["31_4"],
+        "gm_legacy": ["liyueAbyssMage/4"]
+      },
+      "popupAttribution": "Yuanshen.site"
+    },
+    {
+      "coordinates": [-14.28299, 28.81339],
+      "id": "D4B6838F4B0A18ECAAB8E33343B0C0E57F9C58F5",
+      "importIds": {
+        "yuanshen": ["31_5"],
+        "gm_legacy": ["liyueAbyssMage/5"]
+      },
+      "popupAttribution": "Yuanshen.site"
+    },
+    {
+      "coordinates": [-19.71289, 34.47366],
+      "id": "B2D38E21517BCBC449CDDFCFCB98202D779784BC",
+      "importIds": {
+        "yuanshen": ["31_6"],
+        "gm_legacy": ["liyueAbyssMage/6"]
+      },
+      "popupAttribution": "Yuanshen.site"
+    },
+    {
+      "coordinates": [-14.25559, 48.61416],
+      "id": "257F0212B49023184C8F25E754866A47AAF529D0",
+      "importIds": {
+        "yuanshen": ["31_7"],
+        "gm_legacy": ["liyueAbyssMage/7"]
+      },
+      "popupAttribution": "Yuanshen.site"
+    },
+    {
+      "coordinates": [-29.95029, 45.49764],
+      "id": "41033A51AB0867217CB1C8D67D8203F8594EAECD",
+      "importIds": {
+        "yuanshen": ["31_8"],
+        "gm_legacy": ["liyueAbyssMage/8"]
+      },
+      "popupAttribution": "Yuanshen.site"
+    },
+    {
+      "coordinates": [-33.4751, 44.09337],
+      "id": "7E88C8D414B3D73DB4E2AD2C37D27897676538ED",
+      "importIds": {
+        "yuanshen": ["31_9"]
+      },
+      "popupAttribution": "Yuanshen.site"
+    },
+    {
+      "coordinates": [-33.49462, 44.10899],
+      "id": "78F8238E2C68A8FA36C6FB6ED596A704DB4C38F5",
+      "importIds": {
+        "yuanshen": ["31_10"]
+      },
+      "popupAttribution": "Yuanshen.site"
+    },
+    {
+      "coordinates": [-27.05512, 39.39385],
+      "id": "4752DC591FF6BCF31FCD4F43D2FCADEC2362A6D7",
+      "importIds": {
+        "yuanshen": ["31_11"]
+      },
+      "popupAttribution": "Yuanshen.site"
+    },
+    {
+      "coordinates": [-27.13322, 39.47981],
+      "id": "FD514B492BF85523D85CEC844EB63F958B9A9E72",
+      "importIds": {
+        "yuanshen": ["31_12"]
+      },
+      "popupTitle": {
+        "en": "NEW YUANSHEN MARKER: #12",
+        "zh": "深渊法师"
+      },
+      "popupAttribution": "Yuanshen.site"
+    }
+  ]
+}

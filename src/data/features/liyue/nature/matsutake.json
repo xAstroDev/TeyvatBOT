@@ -1,0 +1,120 @@
+{
+  "format": 2,
+  "name": {
+    "_code": "365650886",
+    "zh": "松茸",
+    "de": "Matsutake",
+    "en": "Matsutake",
+    "es": "Matsutake",
+    "fr": "Matsutake",
+    "id": "Matsutake",
+    "ja": "松茸",
+    "ko": "송이버섯",
+    "pt": "Matsutake",
+    "ru": "Мацутакэ",
+    "th": "Matsutake",
+    "vi": "Nhung Tùng"
+  },
+  "description": {
+    "_code": "525072093",
+    "zh": "与松树伴生的珍稀菌类，散发的淡雅鲜香暴露了它的位置。",
+    "de": "Eine seltene Pilzart, die an oder in der Nähe von Kiefern wächst und ihre Stellung durch den unverkennbaren Duft verrät.",
+    "en": "A rare fungus that generally grows on or near pine trees. Its delicate aroma gives away its location.",
+    "es": "Un hongo poco común que suele crecer cerca de los pinos. Su delicado aroma revela su ubicación.",
+    "fr": "Un mycète qui pousse sur ou près des pins. On peut le trouver facilement grâce à son odeur particulière.",
+    "id": "Jamur langka yang biasanya tumbuh di sekitar pohon pinus. Aromanya yang harum dapat menuntunmu ke lokasi jamur ini berada.",
+    "ja": "マツの木と一緒に育つ珍しいキノコ類。ほのかに優雅な香りを放ち、自らの位置を知らせている。",
+    "ko": "소나무 근처에서 자라는 버섯. 은은하게 퍼지는 향기로 어디에 있는지 찾아낼 수 있다",
+    "pt": "Um fungo raro que geralmente cresce sobre ou perto de pinheiros. Seu aroma delicado revela sua localização.",
+    "ru": "Этот редкий гриб обычно растёт вблизи сосен. Его легко обнаружить по специфичному запаху.",
+    "th": "เห็ดราหายากที่มักจะขึ้นกับต้นสน กลิ่นหอมของมันจะบ่งบอกตำแหน่ง ของมันให้รู้",
+    "vi": "Nấm quý mọc trên cây tùng, mùi hương thoang thoảng phát ra đã khiến nó bị phát hiện."
+  },
+  "tags": ["cooking-ingredient"],
+  "enabled": true,
+  "cluster": "off",
+  "respawn": "none",
+  "icons": {
+    "filter": "matsutake",
+    "base": {
+      "marker": true
+    },
+    "done": {
+      "marker": true
+    }
+  },
+  "data": [
+    {
+      "coordinates": [-33.02188, 25.69297],
+      "id": "1ECEA56E44F7890E4E8314E69E37438964D22752",
+      "importIds": {
+        "gm_legacy": ["liyueMatsutake/1"]
+      },
+      "popupAttribution": "Unknown"
+    },
+    {
+      "coordinates": [-34.06484, 25.05234],
+      "id": "159EFE5C9B91CD923B5559F186B56B69BA30DA89",
+      "importIds": {
+        "gm_legacy": ["liyueMatsutake/2"]
+      },
+      "popupAttribution": "Unknown"
+    },
+    {
+      "coordinates": [-30.5375, 21.29062],
+      "id": "50EF1BC1FFA6B03E0770B33D629992104ADB9F3A",
+      "importIds": {
+        "gm_legacy": ["liyueMatsutake/3"]
+      },
+      "popupAttribution": "Unknown"
+    },
+    {
+      "coordinates": [-27.57656, 30.39609],
+      "id": "269659C900D257A45DD14CCA8C35ECB30B4F3268",
+      "importIds": {
+        "gm_legacy": ["liyueMatsutake/4"]
+      },
+      "popupAttribution": "Unknown"
+    },
+    {
+      "coordinates": [-25.51015, 31.06406],
+      "id": "2F22D38E5D8DC8FA2E2E0FCA5D2A90D5DECBF6A6",
+      "importIds": {
+        "gm_legacy": ["liyueMatsutake/5"]
+      },
+      "popupAttribution": "Unknown"
+    },
+    {
+      "coordinates": [-24.20937, 31.46641],
+      "id": "5A5C67FEA79A8F29D14D13967C3CA829D0ECB37B",
+      "importIds": {
+        "gm_legacy": ["liyueMatsutake/6"]
+      },
+      "popupAttribution": "Unknown"
+    },
+    {
+      "coordinates": [-42.32193, 29.52831],
+      "id": "F69C4C83561517B056FDB62E9E93AC1DA8D7A614",
+      "importIds": {
+        "gm_legacy": ["liyueMatsutake/7"]
+      },
+      "popupAttribution": "Unknown"
+    },
+    {
+      "coordinates": [-42.25555, 29.4502],
+      "id": "8C5D4E9BEA5E2739AB808ED894A8AD957A335E0F",
+      "importIds": {
+        "gm_legacy": ["liyueMatsutake/8"]
+      },
+      "popupAttribution": "Unknown"
+    },
+    {
+      "coordinates": [-28.52124, 30.50467],
+      "id": "1BEEDBA751853EB064A31045B8333CA56A34937C",
+      "importIds": {
+        "gm_legacy": ["liyueMatsutake/9", "liyueMatsutake/10"]
+      },
+      "popupAttribution": "Unknown"
+    }
+  ]
+}

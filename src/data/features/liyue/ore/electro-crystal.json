@@ -1,0 +1,157 @@
+{
+  "format": 2,
+  "name": {
+    "_code": "722365814",
+    "zh": "电气水晶",
+    "de": "Elektrisierter Kristall",
+    "en": "Electro Crystal",
+    "es": "Electrocristal",
+    "fr": "Électrocristal",
+    "id": "Electro Crystal",
+    "ja": "電気水晶",
+    "ko": "전기 수정",
+    "pt": "Cristal Eletrificado",
+    "ru": "Электро кристалл",
+    "th": "Electro Crystal",
+    "vi": "Pha Lê Điện"
+  },
+  "description": {
+    "_code": "1561650273",
+    "zh": "富含电力的晶石，由逸散在大气与大地中的电气积聚而成。摸起来酥酥麻麻的。如果有对应的设施，或许可以通过这里面蕴含的雷元素做些什么事情吧…？",
+    "de": "Ein kraftvoller Kristall, der elektrische Energie aus der Umgebung anzieht. Es kribbelt, wenn man ihn anfasst. Mit der richtigen Ausrüstung ist es vielleicht möglich, die darin enthaltene Elektro-Energie nutzbar zu machen ...",
+    "en": "A power-rich crystal that draws electricity from the air around it. Holding it makes your hand a little numb. With the right equipment, maybe it's possible to harness the Electro energy contained within?",
+    "es": "Un cristal rico en energía que extrae electricidad del aire que lo rodea. Sujetarlo brevemente entumece la mano. En las instalaciones adecuadas, tal vez se pueda hacer algo con el poder Electro contenido en él...",
+    "fr": "Un cristal qui puise son énergie électrique dans l'air ; le tenir trop longtemps engourdit la main. Peut-être est-il possible de récupérer l'énergie Électro qu'il contient avec le bon équipement ?",
+    "id": "Kristal yang kaya akan tenaga listrik, dan menghisap listrik dari udara di sekitarnya. Menggenggamnya akan membuat tanganmu mati rasa. Dengan perlengkapan yang tepat, mungkin kita bisa memanfaatkan energi Electro yang ada di dalamnya...?",
+    "ja": "電気を含んだ晶石。大気と大地に散逸している電気の塊。触るとビリビリしびれる。相応の施設があれば、その中にある雷元素を使って何かできることがあるかもしれない…？",
+    "ko": "전기가 흐르는 수정. 대기와 대지의 전기가 모여서 형성됐다. 만지면 찌릿찌릿하다. 상응하는 시설이 있다면 담겨 있는 전기 원소를 이용해 뭔가 할 수 있지 않을까...?",
+    "pt": "Um cristal rico em energia que extrai a eletricidade do ar ao seu redor. Segurá-lo deixa sua mão um pouco dormente. Com o equipamento certo, talvez seja possível aproveitar a energia elétrica contida nele?",
+    "ru": "Заряженный электричеством кристалл, который продолжает тянуть энергию из окружающего воздуха. Если взять его в руку, то она начнёт неметь. Может быть, с подходящими инструментами возможно получить из него энергию Электро?",
+    "th": "หินคริสตัลที่อุดมด้วยพลังงานไฟฟ้า มันสามารถรวบรวมไฟฟ้าจากอากาศรอบ ๆ ตัวได้ เมื่อลูบจะทำให้รู้สึกชา หากมีอุปกรณ์ที่สอดคล้องกัน บางทีคุณอาจทำอะไรบางอย่างกับธาตุไฟฟ้าที่มีอยู่ในนั้นได้...?",
+    "vi": "Tinh thạch có điện lực cao, được kết tinh từ điện trong khắp đại lục, chạm vào có cảm giác tê liệt. Nếu có thiết bị tương ứng, có lẽ sẽ làm được gì đó với nguyên tố điện trong đó nhỉ?"
+  },
+  "tags": ["alchemy-ingredient"],
+  "enabled": true,
+  "cluster": "on",
+  "respawn": 172800,
+  "icons": {
+    "filter": "electro-crystal",
+    "base": {
+      "marker": true
+    },
+    "done": {
+      "marker": true
+    }
+  },
+  "data": [
+    {
+      "coordinates": [-41.6625, 25.72422],
+      "id": "3671B0E0CBC344E15E10F48634542ABE4595D131",
+      "importIds": {
+        "gm_legacy": ["liyueElectroCrystal/1"],
+        "yuanshen": ["54_1"]
+      },
+      "popupAttribution": "Yuanshen.site"
+    },
+    {
+      "coordinates": [-41.68984, 25.80234],
+      "id": "C3E8C9409FE9CEE018B5EF44248F1E5E36173CA5",
+      "importIds": {
+        "gm_legacy": ["liyueElectroCrystal/2"],
+        "yuanshen": ["54_2"]
+      },
+      "popupAttribution": "Yuanshen.site"
+    },
+    {
+      "coordinates": [-41.7836, 25.75156],
+      "id": "C09C8D7959ADB23AD25BFFA952EE2837393C93EE",
+      "importIds": {
+        "gm_legacy": ["liyueElectroCrystal/3"],
+        "yuanshen": ["54_3"]
+      },
+      "popupAttribution": "Yuanshen.site"
+    },
+    {
+      "coordinates": [-27.95547, 17.89219],
+      "id": "060BD80E2EE28417E7F7715068142D244FE265EF",
+      "importIds": {
+        "gm_legacy": ["liyueElectroCrystal/4"],
+        "yuanshen": ["54_4"]
+      },
+      "popupAttribution": "Yuanshen.site"
+    },
+    {
+      "coordinates": [-28.01407, 17.91172],
+      "id": "13353D6FAA97F2642FCF9646853BB102D705982F",
+      "importIds": {
+        "gm_legacy": ["liyueElectroCrystal/5"],
+        "yuanshen": ["54_5"]
+      },
+      "popupAttribution": "Yuanshen.site"
+    },
+    {
+      "coordinates": [-38.78879, 23.9026],
+      "id": "D56DDD175A36EC40A2BE20F153A07726BC7654BF",
+      "importIds": {
+        "yuanshen": ["54_6"]
+      },
+      "popupAttribution": "Yuanshen.site"
+    },
+    {
+      "coordinates": [-38.73409, 23.92601],
+      "id": "290FA48424D600A2D9643FF7A0A6EB8727EA2B9D",
+      "importIds": {
+        "yuanshen": ["54_7"]
+      },
+      "popupAttribution": "Yuanshen.site"
+    },
+    {
+      "coordinates": [-45.30963, 42.66953],
+      "id": "95389A785450A43393503679F7878993C6A201BA",
+      "importIds": {
+        "yuanshen": ["54_8"]
+      },
+      "popupAttribution": "Yuanshen.site"
+    },
+    {
+      "coordinates": [-45.25625, 42.63438],
+      "id": "42B86067E541723998C12F2B4D9FD0F84B38C3CD",
+      "importIds": {
+        "yuanshen": ["54_9"]
+      },
+      "popupAttribution": "Yuanshen.site"
+    },
+    {
+      "coordinates": [-40.46718, 23.47683],
+      "id": "E05FCD9574CE6735E602C73881F0668B16E50371",
+      "importIds": {
+        "yuanshen": ["54_10"]
+      },
+      "popupAttribution": "Yuanshen.site"
+    },
+    {
+      "coordinates": [-33.92872, 20.53964],
+      "id": "71E98DD153A61C061135D033867C1C7F04A0A2C5",
+      "importIds": {
+        "yuanshen": ["54_11"]
+      },
+      "popupAttribution": "Yuanshen.site"
+    },
+    {
+      "coordinates": [-40.76146, 30.4638],
+      "id": "C36CFEFE47F2F12B8BBA21BD5F6C43A076CA58B3",
+      "importIds": {
+        "yuanshen": ["54_12"]
+      },
+      "popupAttribution": "Yuanshen.site"
+    },
+    {
+      "coordinates": [-40.68074, 30.44687],
+      "id": "ED0405021CEE101E8654C7391730F9D8F11AF9BE",
+      "importIds": {
+        "yuanshen": ["54_13"]
+      },
+      "popupAttribution": "Yuanshen.site"
+    }
+  ]
+}

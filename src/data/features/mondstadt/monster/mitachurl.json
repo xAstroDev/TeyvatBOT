@@ -1,0 +1,389 @@
+{
+  "format": 2,
+  "name": {
+    "_code": "3562720660",
+    "zh": "丘丘暴徒",
+    "de": "Mitachurl",
+    "en": "Mitachurl",
+    "es": "Mitachurl",
+    "fr": "Brutoviandu",
+    "id": "Mitachurl",
+    "ja": "ヒルチャール暴徒",
+    "ko": "츄츄 폭도",
+    "pt": "Mitachurl",
+    "ru": "Митачурл",
+    "th": "Mitachurl",
+    "vi": "Bạo Đồ Hilichurl"
+  },
+  "description": {
+    "_code": "2240323180",
+    "zh": "经历无数战斗历练的丘丘人大块头。\\n会利用草史莱姆创造坚固的木盾，进行战斗。\\n拥有强健的肌肉，油亮的鬃毛，可靠的宽厚背影，一顿饭吃下很多肉的豪放，能为丘丘人抵挡毫不留情的冒险者，在部族当中有着相当崇高的地位。",
+    "de": "Ein stämmiger Hilichurl, der unzählige Kämpfe überstanden hat.\\nMit Dendro-Schleimen kann er robuste Schilde für den Kampf anfertigen.\\nMit ihrer Muskelkraft, ihrem glänzenden Fell und beeindruckenden Gestalt helfen sie den Hilichurlen, sich die gnadenlosen Abenteurer vom Hals zu halten. In den Stämmen sind sie hoch angesehen.",
+    "en": "A muscular hilichurl who has been forged in countless fights.\\nThey know how to use Dendro Slimes to create tough shields which they wield in combat.\\nWith their powerful muscles, glossy fur, and sturdy, reliable silhouettes, they help the hilichurls withstand the pitiless assaults of adventurers, and they hold a rather exalted rank amongst the tribes.",
+    "es": "Un Hilichurl muy grande con experiencia en miles de batallas.\\nAl combatir utiliza un escudo muy resistente hecho con Slimes Dendro.\\nDisfruta de una posición elevada en la tribu gracias a sus fuertes músculos, su brillante melena, su capacidad de devorar varios kilos de carne en una comida y su habilidad para ahuyentar aventureros.",
+    "fr": "Un Brutocollinus musculeux qui a survécu à de nombreuses batailles.\\nIls savent utiliser les Dendroblobs pour se fabriquer un bouclier robuste qu'ils utilisent au combat.\\nAvec leur musculature puissante, leur fourrure luisante et leur carrure imposante, ils sont un atout majeur pour les Brutocollinus et permettent de résister aux assauts sans pitié des aventuriers. Ils tiennent un rang des plus élevé dans la tribu.",
+    "id": "Hilichurl kekar yang telah melewati banyak pertempuran.\\nMereka menggunakan Dendro Slime untuk menciptakan perisai kokoh yang digunakan saat bertarung.\\nDengan ototnya yang kuat, bulunya yang tebal, dan postur tubuhnya yang kekar, Hilichurl ini telah berhasil menghalau serangan dari para petualang terhadap suku Hilichurl. Mereka bahkan cukup dipuja-puja di kalangannya.",
+    "ja": "数え切れないほどの戦闘経験を持つ大型ヒルチャール。\\n草スライムを使用して頑丈な木製の盾を作成できる。\\n強靭な筋肉、威厳あるたてがみ、頼もしい背中と一食に大量の肉を呑み込む豪快さを備える。ヒルチャールの為に、容赦なく冒険者を追い払うため、部族では非常に尊い地位を持つ。",
+    "ko": "수많은 전투를 거친 거대 츄츄족.\\n풀 슬라임을 이용해 단단한 나무 방패를 만들어 싸운다.\\n탄탄한 근육과 번들거리는 갈기, 우람한 뒤태와 끼니마다 고기를 뜯는 호탕함까지. 츄츄족을 위해 모험가의 무자비한 공격을 막으며, 부족에서 상당히 높은 지위를 가지고 있다",
+    "pt": "Um Hilichurl musculoso que foi forjado em incontáveis lutas.\\nEles sabem como usar Slimes Dendro para criar escudos resistentes que eles empunham em combate.\\nCom seus músculos poderosos, pelo brilhante e silhuetas robustas e confiáveis, eles ajudam os Hilichurls a resistir aos ataques impiedosos dos aventureiros, e detêm uma posição bastante exaltada entre as tribos.",
+    "ru": "Мускулистый хиличурл, закалённый в бесчисленных боях.\\nОни научились создавать крепкие щиты из Дендро слаймов.\\nКрепкие, мохнатые, рельефные силуэты этих созданий обеспечивают им достаточно высокое положение в племенной иерархии. Они способны отражать нападения путешественников на лагеря хиличурлов.",
+    "th": "Hilichurl ร่างใหญ่ที่ผ่านการต่อสู้มาแล้วนับครั้งไม่ถ้วน\\nจะใช้ Dendro Slime ในการสร้างโล่ไม้ที่แข็งแกร่งก่อนเข้าสู้การต่อสู้\\nด้วยกล้ามเนื้อที่แข็งแรง แผงคอมันวาว เงาร่างที่ใจกว้างและน่าเชื่อถือ ในหนึ่งมื้อต้องกินเนื้อสัตว์จำนวนมาก เป็นผู้ที่สามารถต่อกรกับนักผจญภัยที่โหดเหี้ยมได้ มีสถานะสูงส่งมากในเผ่า",
+    "vi": "Hilichurl Lớn đã trải qua vô số trận chiến.\\nBiết lợi dụng Slime Thảo tạo thành khiên gỗ kiên cố để chiến đấu.\\nCó cơ bắp mạnh mẽ, lớp lông óng mượt, tấm lưng vững chắc, một bữa sẽ ăn rất nhiều thịt, sẽ giúp Hilichurl chống lại những nhà mạo hiểm không niệm tình, có địa vị tương đối cao trong bộ lạc."
+  },
+  "tags": ["artifacts", "character-weapon-material", "weapon-ascension-material"],
+  "enabled": true,
+  "cluster": "on",
+  "respawn": 86400,
+  "icons": {
+    "filter": "mitachurl",
+    "base": {
+      "marker": true
+    },
+    "done": {
+      "marker": true
+    }
+  },
+  "data": [
+    {
+      "coordinates": [-19.04922, 49.25547],
+      "id": "4FE4BAD2888E952B7BE9D133E263540FB6DBE851",
+      "importIds": {
+        "gm_legacy": ["mondstadtMitachurl/1"],
+        "yuanshen": ["30_1"]
+      },
+      "popupAttribution": "Yuanshen.site"
+    },
+    {
+      "coordinates": [-15.35626, 49.61022],
+      "id": "E9AE37E8E394A91635FBE293F6C0D814A6D0CCDC",
+      "importIds": {
+        "gm_legacy": ["mondstadtMitachurl/2"],
+        "yuanshen": ["30_2"]
+      },
+      "popupAttribution": "Yuanshen.site"
+    },
+    {
+      "coordinates": [-15.12133, 48.43456],
+      "id": "8A4291D9E0D262244D90811041267FE9A31ADC0C",
+      "importIds": {
+        "gm_legacy": ["mondstadtMitachurl/3"],
+        "yuanshen": ["30_3"]
+      },
+      "popupAttribution": "Yuanshen.site"
+    },
+    {
+      "coordinates": [-14.79366, 45.69219],
+      "id": "4F29F248156F4DC143FB1EB1E1D495C43DCF6156",
+      "importIds": {
+        "gm_legacy": ["mondstadtMitachurl/4"],
+        "yuanshen": ["30_4"]
+      },
+      "popupAttribution": "Yuanshen.site"
+    },
+    {
+      "coordinates": [-28.16059, 52.65684],
+      "id": "04AAE433572D479BD9C02615BB5380FFC885D0AE",
+      "importIds": {
+        "gm_legacy": ["mondstadtMitachurl/6"],
+        "yuanshen": ["30_6"]
+      },
+      "popupAttribution": "Yuanshen.site"
+    },
+    {
+      "coordinates": [-26.60583, 44.44641],
+      "id": "9F90D9D29F18E96879A78E0E14DFCE86E5FDDC40",
+      "importIds": {
+        "gm_legacy": ["mondstadtMitachurl/7"]
+      },
+      "popupAttribution": "Yuanshen.site"
+    },
+    {
+      "coordinates": [-25.64841, 40.09071],
+      "id": "F4B75A93D684217D34F8B6CF1A6C4554F9AA76A3",
+      "importIds": {
+        "gm_legacy": ["mondstadtMitachurl/9"],
+        "yuanshen": ["30_9"]
+      },
+      "popupAttribution": "Yuanshen.site"
+    },
+    {
+      "coordinates": [-25.05878, 39.8759],
+      "id": "AC24AEB41D03E68E08248DE89F3776BDE5886B89",
+      "importIds": {
+        "gm_legacy": ["mondstadtMitachurl/10"],
+        "yuanshen": ["30_10"]
+      },
+      "popupAttribution": "Yuanshen.site"
+    },
+    {
+      "coordinates": [-21.14886, 38.27804],
+      "id": "13C74C3E32EADDFCAAA8C4FFCD0D6B00FA06EB5F",
+      "importIds": {
+        "gm_legacy": ["mondstadtMitachurl/11"],
+        "yuanshen": ["30_11"]
+      },
+      "popupAttribution": "Yuanshen.site"
+    },
+    {
+      "coordinates": [-21.16802, 36.76256],
+      "id": "572E414634A235DA11387B39FC4238E5944CF2DD",
+      "importIds": {
+        "gm_legacy": ["mondstadtMitachurl/12"],
+        "yuanshen": ["30_12"]
+      },
+      "popupAttribution": "Yuanshen.site"
+    },
+    {
+      "coordinates": [-20.07026, 36.77817],
+      "id": "9C7026A6FF950D7CD9F44FD03697A6313CDCDABA",
+      "importIds": {
+        "gm_legacy": ["mondstadtMitachurl/13"],
+        "yuanshen": ["30_13"]
+      },
+      "popupAttribution": "Yuanshen.site"
+    },
+    {
+      "coordinates": [-17.99882, 35.72259],
+      "id": "42B27214DBAE82A45029B6ED85B3CEDEE6E51EF0",
+      "importIds": {
+        "gm_legacy": ["mondstadtMitachurl/14"],
+        "yuanshen": ["30_14"]
+      },
+      "popupAttribution": "Yuanshen.site"
+    },
+    {
+      "coordinates": [-17.53146, 36.25874],
+      "id": "2BF855A61CAE26F3EE6E9B4B46FC4ADB1321D78B",
+      "importIds": {
+        "gm_legacy": ["mondstadtMitachurl/15"],
+        "yuanshen": ["30_15"]
+      },
+      "popupAttribution": "Yuanshen.site"
+    },
+    {
+      "coordinates": [-14.9302, 36.72328],
+      "id": "81767493CF6F98100C55C661959B4F421C9E6EAA",
+      "importIds": {
+        "gm_legacy": ["mondstadtMitachurl/16"],
+        "yuanshen": ["30_16"]
+      },
+      "popupAttribution": "Yuanshen.site"
+    },
+    {
+      "coordinates": [-22.56269, 34.08297],
+      "id": "11EEBCF72D148D4E62B8105D1EDBBC58B5F8549E",
+      "importIds": {
+        "gm_legacy": ["mondstadtMitachurl/17"],
+        "yuanshen": ["30_17"]
+      },
+      "popupAttribution": "Yuanshen.site"
+    },
+    {
+      "coordinates": [-17.90247, 27.82122],
+      "id": "2EDFEF920ABF7335EB2A9C0D0691EA83FE06B9B5",
+      "importIds": {
+        "gm_legacy": ["mondstadtMitachurl/18"],
+        "yuanshen": ["30_18"]
+      },
+      "popupAttribution": "Yuanshen.site"
+    },
+    {
+      "coordinates": [-17.86733, 27.89153],
+      "id": "8FBFF51C0D733D3C20E3B60FA3A34FE58D01DD94",
+      "importIds": {
+        "gm_legacy": ["mondstadtMitachurl/19"],
+        "yuanshen": ["30_19"]
+      },
+      "popupAttribution": "Yuanshen.site"
+    },
+    {
+      "coordinates": [-14.43772, 28.53224],
+      "id": "6F790830B28B8688E4C37CC5E5B73FF4A86C2751",
+      "importIds": {
+        "gm_legacy": ["mondstadtMitachurl/20"],
+        "yuanshen": ["30_20"]
+      },
+      "popupAttribution": "Yuanshen.site"
+    },
+    {
+      "coordinates": [-12.08237, 29.21192],
+      "id": "78ADFCB7EB0623B9817A4B7D3C2EF1267937AF1E",
+      "importIds": {
+        "gm_legacy": ["mondstadtMitachurl/21"],
+        "yuanshen": ["30_21"]
+      },
+      "popupAttribution": "Yuanshen.site"
+    },
+    {
+      "coordinates": [-13.86703, 31.09831],
+      "id": "F6D930BDC460E46C09234529E5338B28EA6EF541",
+      "importIds": {
+        "gm_legacy": ["mondstadtMitachurl/22"],
+        "yuanshen": ["30_22"]
+      },
+      "popupAttribution": "Yuanshen.site"
+    },
+    {
+      "coordinates": [-14.76601, 31.23927],
+      "id": "CEC67FCBC6A8D108173E5BAB6918ADF161A8A066",
+      "importIds": {
+        "gm_legacy": ["mondstadtMitachurl/23"],
+        "yuanshen": ["30_23"]
+      },
+      "popupAttribution": "Yuanshen.site"
+    },
+    {
+      "coordinates": [-13.31495, 47.34818],
+      "id": "AC26DF2A58F20534510C8EE010B3B17139845584",
+      "importIds": {
+        "gm_legacy": ["mondstadtMitachurl/25"],
+        "yuanshen": ["30_25"]
+      },
+      "popupAttribution": "Yuanshen.site"
+    },
+    {
+      "coordinates": [-25.69625, 38.27634],
+      "id": "3BB1D8D60F9D159AD8634A7BAA60D032B44ED51B",
+      "importIds": {
+        "yuanshen": ["30_36"]
+      },
+      "popupAttribution": "Yuanshen.site"
+    },
+    {
+      "coordinates": [-25.665, 38.31931],
+      "id": "0427E0850154A293FF54A0B5667E6FCD3D91ACEF",
+      "importIds": {
+        "yuanshen": ["30_37"]
+      },
+      "popupAttribution": "Yuanshen.site"
+    },
+    {
+      "coordinates": [-26.96223, 44.77975],
+      "id": "D3D52B1563F7941C0687E549950FB9C7D308585C",
+      "importIds": {
+        "yuanshen": ["30_41"]
+      },
+      "popupAttribution": "Yuanshen.site"
+    },
+    {
+      "coordinates": [-27.55571, 45.43647],
+      "id": "D142835EC529F0E9F1481DC8A7A08BA12F393C1C",
+      "importIds": {
+        "yuanshen": ["30_42"]
+      },
+      "popupAttribution": "Yuanshen.site"
+    },
+    {
+      "coordinates": [-30.99809, 40.82874],
+      "id": "97DD4ECC5C67C5E9DDCBFB08D804DF880944B8F1",
+      "importIds": {
+        "yuanshen": ["30_26"]
+      },
+      "popupAttribution": "Yuanshen.site"
+    },
+    {
+      "coordinates": [-32.52579, 36.24765],
+      "id": "C9AB89EE97E5F300E5E9BF6331BEF19E411BA161",
+      "importIds": {
+        "yuanshen": ["30_27"]
+      },
+      "popupAttribution": "Yuanshen.site"
+    },
+    {
+      "coordinates": [-34.30572, 41.74376],
+      "id": "F24BEB6D54BB7E734A6D4CD64EE71A95BEDA9734",
+      "importIds": {
+        "yuanshen": ["30_28"]
+      },
+      "popupAttribution": "Yuanshen.site"
+    },
+    {
+      "coordinates": [-31.93919, 42.17797],
+      "id": "48253BC68358121BBF518CA5A98AD796BDE8C73A",
+      "importIds": {
+        "yuanshen": ["30_29"]
+      },
+      "popupAttribution": "Yuanshen.site"
+    },
+    {
+      "coordinates": [-32.68926, 45.36936],
+      "id": "C565E817DB74335593433ED118E0FCD7F8A49AC5",
+      "importIds": {
+        "yuanshen": ["30_30"]
+      },
+      "popupAttribution": "Yuanshen.site"
+    },
+    {
+      "coordinates": [-31.31427, 44.42405],
+      "id": "A531B6E91C2B1A390B28F300ADE5DC2A3A651BD1",
+      "importIds": {
+        "yuanshen": ["30_31"]
+      },
+      "popupAttribution": "Yuanshen.site"
+    },
+    {
+      "coordinates": [-34.84271, 43.59534],
+      "id": "D3AD8D90D2897B31503690DBCB8D44183B190A52",
+      "importIds": {
+        "yuanshen": ["30_32"]
+      },
+      "popupAttribution": "Yuanshen.site"
+    },
+    {
+      "coordinates": [-34.78802, 43.27503],
+      "id": "3E44C5460A0F62BDD6847B696E29C194579E67BD",
+      "importIds": {
+        "yuanshen": ["30_33"]
+      },
+      "popupAttribution": "Yuanshen.site"
+    },
+    {
+      "coordinates": [-34.92864, 44.22034],
+      "id": "6C1691EB8443DEEDD7AC154C3F5C5E1CE35FEBCD",
+      "importIds": {
+        "yuanshen": ["30_34"]
+      },
+      "popupAttribution": "Yuanshen.site"
+    },
+    {
+      "coordinates": [-31.54051, 35.83496],
+      "id": "094755C9D4E5F3F90B1855EF7293CE83E90D049C",
+      "importIds": {
+        "yuanshen": ["30_35"]
+      },
+      "popupAttribution": "Yuanshen.site"
+    },
+    {
+      "coordinates": [-30.87076, 35.40864],
+      "id": "208046F05DA11A5A4ADC4C2916B7A0CA940A63EA",
+      "importIds": {
+        "yuanshen": ["30_38"]
+      },
+      "popupAttribution": "Yuanshen.site"
+    },
+    {
+      "coordinates": [-29.41743, 44.80889],
+      "id": "B2AD07FD64A1909A11C007A2EAE9FD2BAD8DD655",
+      "importIds": {
+        "yuanshen": ["30_39"]
+      },
+      "popupAttribution": "Yuanshen.site"
+    },
+    {
+      "coordinates": [-33.96658, 42.19942],
+      "id": "F9190BB2E9BB75CB40EA73BBD5BD52DC78523A31",
+      "importIds": {
+        "yuanshen": ["30_40"]
+      },
+      "popupAttribution": "Yuanshen.site"
+    },
+    {
+      "coordinates": [-31.42073, 39.50618],
+      "id": "65AA66DF9457CA4F401C228848E7741F8ACB8431",
+      "importIds": {
+        "yuanshen": ["30_43"]
+      },
+      "popupAttribution": "Yuanshen.site"
+    }
+  ]
+}

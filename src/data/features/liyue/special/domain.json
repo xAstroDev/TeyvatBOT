@@ -1,0 +1,176 @@
+{
+  "format": 2,
+  "name": {
+    "_code": "4043227537",
+    "zh": "秘境",
+    "de": "Sphäre",
+    "en": "Domain",
+    "es": "Dominio",
+    "fr": "Donjon",
+    "id": "Domain",
+    "ja": "秘境",
+    "ko": "비경",
+    "pt": "Domínio",
+    "ru": "Подземелье",
+    "th": "ดันเจี้ยน",
+    "vi": "Bí Cảnh"
+  },
+  "description": {
+    "en": "Complete the challenges to earn Artifact, Weapon Ascension, or Talent Level-Up rewards."
+  },
+  "enabled": true,
+  "cluster": "off",
+  "respawn": "none",
+  "icons": {
+    "filter": "domain",
+    "base": {
+      "marker": false,
+      "key": "domain",
+      "iconSize": [36, 36],
+      "shadowSize": [50, 64],
+      "iconAnchor": [18, 27],
+      "shadowAnchor": [0, 62],
+      "popupAnchor": [0, -27]
+    },
+    "done": {
+      "marker": false,
+      "key": "domain",
+      "iconSize": [36, 36],
+      "shadowSize": [50, 64],
+      "iconAnchor": [18, 27],
+      "shadowAnchor": [0, 62],
+      "popupAnchor": [0, -27]
+    }
+  },
+  "data": [
+    {
+      "coordinates": [-25.1289, 27.94531],
+      "id": "A0DBD9C6EBBC2742ACE76FCA6F3232A960C8A79B",
+      "importIds": {
+        "gm_msfv2": ["90F3826100DC50DEEF7695596334B230DA27184D"],
+        "gm_legacy": ["liyueDomain/1"]
+      },
+      "popupAttribution": "MasterEric",
+      "popupTitle": {
+        "en": "Hidden Palace of Zhou Formula"
+      },
+      "popupContent": {
+        "en": "This Artifact domain drops the Crimson Witch of Flames, Lavawalker, Martial Artist, and Defender's Will sets. Trigger all four Pyro braziers to enter."
+      },
+      "tags": ["artifacts"],
+      "popupMedia": "liyue/domain/zhou-formula"
+    },
+    {
+      "coordinates": [-35.11563, 36.525],
+      "id": "1C2F7A03C519999F272D0947A2B28ED29E1FAEE7",
+      "importIds": {
+        "gm_legacy": ["liyueDomain/2"]
+      },
+      "popupAttribution": "MasterEric",
+      "popupTitle": {
+        "en": "Hidden Palace of Lianshan Formula"
+      },
+      "popupContent": {
+        "en": "This domain drops Weapon ascension materials."
+      },
+      "tags": ["weapon-ascension-material"],
+      "popupMedia": "liyue/domain/lianshan-formula"
+    },
+    {
+      "coordinates": [-38.89843, 30.25781],
+      "id": "36ED112A5839B4BAAB99D2265994B62A166807AC",
+      "importIds": {
+        "gm_msfv2": ["809817F215CBFF23A8A368E4B6B4731A36E1D3B6"],
+        "gm_legacy": ["liyueDomain/3"]
+      },
+      "popupAttribution": "MasterEric",
+      "popupTitle": {
+        "en": "Domain of Forsaken Ruins"
+      },
+      "popupContent": {
+        "en": "This is a one-time domain."
+      },
+      "popupMedia": "liyue/domain/forsaken-ruins"
+    },
+    {
+      "coordinates": [-41.82426, 26.66013],
+      "id": "8A7E0411A85FDD84216CF1D073626D899C41647F",
+      "importIds": {
+        "gm_msfv2": ["16AC26FF55D500526E2D60DBAF5A3FBB02E2CCE7"],
+        "gm_legacy": ["liyueDomain/4"]
+      },
+      "popupAttribution": "MasterEric",
+      "popupTitle": {
+        "en": "Hidden Palace of Guizang Formula"
+      },
+      "popupContent": {
+        "en": "This is a one-time domain. Unlock access by activating only the Pyro totems adjacent to the standing pillars."
+      },
+      "popupMedia": "liyue/domain/guizang-formula"
+    },
+    {
+      "coordinates": [-45.74995, 42.4854],
+      "id": "193A510C4A852891A11AE41CB20073C716324209",
+      "importIds": {
+        "gm_legacy": ["liyueDomain/5"]
+      },
+      "popupAttribution": "MasterEric",
+      "popupTitle": {
+        "en": "Domain of Guyun"
+      },
+      "popupContent": {
+        "en": "This Artifact domain drops the Heart of Bravery, Archaic Petra, and Retracing Bolide sets."
+      },
+      "tags": ["artifacts"],
+      "popupMedia": "liyue/domain/guyun"
+    },
+    {
+      "coordinates": [-48.91406, 22.84765],
+      "id": "1F25624E6D3FDF6AD8256C20B2B00A58D3E1C686",
+      "importIds": {
+        "gm_msfv2": ["FCF4951B4191F21E36F3D475FB0E6001656BD601"],
+        "gm_legacy": ["liyueDomain/6"]
+      },
+      "popupAttribution": "MasterEric",
+      "popupTitle": {
+        "en": "Domain of the Wayward Path"
+      },
+      "popupContent": {
+        "en": "This is a one-time domain."
+      },
+      "popupMedia": "liyue/domain/wayward-path"
+    },
+    {
+      "coordinates": [-35.94766, 19.95469],
+      "id": "57A3E5B6A893067095D009DA05AA86398FF349CD",
+      "importIds": {
+        "gm_legacy": ["liyueDomain/7"]
+      },
+      "popupAttribution": "MasterEric",
+      "popupTitle": {
+        "en": "Taishan Mansion"
+      },
+      "popupContent": {
+        "en": "This domain drops Talent level-up materials."
+      },
+      "tags": ["character-talent-material"],
+      "popupMedia": "liyue/domain/taishan-mansion"
+    },
+    {
+      "coordinates": [-29.33438, 17.24375],
+      "id": "97CEEAD4049D5EB453D6EC2B32E42727AE0C92AF",
+      "importIds": {
+        "gm_legacy": ["liyueDomain/8"]
+      },
+      "popupAttribution": "MasterEric",
+      "popupTitle": {
+        "en": "Clear Pool and Mountain Cavern"
+      },
+      "popupContent": {
+        "en": "This Artifact domain drops the Bloodstained Chivalry, Gambler, and Noblesse Oblige sets."
+      },
+      "tags": ["artifacts"],
+      "popupMedia": "liyue/domain/clear-pool"
+    }
+  ]
+}

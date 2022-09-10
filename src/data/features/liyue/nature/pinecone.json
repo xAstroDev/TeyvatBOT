@@ -1,0 +1,216 @@
+{
+  "format": 2,
+  "name": {
+    "_code": "1924965190",
+    "zh": "松果",
+    "de": "Kiefernzapfen",
+    "en": "Pinecone",
+    "es": "Piñón",
+    "fr": "Pomme de pin",
+    "id": "Pinecone",
+    "ja": "ナッツ",
+    "ko": "솔방울",
+    "pt": "Pinha",
+    "ru": "Сосновая шишка",
+    "th": "Pinecone",
+    "vi": "Quả Thông"
+  },
+  "description": {
+    "_code": "1953989229",
+    "zh": "富含油脂的肥美种子，并不会在松鼠的胃里长成参天大树。",
+    "de": "Enthält viele ölhaltige Kerne, die natürlich nicht zu einem gewaltigen Baum im Magen eines Eichhörnchens heranwachsen.",
+    "en": "Filled with oil-rich seeds. Certainly won't be growing into a tree from inside a squirrel's stomach.",
+    "es": "Una semilla rica en aceite. Obviamente, no se convertirá en un árbol en el estómago de una ardilla.",
+    "fr": "Une graine riche en huile. Ce n'est pas dans l'estomac d'un écureuil qu'elle deviendra un arbre, c'est sûr.",
+    "id": "Mengandung biji yang kaya dengan minyak. Pastinya tidak akan tumbuh menjadi pohon dari dalam perut tupai.",
+    "ja": "油分に富んだ丸々とした種。リスの胃の中で大きな木に育つわけではない。",
+    "ko": "식물성 기름이 가득한 씨앗. 다람쥐의 배 속에서 큰 나무로 자란다고 하는 것은 전부 뻥이다",
+    "pt": "Sementes ricas em óleo. Certamente não se transformará em uma árvore dentro do estômago de um esquilo.",
+    "ru": "Семена из сосновой шишки богаты натуральными маслами. Местные разрушители легенд доказали, что сосна не может вырасти из шишки у белки в животе.",
+    "th": "เมล็ดที่อุดมไปด้วยน้ำมัน แน่นอนมันไม่เติบโตเป็นต้นไม้ใหญ่ในท้องของเจ้ากระรอกน้อยหรอก",
+    "vi": "Loại hạt chắc mẩy có lượng dầu cao, chắc chắn sẽ không mọc thành cây trong bụng của loài sóc."
+  },
+  "tags": ["cooking-ingredient"],
+  "enabled": true,
+  "cluster": "on",
+  "respawn": "none",
+  "icons": {
+    "filter": "pinecone",
+    "base": {
+      "marker": true
+    },
+    "done": {
+      "marker": true
+    }
+  },
+  "data": [
+    {
+      "coordinates": [-23.97593, 23.71697],
+      "id": "F0B1DD21578C2CE99B239506EBE5CBFF222F46A1",
+      "importIds": {
+        "yuanshen": ["90_1"]
+      },
+      "popupAttribution": "Yuanshen.site"
+    },
+    {
+      "coordinates": [-23.93856, 23.74114],
+      "id": "4D80196D2F7A207E630D45384010473F83063B75",
+      "importIds": {
+        "yuanshen": ["90_2"]
+      },
+      "popupAttribution": "Yuanshen.site"
+    },
+    {
+      "coordinates": [-23.83177, 23.70989],
+      "id": "B705F8C5C2DD71312F9442E7C029CC7406169A4E",
+      "importIds": {
+        "yuanshen": ["90_3"]
+      },
+      "popupAttribution": "Yuanshen.site"
+    },
+    {
+      "coordinates": [-23.74713, 23.74895],
+      "id": "71B8A5C653A0502F979ADEA7CA225DA6418CD5E3",
+      "importIds": {
+        "yuanshen": ["90_4"]
+      },
+      "popupAttribution": "Yuanshen.site"
+    },
+    {
+      "coordinates": [-23.62735, 23.72291],
+      "id": "397CBE4DEF6E5FD0A055AA503E6BFE39B42E19D6",
+      "importIds": {
+        "yuanshen": ["90_5"]
+      },
+      "popupAttribution": "Yuanshen.site"
+    },
+    {
+      "coordinates": [-23.51146, 23.74115],
+      "id": "E57D856F756F9243577195F3E2059C9063FF6990",
+      "importIds": {
+        "yuanshen": ["90_6"]
+      },
+      "popupAttribution": "Yuanshen.site"
+    },
+    {
+      "coordinates": [-23.40991, 23.75416],
+      "id": "BEA65B3E11B99E45216AD7DBA224884916E73F9B",
+      "importIds": {
+        "yuanshen": ["90_7"]
+      },
+      "popupAttribution": "Yuanshen.site"
+    },
+    {
+      "coordinates": [-23.42552, 23.72682],
+      "id": "6EB6B52DBE05363BBC98E11179B49E43F50F7267",
+      "importIds": {
+        "yuanshen": ["90_8"]
+      },
+      "popupAttribution": "Yuanshen.site"
+    },
+    {
+      "coordinates": [-23.42682, 23.76328],
+      "id": "A4ACFEF0D1470D75B1AFC840E9C473B7F5A0D621",
+      "importIds": {
+        "yuanshen": ["90_9"]
+      },
+      "popupAttribution": "Yuanshen.site"
+    },
+    {
+      "coordinates": [-38.26536, 27.96901],
+      "id": "DD550BC00762AC135931BCCBAA2FCFF199F8C5CC",
+      "importIds": {
+        "yuanshen": ["90_10"]
+      },
+      "popupAttribution": "Yuanshen.site"
+    },
+    {
+      "coordinates": [-38.25756, 27.98984],
+      "id": "1CAF8A269E30045B6C48DC4D73B5C80A3DFFA964",
+      "importIds": {
+        "yuanshen": ["90_11"]
+      },
+      "popupAttribution": "Yuanshen.site"
+    },
+    {
+      "coordinates": [-42.26824, 18.7676],
+      "id": "A4C78975790A89EC7D3FE08217DD6B4E21BE667C",
+      "importIds": {
+        "yuanshen": ["90_12"]
+      },
+      "popupAttribution": "Yuanshen.site"
+    },
+    {
+      "coordinates": [-42.30833, 18.81537],
+      "id": "8EA59135645758B1A6C4D9FD236980FAD8956D54",
+      "importIds": {
+        "yuanshen": ["90_13"]
+      },
+      "popupAttribution": "Yuanshen.site"
+    },
+    {
+      "coordinates": [-36.64948, 22.36744],
+      "id": "11A2DB7F6E63D29C0FFBD1D77FACA83EF6DF7999",
+      "importIds": {
+        "yuanshen": ["90_14"]
+      },
+      "popupAttribution": "Yuanshen.site"
+    },
+    {
+      "coordinates": [-36.66642, 22.39087],
+      "id": "AAED59066AAA41B43DA92B3B86900013214CDDE0",
+      "importIds": {
+        "yuanshen": ["90_15"]
+      },
+      "popupAttribution": "Yuanshen.site"
+    },
+    {
+      "coordinates": [-28.25625, 27.87135],
+      "id": "89FF00C847447A551EBC0E568876A48F3C04E3EE",
+      "importIds": {
+        "yuanshen": ["90_16"]
+      },
+      "popupAttribution": "Yuanshen.site"
+    },
+    {
+      "coordinates": [-28.25104, 27.90391],
+      "id": "E423EE14600D340C1E60AC7C120BE119CD09EBF1",
+      "importIds": {
+        "yuanshen": ["90_17"]
+      },
+      "popupAttribution": "Yuanshen.site"
+    },
+    {
+      "coordinates": [-33.70083, 35.5762],
+      "id": "12F41403913D0B027A672AA57BE41459D6496BF2",
+      "importIds": {
+        "yuanshen": ["90_18"]
+      },
+      "popupAttribution": "Yuanshen.site"
+    },
+    {
+      "coordinates": [-33.71719, 35.55365],
+      "id": "B17D019B4E54E731B240A8B7D8ADE328F3BC0E11",
+      "importIds": {
+        "yuanshen": ["90_19"]
+      },
+      "popupAttribution": "Yuanshen.site"
+    },
+    {
+      "coordinates": [-33.71458, 35.59792],
+      "id": "A18CA90B0A367450AC521270132E9B9C7C1B360C",
+      "importIds": {
+        "yuanshen": ["90_20"]
+      },
+      "popupAttribution": "Yuanshen.site"
+    },
+    {
+      "coordinates": [-35.48611, 23.05681],
+      "id": "EBD5B7B84FADB30404B3B3D11BFEFC4C8784F8EE",
+      "importIds": {
+        "yuanshen": ["90_21"]
+      },
+      "popupAttribution": "Yuanshen.site"
+    }
+  ]
+}
