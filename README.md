@@ -1,13 +1,13 @@
-# NOTICE: THE TEYVAT.MOE PROJECT HAS BEEN SHUT DOWN. THANK YOU FOR YOUR SUPPORT.
+# WELCOME TO 
 
 <p align='center'><img src="https://raw.githubusercontent.com/Teyvat-Moe/teyvat.moe/master/assets/Social.png"></p>
 
 * * *
 
 <p align='center'>
-<a href="https://teyvat.moe/"><b>Teyvat.moe</b></a>
+<a href="https://xastrodev.github.io/astrogg/"><b>TeyvatBOT</b></a>
 <b>|</b>
-<a href="https://beta.teyvat.moe/"><b>Beta Site</b></a>
+<a href="https://xastrodev.github.io/astrogg/"><b>Beta Site</b></a>
 <b>|</b>
 <a href="https://github.com/Teyvat-Moe/Teyvat.moe/wiki">Wiki</a>
 <b>|</b>
