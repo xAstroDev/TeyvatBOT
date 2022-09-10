@@ -32,15 +32,15 @@
 
 ## What is TeyvatBOT?
 
-Teyvat.moe is a free interactive web app for [Genshin Impact](https://genshin.mihoyo.com/), powered by NextJS, [LeafletJS](https://leafletjs.com/reference-1.7.1.html), and community contributions.
+TeyvatBOT is a free interactive web app for [Genshin Impact](https://genshin.mihoyo.com/), powered by NextJS, [LeafletJS](https://leafletjs.com/reference-1.7.1.html), and community contributions.
 
 The site includes a full, high-resolution in-game map, with options to display markers for the locations as well as routes to assist navigation between them. It includes features to mark items as completed (saving the data in local storage or on Google Drive), as well as a powerful and user-friendly editor to submit new marker collections and routes for the site.
 
 There are easy tools available to allow users to contribute their own markers or routes to the map. See [Contributing](https://github.com/Teyvat-Moe/teyvat.moe/wiki/Contributing) for more information.
 
-This project is open source. [Issues](https://github.com/Teyvat-Moe/teyvat.moe/issues) and [pull requests](https://github.com/Teyvat-Moe/teyvat.moe/pulls) are welcome and highly appreciated.
+This project is open source. [Issues](https://github.com/xAstroDev/TeyvatBOT/issues) and [pull requests](https://github.com/Teyvat-Moe/teyvat.moe/pulls) are welcome and highly appreciated.
 
-## Why Teyvat.moe?
+## Why TeyvatBOT?
 
 There are numerous other interactive maps available, but this map has the edge in the following ways:
 
