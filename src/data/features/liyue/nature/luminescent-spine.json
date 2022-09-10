@@ -1,0 +1,218 @@
+{
+  "format": 2,
+  "description": {
+    "en": "The light-emitting part of a firefly. Used in Alchemy."
+  },
+  "enabled": true,
+  "cluster": "on",
+  "respawn": "none",
+  "name": {
+    "en": "Luminescent Spine",
+    "ru": "Светящееся Брюшко",
+    "zh": "萤火虫",
+    "pt": "Espinha Luminescente"
+  },
+  "icons": {
+    "filter": "luminescent-spine",
+    "base": {
+      "marker": true
+    },
+    "done": {
+      "marker": true
+    }
+  },
+  "data": [
+    {
+      "coordinates": [-35.32655, 16.30234],
+      "id": "07C09FA7FCF4E3E00245456CA7C9F2DE8FF6B39D",
+      "importIds": {
+        "yuanshen": ["58_1"]
+      },
+      "popupAttribution": "Yuanshen.site"
+    },
+    {
+      "coordinates": [-35.35727, 16.34468],
+      "id": "4C46EC44791083DFFA30C9170875E4389EE9CA59",
+      "importIds": {
+        "yuanshen": ["58_2"]
+      },
+      "popupAttribution": "Yuanshen.site"
+    },
+    {
+      "coordinates": [-52.25149, 18.08687],
+      "id": "4300732E89250215C4EC61ED52BD349CDEF4C764",
+      "importIds": {
+        "yuanshen": ["58_3"]
+      },
+      "popupAttribution": "Yuanshen.site"
+    },
+    {
+      "coordinates": [-34.35466, 19.48919],
+      "id": "52CA11E93D7C47C30514E27B34564B32B87F3AD7",
+      "importIds": {
+        "yuanshen": ["58_4"]
+      },
+      "popupAttribution": "Yuanshen.site"
+    },
+    {
+      "coordinates": [-39.94071, 22.7043],
+      "id": "3167238E6D823B7FE58E2F0647D5DC7C9FF253A7",
+      "importIds": {
+        "yuanshen": ["58_5"]
+      },
+      "popupAttribution": "Yuanshen.site"
+    },
+    {
+      "coordinates": [-45.6868, 42.42016],
+      "id": "0E7C7C515C6EE07C551B46646984FF2C34489C9C",
+      "importIds": {
+        "yuanshen": ["58_6"]
+      },
+      "popupAttribution": "Yuanshen.site"
+    },
+    {
+      "coordinates": [-45.70635, 42.45532],
+      "id": "CC5A4175B57EE4D081D995E24E28A994D732EFCA",
+      "importIds": {
+        "yuanshen": ["58_7"]
+      },
+      "popupAttribution": "Yuanshen.site"
+    },
+    {
+      "coordinates": [-45.64773, 42.33421],
+      "id": "C2D044F7353B46DE2B25986FCA3FC385BC014899",
+      "importIds": {
+        "yuanshen": ["58_8"]
+      },
+      "popupAttribution": "Yuanshen.site"
+    },
+    {
+      "coordinates": [-30.15429, 29.57634],
+      "id": "86B07005B6B9F48D530D29DF577084416E83D74D",
+      "importIds": {
+        "yuanshen": ["58_9"]
+      },
+      "popupAttribution": "Yuanshen.site"
+    },
+    {
+      "coordinates": [-25.82578, 23.24803],
+      "id": "521C436BA3CD821DC40F906769CC3FF3338880DC",
+      "importIds": {
+        "yuanshen": ["58_10"]
+      },
+      "popupAttribution": "Yuanshen.site"
+    },
+    {
+      "coordinates": [-25.82969, 23.29492],
+      "id": "55B76D4A1E343D42E5B3013C3143152621B0AAA4",
+      "importIds": {
+        "yuanshen": ["58_11"]
+      },
+      "popupAttribution": "Yuanshen.site"
+    },
+    {
+      "coordinates": [-36.44958, 16.25978],
+      "id": "E8BB52B5E5558318A9707E0CFDFEC0D7F8AD0216",
+      "importIds": {
+        "yuanshen": ["58_12"]
+      },
+      "popupAttribution": "Yuanshen.site"
+    },
+    {
+      "coordinates": [-34.8118, 25.65048],
+      "id": "FB47C84B53290A11D33090801F87F441BA45BBA9",
+      "importIds": {
+        "yuanshen": ["58_13"]
+      },
+      "popupAttribution": "Yuanshen.site"
+    },
+    {
+      "coordinates": [-34.69115, 25.62265],
+      "id": "E5464B7E8967038443AA2784EA7210EC1D2333E1",
+      "importIds": {
+        "yuanshen": ["58_14"]
+      },
+      "popupAttribution": "Yuanshen.site"
+    },
+    {
+      "coordinates": [-31.97035, 17.00599],
+      "id": "99DB866D0F9D448471853A95650DC50983626133",
+      "importIds": {
+        "yuanshen": ["58_15"]
+      },
+      "popupAttribution": "Yuanshen.site"
+    },
+    {
+      "coordinates": [-31.89164, 16.99766],
+      "id": "672A542CCF544F77C07FAD81CEB89591CEBC6C43",
+      "importIds": {
+        "yuanshen": ["58_16"]
+      },
+      "popupAttribution": "Yuanshen.site"
+    },
+    {
+      "coordinates": [-39.56876, 20.93386],
+      "id": "53A7735CE7831D9A2262C61D4BBFF1BFB8C33BC7",
+      "importIds": {
+        "yuanshen": ["58_17"]
+      },
+      "popupAttribution": "Yuanshen.site"
+    },
+    {
+      "coordinates": [-39.58829, 20.88308],
+      "id": "7D6CDBA3C5627588E417869E0C0CDCFD8998E30A",
+      "importIds": {
+        "yuanshen": ["58_18"]
+      },
+      "popupAttribution": "Yuanshen.site"
+    },
+    {
+      "coordinates": [-39.56238, 21.18302],
+      "id": "AE63B2BAA429BD4547E6D6A704C39B43E9DA2825",
+      "importIds": {
+        "yuanshen": ["58_19"]
+      },
+      "popupAttribution": "Yuanshen.site"
+    },
+    {
+      "coordinates": [-35.14224, 20.752],
+      "id": "0C35EDD2885068DA133EF13C9988B04A70C32EA3",
+      "importIds": {
+        "yuanshen": ["58_20"]
+      },
+      "popupAttribution": "Yuanshen.site"
+    },
+    {
+      "coordinates": [-30.65598, 19.35703],
+      "id": "A2DFA1B463964ED8D16895CDB56338A7A2F456B4",
+      "importIds": {
+        "yuanshen": ["58_21"]
+      },
+      "popupAttribution": "Yuanshen.site"
+    },
+    {
+      "coordinates": [-30.68592, 19.35833],
+      "id": "3640740E91F1634669AC828C6E79DE9D0B78341A",
+      "importIds": {
+        "yuanshen": ["58_22"]
+      },
+      "popupAttribution": "Yuanshen.site"
+    },
+    {
+      "coordinates": [-30.60388, 19.37656],
+      "id": "905B243DEA3AD6B31CBC4683DD9EF31AFA0D5DBA",
+      "importIds": {
+        "yuanshen": ["58_23"]
+      },
+      "popupAttribution": "Yuanshen.site"
+    },
+    {
+      "coordinates": [-30.57524, 19.4052],
+      "id": "44B918267C70D2B07CAC3B292770E279411EF971",
+      "importIds": {
+        "yuanshen": ["58_24"]
+      },
+      "popupAttribution": "Yuanshen.site"
+    }
+  ]
+}
