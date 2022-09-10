@@ -1,0 +1,280 @@
+{
+  "format": 2,
+  "name": {
+    "en": "Fatui Skirmisher",
+    "ru": "Застрельщик Фатуи",
+    "zh": ""
+  },
+  "description": {
+    "en": "Bulky combatants for the Fatui who wield various elemental powers. Drops Recruit's Insignia."
+  },
+  "enabled": true,
+  "cluster": "on",
+  "respawn": 86400,
+  "icons": {
+    "filter": "fatui-skirmisher",
+    "base": {
+      "marker": true
+    },
+    "done": {
+      "marker": true
+    }
+  },
+  "data": [
+    {
+      "coordinates": [
+        -13.87474,
+        27.48203
+      ],
+      "id": "617F1E6E8B2EF9D9F2DFA0B54FE85D69F2E78D39",
+      "importIds": {
+        "yuanshen": [
+          "37_1"
+        ],
+        "gm_legacy": [
+          "mondstadtFatuiSkirmisher/1"
+        ]
+      },
+      "popupTitle": {
+        "zh": "蒙德先遣队"
+      },
+      "popupContent": {
+        "zh": "这是一个愚人众先遣队【雷锤】"
+      },
+      "popupMedia": "https://yuanshen.site/comment_png/37_1.jpg",
+      "popupAttribution": "Yuanshen.site"
+    },
+    {
+      "coordinates": [
+        -13.94245,
+        27.4638
+      ],
+      "id": "A9D7FBA57E960AB81B55E6033F27159F53052C9E",
+      "importIds": {
+        "yuanshen": [
+          "37_29"
+        ]
+      },
+      "popupTitle": {
+        "zh": "蒙德先遣队"
+      },
+      "popupContent": {
+        "zh": "这是一个愚人众先遣队【风拳】"
+      },
+      "popupMedia": "https://yuanshen.site/comment_png/37_29.jpg",
+      "popupAttribution": "Yuanshen.site"
+    },
+    {
+      "coordinates": [
+        -13.89166,
+        27.38568
+      ],
+      "id": "F357FF5755D61CD31E63CB58F246775FB09BA6F8",
+      "importIds": {
+        "yuanshen": [
+          "37_30"
+        ]
+      },
+      "popupTitle": {
+        "zh": "蒙德先遣队"
+      },
+      "popupContent": {
+        "zh": "这是一个愚人众先遣队【火铳】"
+      },
+      "popupMedia": "https://yuanshen.site/comment_png/37_30.jpg",
+      "popupAttribution": "Yuanshen.site"
+    },
+    {
+      "coordinates": [
+        -30.15859,
+        51.04975
+      ],
+      "id": "A4420077C19B22A95360AA19290D243FB524A81E",
+      "importIds": {
+        "yuanshen": [
+          "37_3"
+        ],
+        "gm_legacy": [
+          "mondstadtFatuiSkirmisher/3"
+        ]
+      },
+      "popupTitle": {
+        "zh": "蒙德先遣队"
+      },
+      "popupContent": {
+        "zh": "这是一个愚人众先遣队【风拳】"
+      },
+      "popupMedia": "https://yuanshen.site/comment_png/37_3.jpg",
+      "popupAttribution": "Yuanshen.site"
+    },
+    {
+      "coordinates": [
+        -24.64688,
+        32.69556
+      ],
+      "id": "6ADB0D958EF0EFE3DED941E1E7AF57288D896336",
+      "importIds": {
+        "yuanshen": [
+          "37_4"
+        ],
+        "gm_legacy": [
+          "mondstadtFatuiSkirmisher/4"
+        ]
+      },
+      "popupTitle": {
+        "zh": "蒙德先遣队"
+      },
+      "popupContent": {
+        "zh": "这是一个愚人众先遣队【水铳】"
+      },
+      "popupMedia": "https://yuanshen.site/comment_png/37_4.jpg",
+      "popupAttribution": "Yuanshen.site"
+    },
+    {
+      "coordinates": [
+        -24.68203,
+        32.67735
+      ],
+      "id": "0AC8DFE0CB0BA998933726B807935C41B594B813",
+      "importIds": {
+        "yuanshen": [
+          "37_31"
+        ]
+      },
+      "popupTitle": {
+        "zh": "蒙德先遣队"
+      },
+      "popupContent": {
+        "zh": "这是一个愚人众先遣队【冰铳】"
+      },
+      "popupMedia": "https://yuanshen.site/comment_png/37_31.jpg",
+      "popupAttribution": "Yuanshen.site"
+    },
+    {
+      "coordinates": [
+        -26.86822,
+        45.62917
+      ],
+      "id": "76C95535696B6C250D1E4A8FF854F191755805BF",
+      "importIds": {
+        "yuanshen": [
+          "37_2"
+        ],
+        "gm_legacy": [
+          "mondstadtFatuiSkirmisher/2"
+        ]
+      },
+      "popupTitle": {
+        "zh": "蒙德先遣队"
+      },
+      "popupContent": {
+        "zh": "这是一个愚人众先遣队【风拳】"
+      },
+      "popupMedia": "https://yuanshen.site/comment_png/37_2.jpg",
+      "popupAttribution": "Yuanshen.site"
+    },
+    {
+      "coordinates": [
+        -26.84089,
+        45.67733
+      ],
+      "id": "70B8C1278024C4F96D23D2BB363033EFAB2C6C95",
+      "importIds": {
+        "yuanshen": [
+          "37_6"
+        ]
+      },
+      "popupTitle": {
+        "zh": "蒙德先遣队"
+      },
+      "popupContent": {
+        "zh": "这是一个愚人众先遣队【岩使】"
+      },
+      "popupMedia": "https://yuanshen.site/comment_png/37_6.jpg",
+      "popupAttribution": "Yuanshen.site"
+    },
+    {
+      "coordinates": [
+        -28.20809,
+        45.38826
+      ],
+      "id": "6BD2D6DD76B693EE56DACC3BC54C1874EE5BD91A",
+      "importIds": {
+        "yuanshen": [
+          "37_5"
+        ],
+        "gm_legacy": [
+          "mondstadtFatuiSkirmisher/5"
+        ]
+      },
+      "popupTitle": {
+        "zh": "蒙德先遣队"
+      },
+      "popupContent": {
+        "zh": "这是一个愚人众先遣队【火铳】"
+      },
+      "popupMedia": "https://yuanshen.site/comment_png/37_5.jpg",
+      "popupAttribution": "Yuanshen.site"
+    },
+    {
+      "coordinates": [
+        -28.23803,
+        45.42995
+      ],
+      "id": "E5D9C92DAF56D4A3EBDD7BD224A4D4BB188D2926",
+      "importIds": {
+        "yuanshen": [
+          "37_13"
+        ]
+      },
+      "popupTitle": {
+        "zh": "蒙德先遣队"
+      },
+      "popupContent": {
+        "zh": "这是一个愚人众先遣队【冰铳】"
+      },
+      "popupMedia": "https://yuanshen.site/comment_png/37_13.jpg",
+      "popupAttribution": "Yuanshen.site"
+    },
+    {
+      "coordinates": [
+        -28.29402,
+        45.38438
+      ],
+      "id": "5EA4A2D1808033A774B81A4D428AF8ACD7295CB9",
+      "importIds": {
+        "yuanshen": [
+          "37_14"
+        ]
+      },
+      "popupTitle": {
+        "zh": "蒙德先遣队"
+      },
+      "popupContent": {
+        "zh": "这是一个愚人众先遣队【雷锤】"
+      },
+      "popupMedia": "https://yuanshen.site/comment_png/37_14.jpg",
+      "popupAttribution": "Yuanshen.site"
+    },
+    {
+      "coordinates": [
+        -30.19246,
+        50.98984
+      ],
+      "id": "A44729C19F9C225BEF0601226176CD2A16011170",
+      "importIds": {
+        "yuanshen": [
+          "37_15"
+        ]
+      },
+      "popupTitle": {
+        "zh": "蒙德先遣队"
+      },
+      "popupContent": {
+        "zh": "这是一个愚人众先遣队【冰铳】"
+      },
+      "popupMedia": "https://yuanshen.site/comment_png/37_15.jpg",
+      "popupAttribution": "Yuanshen.site"
+    }
+  ]
+}

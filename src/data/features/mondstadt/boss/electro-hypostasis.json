@@ -1,0 +1,39 @@
+{
+  "format": 2,
+  "name": {
+    "en": "Electro Hypostasis",
+    "ru": "Электро гипостазис"
+  },
+  "description": {
+    "en": "Aleph; an Electro elemental life form who abandoned its former apperance to reach the highest level of elemental purity. Drops Artifacts and Electro Character Ascension Materials."
+  },
+  "enabled": true,
+  "cluster": "off",
+  "respawn": 180,
+  "icons": {
+    "filter": "electro-hypostasis",
+    "base": {
+      "marker": true,
+      "key": "electro-hypostasis"
+    },
+    "done": {
+      "marker": true,
+      "key": "electro-hypostasis"
+    }
+  },
+  "data": [
+    {
+      "coordinates": [
+        -29.12344,
+        52.36094
+      ],
+      "id": "FBE0816739838FA0336DC613330F01265679E92E",
+      "importIds": {
+        "gm_legacy": [
+          "mondstadtElectroHypostasis/1"
+        ]
+      },
+      "popupAttribution": "MasterEric"
+    }
+  ]
+}

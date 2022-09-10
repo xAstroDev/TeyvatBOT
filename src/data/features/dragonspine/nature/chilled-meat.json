@@ -1,0 +1,306 @@
+{
+  "format": 2,
+  "name": {
+    "en": "Chilled Meat"
+  },
+  "description": {
+    "en": "For the gourmets of Teyvat, this is an ingredient of unspeakable sacrosanctness. Used in Recipes."
+  },
+  "enabled": true,
+  "cluster": "on",
+  "respawn": "none",
+  "icons": {
+    "filter": "chilled-meat",
+    "base": {
+      "marker": true
+    },
+    "done": {
+      "marker": true
+    }
+  },
+  "data": [
+    {
+      "coordinates": [
+        -35.58697,
+        44.28802
+      ],
+      "id": "124BEB679738FD40A53D9F2C6FBAFF4076EBA9E4",
+      "importIds": {
+        "yuanshen": [
+          "112_1"
+        ]
+      },
+      "popupTitle": {
+        "zh": "冷鲜肉"
+      },
+      "popupContent": {
+        "zh": "击杀冻住的野猪可获得2块冷鲜肉"
+      },
+      "popupMedia": "https://yuanshen.site/comment_png/112_1.jpg",
+      "popupAttribution": "Yuanshen.site"
+    },
+    {
+      "coordinates": [
+        -34.81485,
+        44.70728
+      ],
+      "id": "05BE00ECCBB96CC3DE1643BA8E4691005B4D7A93",
+      "importIds": {
+        "yuanshen": [
+          "112_2"
+        ]
+      },
+      "popupTitle": {
+        "zh": "冷鲜肉"
+      },
+      "popupContent": {
+        "zh": "击杀冻住的野猪可获得2块冷鲜肉"
+      },
+      "popupMedia": "https://yuanshen.site/comment_png/112_2.jpg",
+      "popupAttribution": "Yuanshen.site"
+    },
+    {
+      "coordinates": [
+        -35.54309,
+        44.30588
+      ],
+      "id": "2AA5D3ECC6966D92C0472A5CCBB80D3C98C57403",
+      "importIds": {
+        "yuanshen": [
+          "112_3"
+        ]
+      },
+      "popupTitle": {
+        "zh": "冷鲜肉"
+      },
+      "popupContent": {
+        "zh": "击杀冻住的野猪可获得2块冷鲜肉"
+      },
+      "popupMedia": "https://yuanshen.site/comment_png/112_3.jpg",
+      "popupAttribution": "Yuanshen.site"
+    },
+    {
+      "coordinates": [
+        -33.59219,
+        45.0862
+      ],
+      "id": "55D5D11C6EC152D8AB02178C58A4E0F8AB7CB26C",
+      "importIds": {
+        "yuanshen": [
+          "112_4"
+        ]
+      },
+      "popupTitle": {
+        "zh": "冷鲜肉"
+      },
+      "popupContent": {
+        "zh": "击杀冻住的野猪可获得2块冷鲜肉"
+      },
+      "popupMedia": "https://yuanshen.site/comment_png/112_4.jpg",
+      "popupAttribution": "Yuanshen.site"
+    },
+    {
+      "coordinates": [
+        -34.0551,
+        45.18435
+      ],
+      "id": "C22C5B5B992BDC538AD7CE8C389BB8CD56B2E814",
+      "importIds": {
+        "yuanshen": [
+          "112_5"
+        ]
+      },
+      "popupTitle": {
+        "zh": "冷鲜肉"
+      },
+      "popupContent": {
+        "zh": "击杀冻住的野猪可获得2块冷鲜肉"
+      },
+      "popupMedia": "https://yuanshen.site/comment_png/112_5.jpg",
+      "popupAttribution": "Yuanshen.site"
+    },
+    {
+      "coordinates": [
+        -31.58177,
+        43.94948
+      ],
+      "id": "82ED9C459D2AE7A15E212CE0900CE990CCC4CC5E",
+      "importIds": {
+        "yuanshen": [
+          "112_8"
+        ]
+      },
+      "popupTitle": {
+        "zh": "冷鲜肉"
+      },
+      "popupContent": {
+        "zh": "击杀冻住的野猪可获得2块冷鲜肉"
+      },
+      "popupMedia": "https://yuanshen.site/comment_png/112_8.jpg",
+      "popupAttribution": "Yuanshen.site"
+    },
+    {
+      "coordinates": [
+        -32.07135,
+        43.9026
+      ],
+      "id": "291DAE70A47635F3E3E47C71650BF572916E0155",
+      "importIds": {
+        "yuanshen": [
+          "112_9"
+        ]
+      },
+      "popupTitle": {
+        "zh": "冷鲜肉"
+      },
+      "popupContent": {
+        "en": "Three lullabies in an ancient tongue, for the court of the Snowboar King.",
+        "zh": "击杀冻住的野猪可获得2块冷鲜肉"
+      },
+      "popupMedia": "https://yuanshen.site/comment_png/112_9.jpg",
+      "popupAttribution": "Yuanshen.site"
+    },
+    {
+      "coordinates": [
+        -32.1625,
+        43.85703
+      ],
+      "id": "B90FCAD93B95956A3D8A099DE88D1404765A715B",
+      "importIds": {
+        "yuanshen": [
+          "112_10"
+        ]
+      },
+      "popupTitle": {
+        "zh": "冷鲜肉"
+      },
+      "popupContent": {
+        "en": "Three lullabies in an ancient tongue, for the court of the Snowboar King.",
+        "zh": "击杀冻住的野猪可获得2块冷鲜肉"
+      },
+      "popupMedia": "https://yuanshen.site/comment_png/112_10.jpg",
+      "popupAttribution": "Yuanshen.site"
+    },
+    {
+      "coordinates": [
+        -32.29269,
+        43.90521
+      ],
+      "id": "2DB5F0F47AAD12453B670DD2822641F9E6A15149",
+      "importIds": {
+        "yuanshen": [
+          "112_11"
+        ]
+      },
+      "popupTitle": {
+        "zh": "冷鲜肉"
+      },
+      "popupContent": {
+        "en": "Three lullabies in an ancient tongue, for the court of the Snowboar King.",
+        "zh": "击杀冻住的野猪可获得2块冷鲜肉"
+      },
+      "popupMedia": "https://yuanshen.site/comment_png/112_11.jpg",
+      "popupAttribution": "Yuanshen.site"
+    },
+    {
+      "coordinates": [
+        -32.96587,
+        45.10705
+      ],
+      "id": "4AF3A940E5DF99737E2B774074909F8DB76E46E6",
+      "importIds": {
+        "yuanshen": [
+          "112_12"
+        ]
+      },
+      "popupTitle": {
+        "zh": "冷鲜肉"
+      },
+      "popupContent": {
+        "zh": "击杀冻住的野猪可获得2块冷鲜肉"
+      },
+      "popupMedia": "https://yuanshen.site/comment_png/112_12.jpg",
+      "popupAttribution": "Yuanshen.site"
+    },
+    {
+      "coordinates": [
+        -32.98021,
+        45.1526
+      ],
+      "id": "4519A30EACD152A5AD311A760C9ACF8499228A2C",
+      "importIds": {
+        "yuanshen": [
+          "112_13"
+        ]
+      },
+      "popupTitle": {
+        "zh": "冷鲜肉"
+      },
+      "popupContent": {
+        "zh": "击杀冻住的野猪可获得2块冷鲜肉"
+      },
+      "popupMedia": "https://yuanshen.site/comment_png/112_13.jpg",
+      "popupAttribution": "Yuanshen.site"
+    },
+    {
+      "coordinates": [
+        -35.58114,
+        42.62056
+      ],
+      "id": "57FC1264922199A9595DF49C1540B188CA8A8FFF",
+      "importIds": {
+        "yuanshen": [
+          "112_14"
+        ]
+      },
+      "popupTitle": {
+        "zh": "冷鲜肉"
+      },
+      "popupContent": {
+        "zh": "击杀冻住的野猪可获得2块冷鲜肉"
+      },
+      "popupMedia": "https://yuanshen.site/comment_png/112_14.jpg",
+      "popupAttribution": "Yuanshen.site"
+    },
+    {
+      "coordinates": [
+        -34.97052,
+        42.9031
+      ],
+      "id": "EE18357AD1F6C06BA8DC6A20E4B3B04FD6F9831D",
+      "importIds": {
+        "yuanshen": [
+          "112_15"
+        ]
+      },
+      "popupTitle": {
+        "zh": "冷鲜肉"
+      },
+      "popupContent": {
+        "zh": "击杀冻住的野猪可获得2块冷鲜肉"
+      },
+      "popupMedia": "https://yuanshen.site/comment_png/112_15.jpg",
+      "popupAttribution": "Yuanshen.site"
+    },
+    {
+      "coordinates": [
+        -31.74035,
+        39.27503
+      ],
+      "id": "C9F310C9B54476B9513C476652363EA78A224752",
+      "importIds": {
+        "yuanshen": [
+          "112_16"
+        ]
+      },
+      "popupTitle": {
+        "zh": "冷鲜肉"
+      },
+      "popupContent": {
+        "zh": "击杀冻住的野猪可获得2块冷鲜肉"
+      },
+      "popupMedia": "https://yuanshen.site/comment_png/112_16.jpg",
+      "popupAttribution": "Yuanshen.site"
+    }
+  ]
+}

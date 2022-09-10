@@ -1,0 +1,324 @@
+{
+  "format": 2,
+  "name": {
+    "en": "Viewpoint",
+    "ru": "Точка обзора"
+  },
+  "description": {
+    "en": "Collect the marker to add a new image to your Archive."
+  },
+  "enabled": true,
+  "cluster": "off",
+  "respawn": "none",
+  "icons": {
+    "filter": "viewpoint",
+    "base": {
+      "marker": true,
+      "key": "viewpoint"
+    },
+    "done": {
+      "marker": true,
+      "key": "viewpoint"
+    }
+  },
+  "data": [
+    {
+      "coordinates": [
+        -45.1,
+        29.95078
+      ],
+      "id": "E008F5AF5E1A9B831D144E8B8F8033A43E2930BF",
+      "importIds": {
+        "gm_legacy": [
+          "liyueViewpoint/1"
+        ]
+      },
+      "popupAttribution": "MasterEric",
+      "popupTitle": {
+        "en": "Where Merchants Flock And All Ships Dock"
+      },
+      "popupMedia": "liyue/viewpoint/where-merchants-flock"
+    },
+    {
+      "coordinates": [
+        -49.1,
+        28.81797
+      ],
+      "id": "7F9532C51E2CD2F731259F17544791177A0EC061",
+      "importIds": {
+        "gm_legacy": [
+          "liyueViewpoint/2"
+        ]
+      },
+      "popupAttribution": "MasterEric",
+      "popupTitle": {
+        "en": "Feiyun Slope"
+      },
+      "popupMedia": "liyue/viewpoint/feiyun-slope"
+    },
+    {
+      "coordinates": [
+        -49.90859,
+        30.18516
+      ],
+      "id": "202AF9EE286B21BE6D69478E2CEDCBB9B6F06F20",
+      "importIds": {
+        "gm_legacy": [
+          "liyueViewpoint/3"
+        ]
+      },
+      "popupAttribution": "MasterEric",
+      "popupTitle": {
+        "en": "Chihu Rock"
+      },
+      "popupMedia": "liyue/viewpoint/chihu-rock"
+    },
+    {
+      "coordinates": [
+        -47.23672,
+        27.62657
+      ],
+      "id": "0388CCCEBC0DBCA915D1FC6369F4A7A8CDB25F2B",
+      "importIds": {
+        "gm_legacy": [
+          "liyueViewpoint/4"
+        ]
+      },
+      "popupAttribution": "MasterEric",
+      "popupTitle": {
+        "en": "Yujing Terrace"
+      },
+      "popupContent": {
+        "en": "This one is located on the Pharmacy's roof."
+      },
+      "popupMedia": "liyue/viewpoint/yujing-terrace"
+    },
+    {
+      "coordinates": [
+        -30.40859,
+        29.51328
+      ],
+      "id": "3C6CCDB6513EC6E22F4E5042A7C38452AE2C6DBD",
+      "importIds": {
+        "gm_legacy": [
+          "liyueViewpoint/5"
+        ]
+      },
+      "popupAttribution": "MasterEric",
+      "popupTitle": {
+        "en": "Vigilant Guardians' Vantage Point"
+      },
+      "popupMedia": "liyue/viewpoint/vigilant-guardians"
+    },
+    {
+      "coordinates": [
+        -26.95938,
+        29.76719
+      ],
+      "id": "3CDC1895A6579749C354F653BD8CBB470B6FD440",
+      "importIds": {
+        "gm_legacy": [
+          "liyueViewpoint/6"
+        ]
+      },
+      "popupAttribution": "MasterEric",
+      "popupTitle": {
+        "en": "Marsh of Rustling Reeds"
+      },
+      "popupMedia": "liyue/viewpoint/marsh-of-rustling-reeds"
+    },
+    {
+      "coordinates": [
+        -38.13515,
+        29.17344
+      ],
+      "id": "B7E4ABF5CE5A2B3117C4CED4AFE1284CA9040AC2",
+      "importIds": {
+        "gm_legacy": [
+          "liyueViewpoint/7"
+        ]
+      },
+      "popupAttribution": "MasterEric",
+      "popupTitle": {
+        "en": "Ruins of Guili"
+      },
+      "popupMedia": "liyue/viewpoint/ruins-of-guili"
+    },
+    {
+      "coordinates": [
+        -23.42813,
+        23.78672
+      ],
+      "id": "241C9E626D3396C5CF6B81E69955407044732444",
+      "importIds": {
+        "gm_legacy": [
+          "liyueViewpoint/8"
+        ]
+      },
+      "popupAttribution": "MasterEric",
+      "popupTitle": {
+        "en": "A Home in the Hills"
+      },
+      "popupMedia": "liyue/viewpoint/home-in-the-hills"
+    },
+    {
+      "coordinates": [
+        -35.72109,
+        20.81015
+      ],
+      "id": "CAD49D0A3309704E667D46DB7005F3919479A610",
+      "importIds": {
+        "gm_legacy": [
+          "liyueViewpoint/9"
+        ]
+      },
+      "popupAttribution": "MasterEric",
+      "popupTitle": {
+        "en": "Where Mountains Peak Beyond The Clouds"
+      },
+      "popupMedia": "liyue/viewpoint/where-mountains-peak"
+    },
+    {
+      "coordinates": [
+        -35.60781,
+        15.38438
+      ],
+      "id": "E021F6E837B266CD4D3A67825F8615690DD89E71",
+      "importIds": {
+        "gm_legacy": [
+          "liyueViewpoint/10"
+        ]
+      },
+      "popupAttribution": "MasterEric",
+      "popupTitle": {
+        "en": "Moonlit Tree"
+      },
+      "popupMedia": "liyue/viewpoint/moonlit-tree"
+    },
+    {
+      "coordinates": [
+        -33.9125,
+        16.89219
+      ],
+      "id": "B3F6A407756C27965C333834964C736F28151DAA",
+      "importIds": {
+        "gm_legacy": [
+          "liyueViewpoint/11"
+        ]
+      },
+      "popupAttribution": "MasterEric",
+      "popupTitle": {
+        "en": "Mist-Veiled Stone Forest"
+      },
+      "popupMedia": "liyue/viewpoint/mist-veiled-stone-forest"
+    },
+    {
+      "coordinates": [
+        -40.19375,
+        23.78672
+      ],
+      "id": "720FCC3C2F4070A4F682D0B431EE0C9CA0172734",
+      "importIds": {
+        "gm_legacy": [
+          "liyueViewpoint/12"
+        ]
+      },
+      "popupAttribution": "MasterEric",
+      "popupTitle": {
+        "en": "Weeping Garden"
+      },
+      "popupMedia": "liyue/viewpoint/weeping-garden"
+    },
+    {
+      "coordinates": [
+        -43.99453,
+        34.48985
+      ],
+      "id": "2692949D38CBFBCE54A9308AEF60F7C05B2559FE",
+      "importIds": {
+        "gm_legacy": [
+          "liyueViewpoint/13"
+        ]
+      },
+      "popupAttribution": "MasterEric",
+      "popupTitle": {
+        "en": "A Drop in the Ocean"
+      },
+      "popupContent": {
+        "en": "Up on the rocks a bit, but not on top of the cliff."
+      },
+      "popupMedia": "liyue/viewpoint/a-drop-in-the-ocean"
+    },
+    {
+      "coordinates": [
+        -49.8461,
+        19.74375
+      ],
+      "id": "CAC4C8AEA9AA346A2F929E171EB80ED8A5DDE279",
+      "importIds": {
+        "gm_legacy": [
+          "liyueViewpoint/14"
+        ]
+      },
+      "popupAttribution": "MasterEric",
+      "popupTitle": {
+        "en": "Beyond the Chasm"
+      },
+      "popupMedia": "liyue/viewpoint/beyond-the-chasm"
+    },
+    {
+      "coordinates": [
+        -46.38125,
+        19.45469
+      ],
+      "id": "6A7DB47D430DBDF9501D24BAAD3A97AE3C492311",
+      "importIds": {
+        "gm_legacy": [
+          "liyueViewpoint/15"
+        ]
+      },
+      "popupAttribution": "MasterEric",
+      "popupTitle": {
+        "en": "Dunyu Ruins"
+      },
+      "popupMedia": "liyue/viewpoint/dunyu-ruins"
+    },
+    {
+      "coordinates": [
+        -52.01407,
+        20.12266
+      ],
+      "id": "F7FCA9EC15D32B222B5F5C561BA186F0E6375509",
+      "importIds": {
+        "gm_legacy": [
+          "liyueViewpoint/16"
+        ]
+      },
+      "popupAttribution": "MasterEric",
+      "popupTitle": {
+        "en": "Qingxu's Forsaken Tower"
+      },
+      "popupMedia": "liyue/viewpoint/qingxus-forsaken-tower"
+    },
+    {
+      "coordinates": [
+        -38.27187,
+        24.1539
+      ],
+      "id": "B016B62696FD33A288E861241AB47CF21D93EB82",
+      "importIds": {
+        "gm_legacy": [
+          "liyueViewpoint/17"
+        ]
+      },
+      "popupAttribution": "MasterEric",
+      "popupTitle": {
+        "en": "Nine Pillars of Peace"
+      },
+      "popupContent": {
+        "en": "At ground level between the cliffs."
+      },
+      "popupMedia": "liyue/viewpoint/nine-pillars-of-peace"
+    }
+  ]
+}

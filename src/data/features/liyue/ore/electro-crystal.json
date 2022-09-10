@@ -1,0 +1,134 @@
+{
+  "format": 2,
+  "name": {
+    "en": "Electro Crystal",
+    "zh": ""
+  },
+  "description": {
+    "en": "Purple electric crystals used for various recipes. Use Pyro to create an Overload reaction in order to harvest."
+  },
+  "enabled": true,
+  "cluster": "on",
+  "respawn": 172800,
+  "icons": {
+    "filter": "electro-crystal",
+    "base": {
+      "marker": true
+    },
+    "done": {
+      "marker": true
+    }
+  },
+  "data": [
+    {
+      "coordinates": [
+        -41.6625,
+        25.72422
+      ],
+      "id": "3671B0E0CBC344E15E10F48634542ABE4595D131",
+      "importIds": {
+        "gm_legacy": [
+          "liyueElectroCrystal/1"
+        ],
+        "yuanshen": [
+          "54_1"
+        ]
+      },
+      "popupTitle": {
+        "zh": "电气水晶"
+      },
+      "popupContent": {
+        "zh": "这是一块电气水晶"
+      },
+      "popupAttribution": "Yuanshen.site"
+    },
+    {
+      "coordinates": [
+        -41.68984,
+        25.80234
+      ],
+      "id": "C3E8C9409FE9CEE018B5EF44248F1E5E36173CA5",
+      "importIds": {
+        "gm_legacy": [
+          "liyueElectroCrystal/2"
+        ],
+        "yuanshen": [
+          "54_2"
+        ]
+      },
+      "popupTitle": {
+        "zh": "电气水晶"
+      },
+      "popupContent": {
+        "zh": "这是一块电气水晶"
+      },
+      "popupAttribution": "Yuanshen.site"
+    },
+    {
+      "coordinates": [
+        -41.7836,
+        25.75156
+      ],
+      "id": "C09C8D7959ADB23AD25BFFA952EE2837393C93EE",
+      "importIds": {
+        "gm_legacy": [
+          "liyueElectroCrystal/3"
+        ],
+        "yuanshen": [
+          "54_3"
+        ]
+      },
+      "popupTitle": {
+        "zh": "电气水晶"
+      },
+      "popupContent": {
+        "zh": "这是一块电气水晶"
+      },
+      "popupAttribution": "Yuanshen.site"
+    },
+    {
+      "coordinates": [
+        -27.95547,
+        17.89219
+      ],
+      "id": "060BD80E2EE28417E7F7715068142D244FE265EF",
+      "importIds": {
+        "gm_legacy": [
+          "liyueElectroCrystal/4"
+        ],
+        "yuanshen": [
+          "54_4"
+        ]
+      },
+      "popupTitle": {
+        "zh": "电气水晶"
+      },
+      "popupContent": {
+        "zh": "这是一块电气水晶"
+      },
+      "popupAttribution": "Yuanshen.site"
+    },
+    {
+      "coordinates": [
+        -28.01407,
+        17.91172
+      ],
+      "id": "13353D6FAA97F2642FCF9646853BB102D705982F",
+      "importIds": {
+        "gm_legacy": [
+          "liyueElectroCrystal/5"
+        ],
+        "yuanshen": [
+          "54_5"
+        ]
+      },
+      "popupTitle": {
+        "zh": "电气水晶"
+      },
+      "popupContent": {
+        "zh": "这是一块电气水晶"
+      },
+      "popupAttribution": "Yuanshen.site"
+    }
+  ]
+}

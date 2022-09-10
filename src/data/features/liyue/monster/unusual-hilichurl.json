@@ -1,0 +1,253 @@
+{
+  "format": 2,
+  "name": {
+    "en": "Unusual Hilichurl",
+    "ru": "Странный Хиличурл",
+    "zh": "大伟丘"
+  },
+  "description": {
+    "en": "An oddly dressed Hilichurl sharing a resemblence to Wei, miHoYo's founder. Drops Adventure EXP and Cabbage.",
+    "zh": "击杀一只后将再随机刷新一只（每12小时重置）……"
+  },
+  "enabled": true,
+  "cluster": "off",
+  "respawn": 43200,
+  "icons": {
+    "filter": "unusual-hilichurl",
+    "base": {
+      "marker": true
+    },
+    "done": {
+      "marker": true
+    }
+  },
+  "data": [
+    {
+      "coordinates": [
+        -38.49659,
+        23.1173
+      ],
+      "id": "A0F021905FC12126CE854CDBA32A24A1575E0C65",
+      "importIds": {
+        "gm_legacy": [
+          "liyueUnusualHilichurl/1"
+        ],
+        "yuanshen": [
+          "98_5"
+        ]
+      },
+      "popupAttribution": "MasterEric",
+      "popupTitle": {
+        "en": "#4: Cuijue Slope"
+      },
+      "popupContent": {
+        "en": "Wei can appear outside the temple at Cuijue Slope."
+      },
+      "popupMedia": "liyue/wei/4"
+    },
+    {
+      "coordinates": [
+        -49.12344,
+        21.18125
+      ],
+      "id": "6F5479311A647CC62CA83A6EC0D841AD609298DE",
+      "importIds": {
+        "gm_legacy": [
+          "liyueUnusualHilichurl/2"
+        ],
+        "yuanshen": [
+          "98_9"
+        ]
+      },
+      "popupAttribution": "MasterEric",
+      "popupTitle": {
+        "en": "#5: Linju Pass"
+      },
+      "popupContent": {
+        "en": "Wei can appear on a cliff overlooking Linju Pass."
+      },
+      "popupMedia": "liyue/wei/5"
+    },
+    {
+      "coordinates": [
+        -44.55313,
+        30.76719
+      ],
+      "id": "5B4706A03C55D4C3990C1422B411AA3577C1E383",
+      "importIds": {
+        "gm_legacy": [
+          "liyueUnusualHilichurl/3"
+        ],
+        "yuanshen": [
+          "98_8"
+        ]
+      },
+      "popupAttribution": "MasterEric",
+      "popupTitle": {
+        "en": "#6: Liyue Harbor"
+      },
+      "popupContent": {
+        "en": "Wei can appear on this cliff, which overlooks Liyue Harbor and the Guyun Stone Forest."
+      },
+      "popupMedia": "liyue/wei/6"
+    },
+    {
+      "coordinates": [
+        -33.9711,
+        16.88437
+      ],
+      "id": "95AB3F520F31367AF48F0E2665AE03BA5DB9FA5D",
+      "importIds": {
+        "gm_legacy": [
+          "liyueUnusualHilichurl/8"
+        ],
+        "yuanshen": [
+          "98_6"
+        ]
+      },
+      "popupAttribution": "MasterEric",
+      "popupTitle": {
+        "en": "#8: Qingyun Peak"
+      },
+      "popupContent": {
+        "en": "Wei can be found west of the teleporter, overlooking the ledge."
+      },
+      "popupMedia": "liyue/wei/8"
+    },
+    {
+      "coordinates": [
+        -22.87344,
+        25.63437
+      ],
+      "id": "886ED5991E9C93F22B605226FF54E68E3A1FA7B1",
+      "importIds": {
+        "gm_legacy": [
+          "liyueUnusualHilichurl/9"
+        ],
+        "yuanshen": [
+          "98_1"
+        ]
+      },
+      "popupAttribution": "MasterEric",
+      "popupTitle": {
+        "en": "#9: Qingce Village"
+      },
+      "popupContent": {
+        "en": "Wei can appear lounging on this ledge in the fields near Qingce Village."
+      },
+      "popupMedia": "liyue/wei/9"
+    },
+    {
+      "coordinates": [
+        -41.12735,
+        18.26718
+      ],
+      "id": "8AC9ACF1982A66A3ACCBE0747C7E988909258ED4",
+      "importIds": {
+        "gm_legacy": [
+          "liyueUnusualHilichurl/12"
+        ],
+        "yuanshen": [
+          "98_7"
+        ]
+      },
+      "popupAttribution": "MasterEric",
+      "popupTitle": {
+        "en": "#12: Tianqiu Valley"
+      },
+      "popupContent": {
+        "en": "Wei can appear east of the Tianqiu Valley temple on the ruined bridge, overlooking the ruins."
+      },
+      "popupMedia": "liyue/wei/12"
+    },
+    {
+      "coordinates": [
+        -50.62237,
+        20.89101
+      ],
+      "id": "2494C2A28424A65E361FB68EAE101699223ACB29",
+      "importIds": {
+        "gm_legacy": [
+          "liyueUnusualHilichurl/15"
+        ]
+      },
+      "popupAttribution": "MasterEric",
+      "popupTitle": {
+        "en": "#15: North Qingxu Pool"
+      },
+      "popupContent": {
+        "en": "Wei can appear on a bridge north of Qingxu Pool. *PICTURE NEEDED*"
+      },
+      "popupMedia": ""
+    },
+    {
+      "coordinates": [
+        -26.15468,
+        30.17344
+      ],
+      "id": "F12250624BF43D0B74E4F85951CF696A37D17FAA",
+      "importIds": {
+        "gm_legacy": [
+          "liyueUnusualHilichurl/16"
+        ],
+        "yuanshen": [
+          "98_3"
+        ]
+      },
+      "popupAttribution": "MasterEric",
+      "popupTitle": {
+        "en": "#16: Stone Gate"
+      },
+      "popupContent": {
+        "en": "Wei can appear on one of the peaks above Stone Gate. *PICTURE NEEDED*"
+      },
+      "popupMedia": ""
+    },
+    {
+      "coordinates": [
+        -35.85781,
+        36.18516
+      ],
+      "id": "52BBDADCC4C205A6918FF6C6EB7CAA25213EB6E8",
+      "importIds": {
+        "gm_legacy": [
+          "liyueUnusualHilichurl/17"
+        ],
+        "yuanshen": [
+          "98_2"
+        ]
+      },
+      "popupAttribution": "MasterEric",
+      "popupTitle": {
+        "en": "#17: South Mingyun Village"
+      },
+      "popupContent": {
+        "en": "Wei can appear south of Mingyun Village overlooking Yaoguang Shoal."
+      },
+      "popupMedia": "liyue/wei/17"
+    },
+    {
+      "coordinates": [
+        -36.0375,
+        19.91953
+      ],
+      "id": "F95338AF4E9DEEBDC6AAA0CA92C1D9ED5FCA3926",
+      "importIds": {
+        "gm_legacy": [
+          "liyueUnusualHilichurl/19"
+        ],
+        "yuanshen": [
+          "98_4"
+        ]
+      },
+      "popupAttribution": "MasterEric",
+      "popupTitle": {
+        "en": "#19: Jueyun Karst"
+      },
+      "popupContent": {
+        "en": "Wei can be found beside the Domain at Jueyun Karst. *PICTURE NEEDED*"
+      },
+      "popupMedia": ""
+    }
+  ]
+}

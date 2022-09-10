@@ -1,0 +1,44 @@
+{
+  "format": 2,
+  "name": {
+    "en": "Luxurious Chest",
+    "ru": "Роскошный сундук"
+  },
+  "description": {
+    "en": "A gorgeous porcelain chest framed with gold. Contains powerful rewards."
+  },
+  "enabled": false,
+  "cluster": "on",
+  "respawn": "none",
+  "icons": {
+    "filter": "luxurious-chest",
+    "base": {
+      "marker": true
+    },
+    "done": {
+      "marker": true
+    }
+  },
+  "data": [
+    {
+      "coordinates": [
+        -32.28359,
+        47.29453
+      ],
+      "id": "1A60390E10CB97E93F80E691D6B727764ADB7F1C",
+      "importIds": {
+        "gm_legacy": [
+          "dragonspineLuxuriousChest/15"
+        ]
+      },
+      "popupAttribution": "Unknown",
+      "popupTitle": {
+        "en": "Luxurious Chest"
+      },
+      "popupContent": {
+        "en": "Break the Scarlet Quartz on the north cliff in Mondstadt, glide over, and break the ice to reveal the chest. Contains Crimson Agate."
+      },
+      "popupMedia": "https://www.youtube.com/watch?v=6ydUPk7fF-A"
+    }
+  ]
+}

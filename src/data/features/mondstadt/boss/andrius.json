@@ -1,0 +1,39 @@
+{
+  "format": 2,
+  "name": {
+    "en": "Andrius (Lupus Boreas)",
+    "ru": "Андриус (Лупус Бореалис)"
+  },
+  "description": {
+    "en": "The Wolf of the North. Can be fought once a week for special rewards."
+  },
+  "enabled": true,
+  "cluster": "off",
+  "respawn": "boss",
+  "icons": {
+    "filter": "andrius",
+    "base": {
+      "marker": true,
+      "key": "andrius"
+    },
+    "done": {
+      "marker": true,
+      "key": "andrius"
+    }
+  },
+  "data": [
+    {
+      "coordinates": [
+        -22.09219,
+        34.68906
+      ],
+      "id": "1A8D95BDC00D731B4E6B53FE6A4F5DE71CC6A836",
+      "importIds": {
+        "gm_legacy": [
+          "mondstadtAndrius/1"
+        ]
+      },
+      "popupAttribution": "MasterEric"
+    }
+  ]
+}

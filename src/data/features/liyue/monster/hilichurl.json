@@ -1,0 +1,52 @@
+{
+  "format": 2,
+  "name": {
+    "en": "Hilichurl",
+    "ru": "Хиличурл"
+  },
+  "description": {
+    "en": "Basic Hilichurls who attack with claws or clubs. Drops Stained Masks."
+  },
+  "enabled": true,
+  "cluster": "on",
+  "respawn": 86400,
+  "icons": {
+    "filter": "hilichurl",
+    "base": {
+      "marker": true
+    },
+    "done": {
+      "marker": true
+    }
+  },
+  "data": [
+    {
+      "coordinates": [
+        -32.81425,
+        30.46553
+      ],
+      "id": "95C9BA2C5CC5AEEF121CFB1C04B4DFAFD7A2F7AA",
+      "importIds": {
+        "gm_legacy": [
+          "liyueHilichurl/1"
+        ]
+      },
+      "popupAttribution": "Unknown",
+      "popupMedia": ""
+    },
+    {
+      "coordinates": [
+        -28.84153,
+        28.9541
+      ],
+      "id": "10095D38CEEC0B6BEE050CFF5B3B42FB2CA3C663",
+      "importIds": {
+        "gm_legacy": [
+          "liyueHilichurl/2"
+        ]
+      },
+      "popupAttribution": "Unknown",
+      "popupMedia": ""
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "format": 2,
+  "name": {
+    "en": "Precious Chest",
+    "ru": "Драгоценный сундук"
+  },
+  "description": {
+    "en": ""
+  },
+  "enabled": false,
+  "cluster": "variable",
+  "respawn": "none",
+  "icons": {
+    "filter": "precious-chest",
+    "base": {
+      "marker": true
+    },
+    "done": {
+      "marker": true
+    }
+  },
+  "data": [
+
+  ]
+}

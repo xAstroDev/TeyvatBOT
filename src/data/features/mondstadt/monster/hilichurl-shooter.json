@@ -1,0 +1,25 @@
+{
+  "format": 2,
+  "name": {
+    "en": "Hilichurl Shooter",
+    "ru": "Хиличурл-стрелок"
+  },
+  "description": {
+    "en": "Hilichurls who have learned to use bows to attack at range, sometimes with elemental powers. Drops Arrowheads."
+  },
+  "enabled": false,
+  "cluster": "on",
+  "respawn": 86400,
+  "icons": {
+    "filter": "hilichurl-shooter",
+    "base": {
+      "marker": true
+    },
+    "done": {
+      "marker": true
+    }
+  },
+  "data": [
+
+  ]
+}
