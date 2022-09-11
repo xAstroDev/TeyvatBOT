@@ -1,4 +1,4 @@
-# GenshinMap.github.io
+# TeyvatBOT
 
 [Instructions for use (untranslated)](https://bbs.mihoyo.com/ys/article/1328298)
 
