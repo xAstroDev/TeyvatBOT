@@ -1,52 +1,46 @@
-<p align='center'><img src="https://raw.githubusercontent.com/Teyvat-Moe/teyvat.moe/master/assets/Social.png"></p>
+# WELCOME TO **TeyvatBOT**
+
+<p align='center'><img src="https://i.pinimg.com/736x/28/29/ea/2829ea0945a0977f887a805f88e9c6f1.jpg"></p>
 
 * * *
 
 <p align='center'>
-<a href="https://teyvat.moe/"><b>Teyvat.moe</b></a>
+<a href="https://xastrodev.github.io/TeyvatBOT/"><b>TeyvatBOT</b></a>
 <b>|</b>
-<a href="https://beta.teyvat.moe/"><b>Beta Site</b></a>
+<a href="https://xastrodev.github.io/TeyvatBOT/"><b>Beta Site</b></a>
 <b>|</b>
-<a href="https://github.com/Teyvat-Moe/Teyvat.moe/wiki">Wiki</a>
+<a href="https://github.com/xAstroDev/TeyvatBOT/wiki">Wiki</a>
 <b>|</b>
-<a href="https://github.com/Teyvat-Moe/Teyvat.moe/blob/master/CHANGELOG.md">Changelog</a>
-
+<a href="https://github.com/xAstroDev/TeyvatBOT/blob/master/CHANGELOG.md">Changelog</a>
+<b>|</b>
   <br/><br/>
-<a href="https://travis-ci.com/github/Teyvat-Moe/Teyvat.moe"><img src="https://api.travis-ci.com/Teyvat-Moe/Teyvat.moe.svg?branch=master" alt="TravisCI"/></a>
-<a href="https://beta.teyvat.moe"><img src="https://img.shields.io/netlify/e37c5eca-62e5-480d-922b-301ab8c4994a?label=beta%20build" alt="Netlify"/></a>
+
+## HELP IS NEEDED!
+### Currently We Have Not Found A Way To Implement V3.0 Map If You Can Implement it Please Fork The Repo Then Emplement The Map To All Branches Then Open a Pull Request! Thanks For Your Support!
+
+![GitHub branch checks state](https://img.shields.io/github/checks-status/xAstroDev/TeyvatBOT/master)
+<a href="https://xAstroDev.github.io/TeyvatBOT/"><img src="https://img.shields.io/badge/Build-Passing-brightgreen" alt="Build"/></a>
 <a href="https://github.com/Teyvat-Moe/Teyvat.moe/blob/master/LICENSE.md"><img src="https://img.shields.io/badge/license-GPLv3-green.svg" alt="Software License"/></a>
-<a href="https://discord.gg/dF6VTFr9jK"><img src="https://img.shields.io/discord/807068732567453726?label=discord&logo=discord&logoColor=738adb" alt="Discord Server"/></a>
-<a href="https://github.com/Teyvat-Moe/Teyvat.moe/wiki/Contributing"><img src="https://img.shields.io/badge/PRs-welcome-brightgreen.svg" alt="PRs Welcome"/></a>
-  <br/><br/>
-<b><a href="https://poeditor.com/projects/view?id=394831">Translation</a></b>
-  <br/>
-<a href="https://poeditor.com/join/project?hash=VNGpBHcrB0"><img src="https://img.shields.io/poeditor/progress/394831/zh-CN?token=1362c61f5ab09d3fb015f19e77e437f1" alt="POEditor - Chinese"/></a>
-<a href="https://poeditor.com/join/project?hash=VNGpBHcrB0"><img src="https://img.shields.io/poeditor/progress/394831/fr?token=1362c61f5ab09d3fb015f19e77e437f1" alt="POEditor - French"/></a>
-<a href="https://poeditor.com/join/project?hash=VNGpBHcrB0"><img src="https://img.shields.io/poeditor/progress/394831/de?token=1362c61f5ab09d3fb015f19e77e437f1" alt="POEditor - German"/></a>
-<a href="https://poeditor.com/join/project?hash=VNGpBHcrB0"><img src="https://img.shields.io/poeditor/progress/394831/id?token=1362c61f5ab09d3fb015f19e77e437f1" alt="POEditor - Indonesian"/></a>
-<a href="https://poeditor.com/join/project?hash=VNGpBHcrB0"><img src="https://img.shields.io/poeditor/progress/394831/ja?token=1362c61f5ab09d3fb015f19e77e437f1" alt="POEditor - Japanese"/></a>
-<a href="https://poeditor.com/join/project?hash=VNGpBHcrB0"><img src="https://img.shields.io/poeditor/progress/394831/ko?token=1362c61f5ab09d3fb015f19e77e437f1" alt="POEditor - Korean"/></a>
-<a href="https://poeditor.com/join/project?hash=VNGpBHcrB0"><img src="https://img.shields.io/poeditor/progress/394831/pt?token=1362c61f5ab09d3fb015f19e77e437f1" alt="POEditor - Portuguese"/></a>
-<a href="https://poeditor.com/join/project?hash=VNGpBHcrB0"><img src="https://img.shields.io/poeditor/progress/394831/ru?token=1362c61f5ab09d3fb015f19e77e437f1" alt="POEditor - Russian"/></a>
-<a href="https://poeditor.com/join/project?hash=VNGpBHcrB0"><img src="https://img.shields.io/poeditor/progress/394831/es?token=1362c61f5ab09d3fb015f19e77e437f1" alt="POEditor - Spanish"/></a>
-<a href="https://poeditor.com/join/project?hash=VNGpBHcrB0"><img src="https://img.shields.io/poeditor/progress/394831/th?token=1362c61f5ab09d3fb015f19e77e437f1" alt="POEditor - Thai"/></a>
-<a href="https://poeditor.com/join/project?hash=VNGpBHcrB0"><img src="https://img.shields.io/poeditor/progress/394831/vi?token=1362c61f5ab09d3fb015f19e77e437f1" alt="POEditor - Vietnamese"/></a>
+<a href="https://discord.gg/"><img src="https://img.shields.io/discord/807068732567453726?label=discord&logo=discord&logoColor=738adb" alt="Discord Server"/></a>
+<a href="https://github.com/xAstroDev/TeyvatBOT/wiki/Contributing"><img src="https://img.shields.io/badge/Contribution-Welcome-brightgreen" alt="Contribution Welcome"/></a>
+<a herf="https://github.com/xAstroDev/TeyvatBOT/pulls"><img src="https://img.shields.io/badge/PRs-Welcome-brightgreen" alt="PRs"/></a>
 
+  <br/><br/>
 </p>
 
 * * *
 
-## What is Teyvat.moe?
+## What is TeyvatBOT?
 
-Teyvat.moe is a free interactive web app for [Genshin Impact](https://genshin.mihoyo.com/), powered by NextJS, [LeafletJS](https://leafletjs.com/reference-1.7.1.html), and community contributions.
+TeyvatBOT is a free interactive web app for [Genshin Impact](https://genshin.mihoyo.com/), powered by NextJS, [LeafletJS](https://leafletjs.com/reference-1.7.1.html), and community contributions.
 
 The site includes a full, high-resolution in-game map, with options to display markers for the locations as well as routes to assist navigation between them. It includes features to mark items as completed (saving the data in local storage or on Google Drive), as well as a powerful and user-friendly editor to submit new marker collections and routes for the site.
 
 There are easy tools available to allow users to contribute their own markers or routes to the map. See [Contributing](https://github.com/Teyvat-Moe/teyvat.moe/wiki/Contributing) for more information.
 
-This project is open source. [Issues](https://github.com/Teyvat-Moe/teyvat.moe/issues) and [pull requests](https://github.com/Teyvat-Moe/teyvat.moe/pulls) are welcome and highly appreciated.
+This project is open source. [Issues](https://github.com/xAstroDev/TeyvatBOT/issues) and [pull requests](https://github.com/Teyvat-Moe/teyvat.moe/pulls) are welcome and highly appreciated.
 
-## Why Teyvat.moe?
+## Why TeyvatBOT?
 
 There are numerous other interactive maps available, but this map has the edge in the following ways:
 
